@@ -1,0 +1,12 @@
+meeting_id,company,ticker,cik,meeting_date,meeting_type,def14a_accession,filing_url,in_run
+GOOGL-2026-AM,Alphabet Inc.,GOOGL,,2026-06-05,annual,,,yes
+AAPL-2026-AM,Apple Inc.,AAPL,,2026-02-24,annual,,,yes
+BRK-2026-AM,Berkshire Hathaway Inc.,BRK,,2026-05-02,annual,,,yes
+BA-2026-AM,The Boeing Company,BA,,2026-04-17,annual,,,yes
+XOM-2026-AM,Exxon Mobil Corporation,XOM,,2026-05-27,annual,,,yes
+META-2026-AM,"Meta Platforms, Inc.",META,,2026-05-27,annual,,,yes
+MSFT-2025-AM,Microsoft Corporation,MSFT,,2025-12-05,annual,,,yes
+NKE-2026-AM,"NIKE, Inc. (an Oregon corporation) — quote: ""the 2026 Annual Meeting of Shareholders (the \""Annual Meeting\"") of NIKE, Inc., an Oregon corporation"" — section: Notice/invitation letter",NKE,,2026-09-08,annual,,,yes
+STX-2026-AM,Seagate Technology Holdings plc,STX,,2026-10-24,annual,,,yes
+TSLA-2025-AM,"Tesla, Inc.",TSLA,,2025-11-06,annual,,,yes
+UPS-2026-AM,"United Parcel Service, Inc.",UPS,,2026-05-07,annual,,,yes

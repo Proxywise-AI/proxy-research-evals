@@ -1,0 +1,9 @@
+{
+ "run_id": "R-2026-10-21-01",
+ "run_date": "2026-10-21",
+ "engine_version": "v0.7.159",
+ "model": "OpenAI gpt-6 family",
+ "answer_key_version": "v1.0",
+ "meetings_run": 23,
+ "key_holds_whole_ballot": false
+}

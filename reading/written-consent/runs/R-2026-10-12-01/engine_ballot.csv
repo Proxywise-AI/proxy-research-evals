@@ -1,0 +1,440 @@
+meeting_id,seq,number,title,type,shareholder_proposal
+BA-2026-AM,1,1a,Elect Robert A. Bradway,director_nomination,no
+BA-2026-AM,2,1b,Elect Mortimer “Tim” J. Buckley,director_nomination,no
+BA-2026-AM,3,1c,Elect Lynne M. Doughtie,director_nomination,no
+BA-2026-AM,4,1d,Elect David L. Gitlin,director_nomination,no
+BA-2026-AM,5,1e,Elect Lynn J. Good,director_nomination,no
+BA-2026-AM,6,1f,Elect Stayce D. Harris,director_nomination,no
+BA-2026-AM,7,1g,Elect Akhil Johri,director_nomination,no
+BA-2026-AM,8,1h,Elect David L. Joyce,director_nomination,no
+BA-2026-AM,9,1i,Elect Steven M. Mollenkopf,director_nomination,no
+BA-2026-AM,10,1j,Elect Robert Kelly Ortberg,director_nomination,no
+BA-2026-AM,11,1k,Elect John M. Richardson,director_nomination,no
+BA-2026-AM,12,1l,Elect Bradley D. Tilden,director_nomination,no
+BA-2026-AM,13,2,Approve Named Executive Officer Compensation,executive_compensation,no
+BA-2026-AM,14,3,Ratify Deloitte & Touche LLP as Independent Auditor for 2026,auditor_appointment,no
+BA-2026-AM,15,4,Board Committee on Disability Access,environmental_social,yes
+BA-2026-AM,16,5,Action by Written Consent,governance_changes,yes
+BBY-2025-AM,1,1,Election of Corie S. Barry,director_nomination,no
+BBY-2025-AM,2,2,Election of Lisa M. Caputo,director_nomination,no
+BBY-2025-AM,3,3,Election of David W. Kenny,director_nomination,no
+BBY-2025-AM,4,4,Election of David C. Kimbell,director_nomination,no
+BBY-2025-AM,5,5,Election of Mario J. Marte,director_nomination,no
+BBY-2025-AM,6,6,Election of Karen A. McLoughlin,director_nomination,no
+BBY-2025-AM,7,7,Election of Claudia F. Munce,director_nomination,no
+BBY-2025-AM,8,8,Election of Richelle P. Parham,director_nomination,no
+BBY-2025-AM,9,9,Election of Steven E. Rendle,director_nomination,no
+BBY-2025-AM,10,10,Election of Sima D. Sistani,director_nomination,no
+BBY-2025-AM,11,11,Election of Melinda D. Whittington,director_nomination,no
+BBY-2025-AM,12,12,Ratification of Deloitte & Touche LLP for Fiscal 2026,auditor_appointment,no
+BBY-2025-AM,13,13,Advisory Approval of Named Executive Officer Compensation,executive_compensation,no
+BBY-2025-AM,14,14,Approval of Amendment No. 1 to the 2020 Omnibus Incentive Plan,executive_compensation,no
+BBY-2025-AM,15,15,Shareholder Right to Act by Written Consent,governance_changes,yes
+BBY-2025-AM,16,16,Cease Corporate Equality Index Participation,environmental_social,yes
+BBY-2025-AM,17,17,Report on LGBTQIA+ Inclusion Efforts in Human Capital Management,environmental_social,yes
+BBY-2025-AM,18,18,Publish Climate Transition Plan to Achieve Stated Goals,environmental_social,yes
+BWA-2026-AM,1,1,Joseph F. Fadool,director_nomination,no
+BWA-2026-AM,2,1,Sara A. Greenstein,director_nomination,no
+BWA-2026-AM,3,1,Michael S. Hanley,director_nomination,no
+BWA-2026-AM,4,1,Shaun E. McAlmont,director_nomination,no
+BWA-2026-AM,5,1,Deborah D. McWhinney,director_nomination,no
+BWA-2026-AM,6,1,Alexis P. Michas,director_nomination,no
+BWA-2026-AM,7,1,Sailaja K. Shankar,director_nomination,no
+BWA-2026-AM,8,1,Hau N. Thai-Tang,director_nomination,no
+BWA-2026-AM,9,2,Advisory Vote on Named Executive Officer Compensation,executive_compensation,no
+BWA-2026-AM,10,3,Ratification of PricewaterhouseCoopers LLP as Independent Auditor,auditor_appointment,no
+BWA-2026-AM,11,4,Amended and Restated BorgWarner Inc. 2023 Stock Incentive Plan,executive_compensation,no
+BWA-2026-AM,12,5,Shareholder Right to Act by Written Consent,governance_changes,yes
+CDW-2025-AM,1,1,Election of Virginia C. Addicott,director_nomination,no
+CDW-2025-AM,2,2,Election of James A. Bell,director_nomination,no
+CDW-2025-AM,3,3,Election of Lynda M. Clarizio,director_nomination,no
+CDW-2025-AM,4,4,Election of Anthony R. Foxx,director_nomination,no
+CDW-2025-AM,5,5,Election of Kelly J. Grier,director_nomination,no
+CDW-2025-AM,6,6,Election of Marc E. Jones,director_nomination,no
+CDW-2025-AM,7,7,Election of Christine A. Leahy,director_nomination,no
+CDW-2025-AM,8,8,Election of Sanjay Mehrotra,director_nomination,no
+CDW-2025-AM,9,9,Election of David W. Nelms,director_nomination,no
+CDW-2025-AM,10,10,Election of Joseph R. Swedish,director_nomination,no
+CDW-2025-AM,11,11,Election of Donna F. Zarcone,director_nomination,no
+CDW-2025-AM,12,12,Advisory Approval of Named Executive Officer Compensation,executive_compensation,no
+CDW-2025-AM,13,13,Ratification of Ernst & Young LLP as Independent Auditor for 2025,auditor_appointment,no
+CDW-2025-AM,14,14,Stockholder Right to Act by Written Consent,governance_changes,yes
+CDW-2026-AM,1,1,Virginia C. Addicott,director_nomination,no
+CDW-2026-AM,2,2,James A. Bell,director_nomination,no
+CDW-2026-AM,3,3,Lynda M. Clarizio,director_nomination,no
+CDW-2026-AM,4,4,Anthony R. Foxx,director_nomination,no
+CDW-2026-AM,5,5,Kelly J. Grier,director_nomination,no
+CDW-2026-AM,6,6,Marc E. Jones,director_nomination,no
+CDW-2026-AM,7,7,Christine A. Leahy,director_nomination,no
+CDW-2026-AM,8,8,David W. Nelms,director_nomination,no
+CDW-2026-AM,9,9,Joseph R. Swedish,director_nomination,no
+CDW-2026-AM,10,10,Named Executive Officer Compensation,executive_compensation,no
+CDW-2026-AM,11,11,Ernst & Young LLP as Independent Auditor,auditor_appointment,no
+CDW-2026-AM,12,12,Stockholder Action by Written Consent,governance_changes,no
+CDW-2026-AM,13,13,Independent Board Chair Requirements,governance_changes,yes
+CMS-2026-AM,1,1,Deborah H. Butler,director_nomination,no
+CMS-2026-AM,2,1,Ralph Izzo,director_nomination,no
+CMS-2026-AM,3,1,Richard P. Keyes,director_nomination,no
+CMS-2026-AM,4,1,Diane Leopold,director_nomination,no
+CMS-2026-AM,5,1,Garrick J. Rochow,director_nomination,no
+CMS-2026-AM,6,1,John G. Russell,director_nomination,no
+CMS-2026-AM,7,1,Suzanne F. Shank,director_nomination,no
+CMS-2026-AM,8,1,Myrna M. Soto,director_nomination,no
+CMS-2026-AM,9,1,John G. Sznewajs,director_nomination,no
+CMS-2026-AM,10,1,Ronald J. Tanski,director_nomination,no
+CMS-2026-AM,11,1,Laura H. Wright,director_nomination,no
+CMS-2026-AM,12,2,Advisory Approval of Executive Compensation,executive_compensation,no
+CMS-2026-AM,13,3,Ratification of PwC as Independent Auditor,auditor_appointment,no
+CMS-2026-AM,14,4,Increase Authorized Common Shares to 700 Million,governance_changes,no
+CMS-2026-AM,15,5,Shareholder Right to Call a Special Meeting,governance_changes,no
+CMS-2026-AM,16,6,Shareholder Right to Act by Written Consent,governance_changes,yes
+CVS-2026-AM,1,1a,Elect Fernando Aguirre,director_nomination,no
+CVS-2026-AM,2,1b,"Elect Jeffrey R. Balser, M.D., Ph.D.",director_nomination,no
+CVS-2026-AM,3,1c,Elect C. David Brown II,director_nomination,no
+CVS-2026-AM,4,1d,Elect Alecia A. DeCoudreaux,director_nomination,no
+CVS-2026-AM,5,1e,Elect Anne M. Finucane,director_nomination,no
+CVS-2026-AM,6,1f,Elect John E. Gallina,director_nomination,no
+CVS-2026-AM,7,1g,Elect J. David Joyner,director_nomination,no
+CVS-2026-AM,8,1h,Elect J. Scott Kirby,director_nomination,no
+CVS-2026-AM,9,1i,Elect Michael F. Mahoney,director_nomination,no
+CVS-2026-AM,10,1j,Elect Leslie V. Norwalk,director_nomination,no
+CVS-2026-AM,11,1k,Elect Larry M. Robbins,director_nomination,no
+CVS-2026-AM,12,1l,Elect Guy P. Sansone,director_nomination,no
+CVS-2026-AM,13,1m,Elect Douglas H. Shulman,director_nomination,no
+CVS-2026-AM,14,2,Ratify independent registered public accounting firm for 2026,auditor_appointment,no
+CVS-2026-AM,15,3,Approve executive compensation,executive_compensation,no
+CVS-2026-AM,16,4,Approve 2026 incentive compensation plan,executive_compensation,no
+CVS-2026-AM,17,5,Reduce threshold for stockholder right to act by written consent,governance_changes,yes
+DAL-2026-AM,1,1a,Edward H. Bastian,director_nomination,no
+DAL-2026-AM,2,1b,Christophe Beck,director_nomination,no
+DAL-2026-AM,3,1c,Maria Black,director_nomination,no
+DAL-2026-AM,4,1d,Willie CW Chiang,director_nomination,no
+DAL-2026-AM,5,1e,Greg Creed,director_nomination,no
+DAL-2026-AM,6,1f,David G. DeWalt,director_nomination,no
+DAL-2026-AM,7,1g,Leslie D. Hale,director_nomination,no
+DAL-2026-AM,8,1h,Christopher A. Hazleton,director_nomination,no
+DAL-2026-AM,9,1i,Michael P. Huerta,director_nomination,no
+DAL-2026-AM,10,1j,Judith J. McKenna,director_nomination,no
+DAL-2026-AM,11,1k,Vasant M. Prabhu,director_nomination,no
+DAL-2026-AM,12,1l,Sergio A. L. Rial,director_nomination,no
+DAL-2026-AM,13,1m,David S. Taylor,director_nomination,no
+DAL-2026-AM,14,1n,Kathy N. Waller,director_nomination,no
+DAL-2026-AM,15,2,Advisory Vote on Executive Compensation,executive_compensation,no
+DAL-2026-AM,16,3,Ratification of Ernst & Young LLP as Independent Auditors for 2026,auditor_appointment,no
+DAL-2026-AM,17,4,Shareholder Right to Act by Written Consent,governance_changes,yes
+DAL-2026-AM,18,5,Cumulative Voting for the Election of Directors,governance_changes,yes
+DLTR-2026-AM,1,1a,"Michael C. Creedon, Jr.",director_nomination,no
+DLTR-2026-AM,2,1b,William W. Douglas III,director_nomination,no
+DLTR-2026-AM,3,1c,Cheryl W. Grisé,director_nomination,no
+DLTR-2026-AM,4,1d,Daniel J. Heinrich,director_nomination,no
+DLTR-2026-AM,5,1e,Paul C. Hilal,director_nomination,no
+DLTR-2026-AM,6,1f,Timothy A. Johnson,director_nomination,no
+DLTR-2026-AM,7,1g,"Edward J. Kelly, III",director_nomination,no
+DLTR-2026-AM,8,1h,Diane E. Randolph,director_nomination,no
+DLTR-2026-AM,9,1i,Bertram L. Scott,director_nomination,no
+DLTR-2026-AM,10,1j,Stephanie P. Stahl,director_nomination,no
+DLTR-2026-AM,11,2,Named Executive Officer Compensation,executive_compensation,no
+DLTR-2026-AM,12,3,KPMG LLP Auditor Ratification,auditor_appointment,no
+DLTR-2026-AM,13,4,Shareholder Right to Act by Written Consent,governance_changes,yes
+FDS-2025-AM,1,1,Elect Robin A. Abrams,director_nomination,no
+FDS-2025-AM,2,1,Elect Siew Kai Choy,director_nomination,no
+FDS-2025-AM,3,1,Elect Barak Eilam,director_nomination,no
+FDS-2025-AM,4,1,Elect Malcolm Frank,director_nomination,no
+FDS-2025-AM,5,1,Elect Laurie G. Hylton,director_nomination,no
+FDS-2025-AM,6,1,Elect Lee Shavel,director_nomination,no
+FDS-2025-AM,7,1,Elect Laurie Siegel,director_nomination,no
+FDS-2025-AM,8,1,Elect Maria Teresa Tejada,director_nomination,no
+FDS-2025-AM,9,1,Elect Sanoke Viswanathan,director_nomination,no
+FDS-2025-AM,10,1,Elect Elisha Wiesel,director_nomination,no
+FDS-2025-AM,11,2,Ratify Ernst & Young LLP as Independent Auditor,auditor_appointment,no
+FDS-2025-AM,12,3,Advisory Vote on Executive Compensation,executive_compensation,no
+FDS-2025-AM,13,4,Approve 2025 Employee Stock Purchase Plan,executive_compensation,no
+FDS-2025-AM,14,5,Approve 2025 Omnibus Incentive Plan,executive_compensation,no
+FDS-2025-AM,15,6,Approve Written Consent Voting Amendment,governance_changes,no
+GE-2026-AM,1,1,Sébastien Bazin,director_nomination,no
+GE-2026-AM,2,1,Margaret Billson,director_nomination,no
+GE-2026-AM,3,1,Wesley Bush,director_nomination,no
+GE-2026-AM,4,1,H. Lawrence Culp,director_nomination,no
+GE-2026-AM,5,1,Thomas Enders,director_nomination,no
+GE-2026-AM,6,1,Isabella Goren,director_nomination,no
+GE-2026-AM,7,1,Thomas Horton,director_nomination,no
+GE-2026-AM,8,1,Catherine Lesjak,director_nomination,no
+GE-2026-AM,9,1,Darren McDew,director_nomination,no
+GE-2026-AM,10,2,Named Executive Compensation,executive_compensation,no
+GE-2026-AM,11,3,2022 Long-Term Incentive Plan Amendment and Restatement,executive_compensation,no
+GE-2026-AM,12,4,GE Aerospace Global Employee Stock Purchase Plan,executive_compensation,no
+GE-2026-AM,13,5,Deloitte as Independent Auditor for 2026,auditor_appointment,no
+GE-2026-AM,14,6,Right to Act by Written Consent,governance_changes,yes
+GE-2026-AM,15,7,Report on Defense-Related Products,environmental_social,yes
+GOOGL-2025-AM,1,1a,Larry Page,director_nomination,no
+GOOGL-2025-AM,2,1b,Sergey Brin,director_nomination,no
+GOOGL-2025-AM,3,1c,Sundar Pichai,director_nomination,no
+GOOGL-2025-AM,4,1d,John L. Hennessy,director_nomination,no
+GOOGL-2025-AM,5,1e,Frances H. Arnold,director_nomination,no
+GOOGL-2025-AM,6,1f,R. Martin “Marty” Chávez,director_nomination,no
+GOOGL-2025-AM,7,1g,L. John Doerr,director_nomination,no
+GOOGL-2025-AM,8,1h,Roger W. Ferguson Jr.,director_nomination,no
+GOOGL-2025-AM,9,1i,K. Ram Shriram,director_nomination,no
+GOOGL-2025-AM,10,1j,Robin L. Washington,director_nomination,no
+GOOGL-2025-AM,11,2,Ratification of Ernst & Young LLP,auditor_appointment,no
+GOOGL-2025-AM,12,3,Support for Shareholder Right to Act by Written Consent,governance_changes,yes
+GOOGL-2025-AM,13,4,Financial Performance Policy,executive_compensation,yes
+GOOGL-2025-AM,14,5,Report on Charitable Partnerships,environmental_social,yes
+GOOGL-2025-AM,15,6,Request to Cease CEI Participation,environmental_social,yes
+GOOGL-2025-AM,16,7,Enhanced Disclosure on Climate Goals,environmental_social,yes
+GOOGL-2025-AM,17,8,Equal Shareholder Voting,governance_changes,yes
+GOOGL-2025-AM,18,9,Report on Due Diligence Process to Assess Human Rights Risks in CAHRA,environmental_social,yes
+GOOGL-2025-AM,19,10,Report on Risks of Discrimination in GenAI,environmental_social,yes
+GOOGL-2025-AM,20,11,Report on AI Data Usage Oversight,environmental_social,yes
+GOOGL-2025-AM,21,12,Human Rights Impact Assessment of AI-Driven Targeted Ad Policies,environmental_social,yes
+GOOGL-2025-AM,22,13,Report on Alignment of Lobbying Activities with Child Safety Policies,environmental_social,yes
+GOOGL-2025-AM,23,14,Report on Online Safety for Children,environmental_social,yes
+HON-2026-AM,1,1a,Elect Vimal Kapur,director_nomination,no
+HON-2026-AM,2,1b,Elect Duncan B. Angove,director_nomination,no
+HON-2026-AM,3,1c,Elect Craig Arnold,director_nomination,no
+HON-2026-AM,4,1d,Elect William S. Ayer,director_nomination,no
+HON-2026-AM,5,1e,Elect D. Scott Davis,director_nomination,no
+HON-2026-AM,6,1f,Elect Deborah Flint,director_nomination,no
+HON-2026-AM,7,1g,Elect Michael W. Lamach,director_nomination,no
+HON-2026-AM,8,1h,Elect Grace Lieblein,director_nomination,no
+HON-2026-AM,9,1i,Elect Indra K. Nooyi,director_nomination,no
+HON-2026-AM,10,1j,Elect Marc Steinberg,director_nomination,no
+HON-2026-AM,11,1k,Elect Robin Watson,director_nomination,no
+HON-2026-AM,12,1l,Elect Stephen Williamson,director_nomination,no
+HON-2026-AM,13,2,Approve executive compensation,executive_compensation,no
+HON-2026-AM,14,3,Approve Deloitte & Touche LLP as independent accountants,auditor_appointment,no
+HON-2026-AM,15,4,Approve reverse stock split proposal,governance_changes,no
+HON-2026-AM,16,5,Shareholder right to act by written consent,governance_changes,yes
+IBM-2024-AM,1,1,Election of Marianne C. Brown,director_nomination,no
+IBM-2024-AM,2,2,Election of Thomas Buberl,director_nomination,no
+IBM-2024-AM,3,3,Election of David N. Farr,director_nomination,no
+IBM-2024-AM,4,4,Election of Alex Gorsky,director_nomination,no
+IBM-2024-AM,5,5,Election of Michelle J. Howard,director_nomination,no
+IBM-2024-AM,6,6,Election of Arvind Krishna,director_nomination,no
+IBM-2024-AM,7,7,Election of Andrew N. Liveris,director_nomination,no
+IBM-2024-AM,8,8,Election of F. William McNabb III,director_nomination,no
+IBM-2024-AM,9,9,Election of Michael Miebach,director_nomination,no
+IBM-2024-AM,10,10,Election of Martha E. Pollack,director_nomination,no
+IBM-2024-AM,11,11,Election of Peter R. Voser,director_nomination,no
+IBM-2024-AM,12,12,Election of Frederick H. Waddell,director_nomination,no
+IBM-2024-AM,13,13,Election of Alfred W. Zollar,director_nomination,no
+IBM-2024-AM,14,14,Ratification of PricewaterhouseCoopers LLP as Independent Auditor,auditor_appointment,no
+IBM-2024-AM,15,15,Advisory Vote on Executive Compensation,executive_compensation,no
+IBM-2024-AM,16,16,Public Report on Lobbying Activities,environmental_social,yes
+IBM-2024-AM,17,17,Public Report on Congruency in China Business Operations and ESG Activities,environmental_social,yes
+IBM-2024-AM,18,18,Stockholder Right to Act by Written Consent,governance_changes,yes
+IBM-2024-AM,19,19,Public Report on Climate Lobbying,environmental_social,yes
+IBM-2024-AM,20,20,Adoption of Greenhouse Gas Emissions Targets,environmental_social,yes
+IBM-2026-AM,1,1,Elect Marianne C. Brown,director_nomination,no
+IBM-2026-AM,2,1,Elect Thomas Buberl,director_nomination,no
+IBM-2026-AM,3,1,Elect David N. Farr,director_nomination,no
+IBM-2026-AM,4,1,Elect Alex Gorsky,director_nomination,no
+IBM-2026-AM,5,1,Elect Michelle J. Howard,director_nomination,no
+IBM-2026-AM,6,1,Elect Arvind Krishna,director_nomination,no
+IBM-2026-AM,7,1,Elect Ramon Laguarta,director_nomination,no
+IBM-2026-AM,8,1,Elect Andrew N. Liveris,director_nomination,no
+IBM-2026-AM,9,1,Elect Frederick William McNabb III,director_nomination,no
+IBM-2026-AM,10,1,Elect Michael Miebach,director_nomination,no
+IBM-2026-AM,11,1,Elect Martha E. Pollack,director_nomination,no
+IBM-2026-AM,12,1,Elect Peter R. Voser,director_nomination,no
+IBM-2026-AM,13,1,Elect Alfred W. Zollar,director_nomination,no
+IBM-2026-AM,14,2,Ratify PricewaterhouseCoopers,auditor_appointment,no
+IBM-2026-AM,15,3,Advisory Vote on Executive Compensation,executive_compensation,no
+IBM-2026-AM,16,4,Approve 2026 Long-Term Performance Plan,executive_compensation,no
+IBM-2026-AM,17,5,Change Outside Director Stock Ownership Guidelines,governance_changes,yes
+IBM-2026-AM,18,6,Shareholder Right to Act by Written Consent,governance_changes,yes
+IBM-2026-AM,19,7,AI Bias Audit,environmental_social,yes
+IBM-2026-AM,20,8,Report on Discrimination in Charitable Support,environmental_social,yes
+MA-2025-AM,1,1,Elect Merit E. Janow,director_nomination,no
+MA-2025-AM,2,2,Elect Michael Miebach,director_nomination,no
+MA-2025-AM,3,3,Elect Candido Bracher,director_nomination,no
+MA-2025-AM,4,4,Elect Youngme Moon,director_nomination,no
+MA-2025-AM,5,5,Elect Richard K. Davis,director_nomination,no
+MA-2025-AM,6,6,Elect Rima Qureshi,director_nomination,no
+MA-2025-AM,7,7,Elect Julius Genachowski,director_nomination,no
+MA-2025-AM,8,8,Elect Gabrielle Sulzberger,director_nomination,no
+MA-2025-AM,9,9,Elect Choon Phong Goh,director_nomination,no
+MA-2025-AM,10,10,Elect Harit Talwar,director_nomination,no
+MA-2025-AM,11,11,Elect Oki Matsumoto,director_nomination,no
+MA-2025-AM,12,12,Elect Lance Uggla,director_nomination,no
+MA-2025-AM,13,13,Advisory approval of Mastercard’s executive compensation,executive_compensation,no
+MA-2025-AM,14,14,Ratification of PricewaterhouseCoopers LLP as independent registered public accounting firm for 2025,auditor_appointment,no
+MA-2025-AM,15,15,Approve amendment to limit liability of officers as permitted by Delaware law,governance_changes,no
+MA-2025-AM,16,16,Approve amendment to remove the Industry Director concept,governance_changes,no
+MA-2025-AM,17,17,Approve amendment to implement other miscellaneous changes,governance_changes,no
+MA-2025-AM,18,18,Consider stockholder proposal requesting a racial equity audit report,environmental_social,yes
+MA-2025-AM,19,19,Consider stockholder proposal requesting a report on affirmative action risks,environmental_social,yes
+MA-2026-AM,1,1,Candido Bracher,director_nomination,no
+MA-2026-AM,2,2,Richard K. Davis,director_nomination,no
+MA-2026-AM,3,3,Julius Genachowski,director_nomination,no
+MA-2026-AM,4,4,Choon Phong Goh,director_nomination,no
+MA-2026-AM,5,5,Merit E. Janow,director_nomination,no
+MA-2026-AM,6,6,Oki Matsumoto,director_nomination,no
+MA-2026-AM,7,7,Michael Miebach,director_nomination,no
+MA-2026-AM,8,8,Youngme Moon,director_nomination,no
+MA-2026-AM,9,9,Gabrielle Sulzberger,director_nomination,no
+MA-2026-AM,10,10,Harit Talwar,director_nomination,no
+MA-2026-AM,11,11,Lance Uggla,director_nomination,no
+MA-2026-AM,12,12,Advisory approval of Mastercard’s executive compensation,executive_compensation,no
+MA-2026-AM,13,13,Ratification of PricewaterhouseCoopers LLP as independent registered public accounting firm for 2026,auditor_appointment,no
+MA-2026-AM,14,14,Shareholder right to act by written consent,governance_changes,yes
+MA-2026-AM,15,15,Adopt cumulative voting for directors,governance_changes,yes
+MCD-2026-AM,1,1a,Anthony Capuano,director_nomination,no
+MCD-2026-AM,2,1b,Kareem Daniel,director_nomination,no
+MCD-2026-AM,3,1c,Lloyd Dean,director_nomination,no
+MCD-2026-AM,4,1d,Catherine Engelbert,director_nomination,no
+MCD-2026-AM,5,1e,James Farley,director_nomination,no
+MCD-2026-AM,6,1f,Margaret Georgiadis,director_nomination,no
+MCD-2026-AM,7,1g,Michael Hsu,director_nomination,no
+MCD-2026-AM,8,1h,Christopher Kempczinski,director_nomination,no
+MCD-2026-AM,9,1i,Jennifer Taubert,director_nomination,no
+MCD-2026-AM,10,1j,Paul Walsh,director_nomination,no
+MCD-2026-AM,11,1k,Amy Weaver,director_nomination,no
+MCD-2026-AM,12,1l,Miles White,director_nomination,no
+MCD-2026-AM,13,2,Approve Executive Compensation,executive_compensation,no
+MCD-2026-AM,14,3,Ratify Ernst & Young LLP as Independent Auditor,auditor_appointment,no
+MCD-2026-AM,15,4,Independent Chair Policy,governance_changes,yes
+MCD-2026-AM,16,5,Shareholders’ Right to Act by Written Consent,governance_changes,yes
+MRK-2024-AM,1,1,Elect Douglas M. Baker,director_nomination,no
+MRK-2024-AM,2,2,Elect Mary Ellen Coe,director_nomination,no
+MRK-2024-AM,3,3,Elect Pamela J. Craig,director_nomination,no
+MRK-2024-AM,4,4,Elect Robert M. Davis,director_nomination,no
+MRK-2024-AM,5,5,Elect Thomas H. Glocer,director_nomination,no
+MRK-2024-AM,6,6,Elect Risa J. Lavizzo-Mourey,director_nomination,no
+MRK-2024-AM,7,7,Elect Stephen L. Mayo,director_nomination,no
+MRK-2024-AM,8,8,Elect Paul B. Rothman,director_nomination,no
+MRK-2024-AM,9,9,Elect Patricia F. Russo,director_nomination,no
+MRK-2024-AM,10,10,Elect Christine E. Seidman,director_nomination,no
+MRK-2024-AM,11,11,Elect Inge G. Thulin,director_nomination,no
+MRK-2024-AM,12,12,Elect Kathy J. Warden,director_nomination,no
+MRK-2024-AM,13,13,Advisory Approval of Named Executive Officer Compensation,executive_compensation,no
+MRK-2024-AM,14,14,Ratify PricewaterhouseCoopers LLP as Independent Auditor for 2024,auditor_appointment,no
+MRK-2024-AM,15,15,Shareholder Right to Act by Written Consent,governance_changes,yes
+MRK-2024-AM,16,16,Government Censorship Transparency Report,environmental_social,yes
+MRK-2024-AM,17,17,Report on Respecting Workforce Civil Liberties,environmental_social,yes
+NFLX-2025-AM,1,1a,Richard Barton,director_nomination,no
+NFLX-2025-AM,2,1b,Mathias Döpfner,director_nomination,no
+NFLX-2025-AM,3,1c,Reed Hastings,director_nomination,no
+NFLX-2025-AM,4,1d,Jay Hoag,director_nomination,no
+NFLX-2025-AM,5,1e,Leslie Kilgore,director_nomination,no
+NFLX-2025-AM,6,1f,Strive Masiyiwa,director_nomination,no
+NFLX-2025-AM,7,1g,Ann Mather,director_nomination,no
+NFLX-2025-AM,8,1h,Greg Peters,director_nomination,no
+NFLX-2025-AM,9,1i,Ambassador Susan Rice,director_nomination,no
+NFLX-2025-AM,10,1j,Ted Sarandos,director_nomination,no
+NFLX-2025-AM,11,1k,Brad Smith,director_nomination,no
+NFLX-2025-AM,12,1l,Anne Sweeney,director_nomination,no
+NFLX-2025-AM,13,2,Ratification of Ernst & Young LLP,auditor_appointment,no
+NFLX-2025-AM,14,3,Named Executive Officer Compensation,executive_compensation,no
+NFLX-2025-AM,15,4,Climate Transition Plan,environmental_social,yes
+NFLX-2025-AM,16,5,15% Special Meeting Right,governance_changes,yes
+NFLX-2025-AM,17,6,"Code of Ethics: Non-Discrimination, Anti-Harassment and Whistleblower Protection",environmental_social,yes
+NFLX-2025-AM,18,7,Affirmative Action Risks,environmental_social,yes
+NFLX-2025-AM,19,8,Charitable Giving Report,environmental_social,yes
+NFLX-2026-AM,1,1a,Elect Richard Barton,director_nomination,no
+NFLX-2026-AM,2,1b,Elect Mathias Döpfner,director_nomination,no
+NFLX-2026-AM,3,1c,Elect Jay Hoag,director_nomination,no
+NFLX-2026-AM,4,1d,Elect Leslie Kilgore,director_nomination,no
+NFLX-2026-AM,5,1e,Elect Strive Masiyiwa,director_nomination,no
+NFLX-2026-AM,6,1f,Elect Ann Mather,director_nomination,no
+NFLX-2026-AM,7,1g,Elect Elinor Mertz,director_nomination,no
+NFLX-2026-AM,8,1h,Elect Greg Peters,director_nomination,no
+NFLX-2026-AM,9,1i,Elect Ambassador Susan Rice,director_nomination,no
+NFLX-2026-AM,10,1j,Elect Ted Sarandos,director_nomination,no
+NFLX-2026-AM,11,1k,Elect Brad Smith,director_nomination,no
+NFLX-2026-AM,12,1l,Elect Anne Sweeney,director_nomination,no
+NFLX-2026-AM,13,2,Ratify appointment of independent registered public accounting firm,auditor_appointment,no
+NFLX-2026-AM,14,3,Approve named executive officer compensation,executive_compensation,no
+NFLX-2026-AM,15,4,Shareholder Right to Act by Written Consent,governance_changes,yes
+NFLX-2026-AM,16,5,ESG ROI Report,environmental_social,yes
+NFLX-2026-AM,17,6,Report on Politicized Brand Misalignment,environmental_social,yes
+NFLX-2026-AM,18,7,Adopt Cumulative Voting,governance_changes,yes
+T-2026-AM,1,1a,Elect Kelly J. Grier,director_nomination,no
+T-2026-AM,2,1b,Elect William E. Kennard,director_nomination,no
+T-2026-AM,3,1c,Elect Stephen J. Luczo,director_nomination,no
+T-2026-AM,4,1d,Elect Marissa A. Mayer,director_nomination,no
+T-2026-AM,5,1e,Elect Michael B. McCallister,director_nomination,no
+T-2026-AM,6,1f,Elect Beth E. Mooney,director_nomination,no
+T-2026-AM,7,1g,Elect Matthew K. Rose,director_nomination,no
+T-2026-AM,8,1h,Elect John T. Stankey,director_nomination,no
+T-2026-AM,9,1i,Elect Cynthia B. Taylor,director_nomination,no
+T-2026-AM,10,1j,Elect Luis A. Ubiñas,director_nomination,no
+T-2026-AM,11,2,Ratify Ernst & Young LLP as independent auditors,auditor_appointment,no
+T-2026-AM,12,3,Approve executive compensation,executive_compensation,no
+T-2026-AM,13,4,Approve officer exculpation amendment,governance_changes,no
+T-2026-AM,14,5,Approve 2026 Incentive Plan,executive_compensation,no
+T-2026-AM,15,6,Approve Stock Purchase and Deferral Plan,executive_compensation,no
+T-2026-AM,16,7,Right to act by written consent,governance_changes,no
+T-2026-AM,17,8,EEO-1 report disclosure policy,environmental_social,no
+URI-2025-AM,1,1,Elect Julie M. Heuer Brandt,director_nomination,no
+URI-2025-AM,2,2,Elect Marc A. Bruno,director_nomination,no
+URI-2025-AM,3,3,Elect Larry D. De Shon,director_nomination,no
+URI-2025-AM,4,4,Elect Matthew J. Flannery,director_nomination,no
+URI-2025-AM,5,5,Elect Kim Harris Jones,director_nomination,no
+URI-2025-AM,6,6,Elect Terri L. Kelly,director_nomination,no
+URI-2025-AM,7,7,Elect Michael J. Kneeland,director_nomination,no
+URI-2025-AM,8,8,Elect Francisco J. Lopez-Balboa,director_nomination,no
+URI-2025-AM,9,9,Elect Gracia C. Martore,director_nomination,no
+URI-2025-AM,10,10,Elect Shiv Singh,director_nomination,no
+URI-2025-AM,11,11,Ratify Ernst & Young LLP as Independent Auditor for 2025,auditor_appointment,no
+URI-2025-AM,12,12,Advisory Approval of Executive Compensation,executive_compensation,no
+URI-2025-AM,13,13,Improve Shareholder Written Consent,governance_changes,yes
+V-2026-AM,1,1,Lloyd A. Carney,director_nomination,no
+V-2026-AM,2,1,Kermit R. Crawford,director_nomination,no
+V-2026-AM,3,1,Francisco Javier Fernández-Carbajal,director_nomination,no
+V-2026-AM,4,1,Teri L. List,director_nomination,no
+V-2026-AM,5,1,John F. Lundgren,director_nomination,no
+V-2026-AM,6,1,Ryan McInerney,director_nomination,no
+V-2026-AM,7,1,Denise M. Morrison,director_nomination,no
+V-2026-AM,8,1,Pamela Murphy,director_nomination,no
+V-2026-AM,9,1,William Ready,director_nomination,no
+V-2026-AM,10,1,Linda J. Rendle,director_nomination,no
+V-2026-AM,11,1,Maynard G. Webb,director_nomination,no
+V-2026-AM,12,2,Named Executive Officer Compensation,executive_compensation,no
+V-2026-AM,13,3,Ratification of KPMG LLP,auditor_appointment,no
+V-2026-AM,14,4,Officer Liability Certificate Amendments,governance_changes,no
+V-2026-AM,15,5,Independent Board Chair Policy,governance_changes,yes
+V-2026-AM,16,6,Shareholder Right to Act by Written Consent,governance_changes,yes
+V-2026-AM,17,7,Report on Online Sexual Exploitation,environmental_social,yes
+V-2026-AM,18,8,Inclusion ROI Audit,environmental_social,yes
+VRSK-2026-AM,1,1,Jeffrey Dailey,director_nomination,no
+VRSK-2026-AM,2,1,Bruce Hansen,director_nomination,no
+VRSK-2026-AM,3,1,Gregory Hendrick,director_nomination,no
+VRSK-2026-AM,4,1,Samuel G. Liss,director_nomination,no
+VRSK-2026-AM,5,1,Pradip K. Patiath,director_nomination,no
+VRSK-2026-AM,6,1,Christopher J. Perry,director_nomination,no
+VRSK-2026-AM,7,1,Sabra R. Purtill,director_nomination,no
+VRSK-2026-AM,8,1,Lee M. Shavel,director_nomination,no
+VRSK-2026-AM,9,1,Olumide Soroye,director_nomination,no
+VRSK-2026-AM,10,1,Kimberly S. Stevenson,director_nomination,no
+VRSK-2026-AM,11,1,Therese M. Vaughan,director_nomination,no
+VRSK-2026-AM,12,2,Named Executive Officer Compensation,executive_compensation,no
+VRSK-2026-AM,13,3,Deloitte & Touche LLP as Independent Auditor,auditor_appointment,no
+VRSK-2026-AM,14,4,Shareholder Right to Act by Written Consent,governance_changes,yes
+VRSN-2025-AM,1,1,Elect D. James Bidzos,director_nomination,no
+VRSN-2025-AM,2,2,Elect Courtney D. Armstrong,director_nomination,no
+VRSN-2025-AM,3,3,Elect Yehuda Ari Buchalter,director_nomination,no
+VRSN-2025-AM,4,4,Elect Kathleen A. Cote,director_nomination,no
+VRSN-2025-AM,5,5,Elect Thomas F. Frist III,director_nomination,no
+VRSN-2025-AM,6,6,Elect Jamie S. Gorelick,director_nomination,no
+VRSN-2025-AM,7,7,Elect Debra W. McCann,director_nomination,no
+VRSN-2025-AM,8,8,Elect Timothy Tomlinson,director_nomination,no
+VRSN-2025-AM,9,9,Advisory Vote to Approve Executive Compensation,executive_compensation,no
+VRSN-2025-AM,10,10,Ratify KPMG LLP as Independent Registered Public Accounting Firm for 2025,auditor_appointment,no
+VRSN-2025-AM,11,11,Amend the Restated Certificate of Incorporation to Limit Certain Officers' Liability,governance_changes,no
+VRSN-2025-AM,12,12,Permit Stockholder Action by Written Consent,governance_changes,yes
+ZTS-2025-AM,1,1,Elect Paul M. Bisaro,director_nomination,no
+ZTS-2025-AM,2,1,Elect Vanessa Broadhurst,director_nomination,no
+ZTS-2025-AM,3,1,Elect Frank A. D’Amelio,director_nomination,no
+ZTS-2025-AM,4,1,Elect Gavin D.K. Hattersley,director_nomination,no
+ZTS-2025-AM,5,1,Elect Sanjay Khosla,director_nomination,no
+ZTS-2025-AM,6,1,Elect Antoinette R. Leatherberry,director_nomination,no
+ZTS-2025-AM,7,1,Elect Michael B. McCallister,director_nomination,no
+ZTS-2025-AM,8,1,Elect Gregory Norden,director_nomination,no
+ZTS-2025-AM,9,1,Elect Louise M. Parent,director_nomination,no
+ZTS-2025-AM,10,1,Elect Kristin C. Peck,director_nomination,no
+ZTS-2025-AM,11,1,Elect Willie M. Reed,director_nomination,no
+ZTS-2025-AM,12,1,Elect Mark Stetter,director_nomination,no
+ZTS-2025-AM,13,2,Approve executive compensation,executive_compensation,no
+ZTS-2025-AM,14,3,Ratify KPMG LLP as independent auditor,auditor_appointment,no
+ZTS-2025-AM,15,4,Special shareholder meeting improvement,governance_changes,yes

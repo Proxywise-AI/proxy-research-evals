@@ -1,0 +1,9 @@
+{
+ "run_id": "R-2026-11-17-02",
+ "run_date": "2026-11-17",
+ "engine_version": "v0.8.135",
+ "model": "OpenAI gpt-6 family",
+ "answer_key_version": "v1.1",
+ "meetings_run": 28,
+ "panel": "the 28 meetings the two rules and the engine were developed on"
+}

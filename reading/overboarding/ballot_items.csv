@@ -1,0 +1,224 @@
+meeting_id,item_no,item_title_as_printed,proposal_type,proponent
+APG-2024-AM,1.01,Election of Director: Sir Martin E. Franklin,director_election,management
+APG-2024-AM,1.02,Election of Director: James E. Lillie,director_election,management
+APG-2024-AM,1.03,Election of Director: Ian G.H. Ashken,director_election,management
+APG-2024-AM,1.04,Election of Director: Russell A. Becker,director_election,management
+APG-2024-AM,1.05,Election of Director: Paula D. Loop,director_election,management
+APG-2024-AM,1.06,Election of Director: Anthony E. Malkin,director_election,management
+APG-2024-AM,1.07,Election of Director: Thomas V. Milroy,director_election,management
+APG-2024-AM,1.08,Election of Director: Cyrus D. Walker,director_election,management
+APG-2024-AM,1.09,Election of Director: Carrie A. Wheeler,director_election,management
+APG-2025-AM,1.01,Election of Director: Sir Martin E. Franklin,director_election,management
+APG-2025-AM,1.02,Election of Director: James E. Lillie,director_election,management
+APG-2025-AM,1.03,Election of Director: Ian G.H. Ashken,director_election,management
+APG-2025-AM,1.04,Election of Director: Russell A. Becker,director_election,management
+APG-2025-AM,1.05,Election of Director: Paula D. Loop,director_election,management
+APG-2025-AM,1.06,Election of Director: Anthony E. Malkin,director_election,management
+APG-2025-AM,1.07,Election of Director: Thomas V. Milroy,director_election,management
+APG-2025-AM,1.08,Election of Director: Cyrus D. Walker,director_election,management
+APG-2025-AM,1.09,Election of Director: Carrie A. Wheeler,director_election,management
+ARKO-2024-AM,1.01,Election of Director: Michael J. Gade,director_election,management
+ARKO-2024-AM,1.02,Election of Director: Andrew R. Heyer,director_election,management
+ARKO-2024-AM,1.03,Election of Director: Steven J. Heyer,director_election,management
+ARKO-2024-AM,1.04,Election of Director: Laura Shapira Karet,director_election,management
+ARKO-2024-AM,1.05,Election of Director: Arie Kotler,director_election,management
+ARKO-2025-AM,1.01,Election of Director: Sherman K. Edmiston III,director_election,management
+ARKO-2025-AM,1.02,Election of Director: Avram Friedman,director_election,management
+ARKO-2025-AM,1.03,Election of Director: Andrew R. Heyer,director_election,management
+ARKO-2025-AM,1.04,Election of Director: Steven J. Heyer,director_election,management
+ARKO-2025-AM,1.05,Election of Director: Laura Shapira Karet,director_election,management
+ARKO-2025-AM,1.06,Election of Director: Arie Kotler,director_election,management
+ARKO-2026-AM,1.01,Election of Director: Sherman K. Edmiston III,director_election,management
+ARKO-2026-AM,1.02,Election of Director: Yona Fogel,director_election,management
+ARKO-2026-AM,1.03,Election of Director: Avram Friedman,director_election,management
+ARKO-2026-AM,1.04,Election of Director: Andrew R. Heyer,director_election,management
+ARKO-2026-AM,1.05,Election of Director: Laura Shapira Karet,director_election,management
+ARKO-2026-AM,1.06,Election of Director: Arie Kotler,director_election,management
+ATEN-2024-AM,1.01,Election of Director: Tor R. Braham,director_election,management
+ATEN-2024-AM,1.02,Election of Director: Peter Y. Chung,director_election,management
+ATEN-2024-AM,1.03,Election of Director: Eric Singer,director_election,management
+ATEN-2024-AM,1.04,Election of Director: Dhrupad Trivedi,director_election,management
+ATEN-2024-AM,1.05,Election of Director: Dana Wolf,director_election,management
+ATEN-2025-AM,1.01,Election of Director: Tor R. Braham,director_election,management
+ATEN-2025-AM,1.02,Election of Director: Peter Y. Chung,director_election,management
+ATEN-2025-AM,1.03,Election of Director: Eric Singer,director_election,management
+ATEN-2025-AM,1.04,Election of Director: Dhrupad Trivedi,director_election,management
+ATEN-2025-AM,1.05,Election of Director: Dana Wolf,director_election,management
+ATEN-2026-AM,1.01,Election of Director: Tor R. Braham,director_election,management
+ATEN-2026-AM,1.02,Election of Director: Peter Y. Chung,director_election,management
+ATEN-2026-AM,1.03,Election of Director: Eric Singer,director_election,management
+ATEN-2026-AM,1.04,Election of Director: Dhrupad Trivedi,director_election,management
+ATEN-2026-AM,1.05,Election of Director: Dana Wolf,director_election,management
+DELL-2024-AM,1.01,Election of Director: Michael S. Dell,director_election,management
+DELL-2024-AM,1.02,Election of Director: David W. Dorman,director_election,management
+DELL-2024-AM,1.03,Election of Director: Egon Durban,director_election,management
+DELL-2024-AM,1.04,Election of Director: David Grain,director_election,management
+DELL-2024-AM,1.05,Election of Director: William D. Green,director_election,management
+DELL-2024-AM,1.06,Election of Director: Steven M. Mollenkopf,director_election,management
+DELL-2024-AM,1.07,Election of Director: Lynn Vojvodich Radakovich,director_election,management
+DELL-2024-AM,1.08,Election of Director: Ellen J. Kullman,director_election,management
+DG-2024-AM,1.01,Election of Director: Warren F. Bryant,director_election,management
+DG-2024-AM,1.02,Election of Director: Michael M. Calbert,director_election,management
+DG-2024-AM,1.03,Election of Director: Ana M. Chadwick,director_election,management
+DG-2024-AM,1.04,Election of Director: Patricia D. Fili-Krushel,director_election,management
+DG-2024-AM,1.05,Election of Director: Timothy I. McGuire,director_election,management
+DG-2024-AM,1.06,Election of Director: David P. Rowland,director_election,management
+DG-2024-AM,1.07,Election of Director: Debra A. Sandler,director_election,management
+DG-2024-AM,1.08,Election of Director: Ralph E. Santana,director_election,management
+DG-2024-AM,1.09,Election of Director: Todd J. Vasos,director_election,management
+DG-2025-AM,1.01,Election of Director: Warren F. Bryant,director_election,management
+DG-2025-AM,1.02,Election of Director: Michael M. Calbert,director_election,management
+DG-2025-AM,1.03,Election of Director: Ana M. Chadwick,director_election,management
+DG-2025-AM,1.04,Election of Director: Timothy I. McGuire,director_election,management
+DG-2025-AM,1.05,Election of Director: David P. Rowland,director_election,management
+DG-2025-AM,1.06,Election of Director: Debra A. Sandler,director_election,management
+DG-2025-AM,1.07,Election of Director: Ralph E. Santana,director_election,management
+DG-2025-AM,1.08,Election of Director: Kathleen M. Scarlett,director_election,management
+DG-2025-AM,1.09,Election of Director: Todd J. Vasos,director_election,management
+DG-2026-AM,1.01,Election of Director: Michael M. Calbert,director_election,management
+DG-2026-AM,1.02,Election of Director: Ana M. Chadwick,director_election,management
+DG-2026-AM,1.03,Election of Director: Gregory H. Hicks,director_election,management
+DG-2026-AM,1.04,Election of Director: Timothy I. McGuire,director_election,management
+DG-2026-AM,1.05,Election of Director: David P. Rowland,director_election,management
+DG-2026-AM,1.06,Election of Director: Debra A. Sandler,director_election,management
+DG-2026-AM,1.07,Election of Director: Ralph E. Santana,director_election,management
+DG-2026-AM,1.08,Election of Director: Kathleen M. Scarlett,director_election,management
+DG-2026-AM,1.09,Election of Director: Todd J. Vasos,director_election,management
+GH-2024-AM,1.01,Election of Director: Helmy Eltoukhy,director_election,management
+GH-2024-AM,1.02,Election of Director: Steve Krognes,director_election,management
+GH-2024-AM,1.03,Election of Director: AmirAli Talasaz,director_election,management
+GH-2026-AM,1.01,Election of Director: Ian Clark,director_election,management
+GH-2026-AM,1.02,Election of Director: Manuel Hidalgo Medina,director_election,management
+GPOR-2024-AM,1.01,Election of Director: Timothy Cutt,director_election,management
+GPOR-2024-AM,1.02,Election of Director: David Wolf,director_election,management
+GPOR-2024-AM,1.03,Election of Director: Jason Martinez,director_election,management
+GPOR-2024-AM,1.04,Election of Director: Jeannie Powers,director_election,management
+GPOR-2024-AM,1.05,Election of Director: David Reganato,director_election,management
+GPOR-2024-AM,1.06,Election of Director: John Reinhart,director_election,management
+GPOR-2024-AM,1.07,Election of Director: Mary Shafer-Malicki,director_election,management
+GPOR-2025-AM,1.01,Election of Director: Timothy Cutt,director_election,management
+GPOR-2025-AM,1.02,Election of Director: David Wolf,director_election,management
+GPOR-2025-AM,1.03,Election of Director: Jason Martinez,director_election,management
+GPOR-2025-AM,1.04,Election of Director: Jeannie Powers,director_election,management
+GPOR-2025-AM,1.05,Election of Director: David Reganato,director_election,management
+GPOR-2025-AM,1.06,Election of Director: John Reinhart,director_election,management
+GPOR-2025-AM,1.07,Election of Director: Mary Shafer-Malicki,director_election,management
+GPOR-2026-AM,1.01,Election of Director: Timothy Cutt,director_election,management
+GPOR-2026-AM,1.02,Election of Director: David Wolf,director_election,management
+GPOR-2026-AM,1.03,Election of Director: Jason Martinez,director_election,management
+GPOR-2026-AM,1.04,Election of Director: Jeannie Powers,director_election,management
+GPOR-2026-AM,1.05,Election of Director: David Reganato,director_election,management
+GPOR-2026-AM,1.06,Election of Director: Mary Shafer-Malicki,director_election,management
+HUM-2024-AM,1.01,"Election of Director: Raquel C. Bono, M.D.",director_election,management
+HUM-2024-AM,1.02,Election of Director: Bruce D. Broussard,director_election,management
+HUM-2024-AM,1.03,Election of Director: Frank A. D’Amelio,director_election,management
+HUM-2024-AM,1.04,"Election of Director: David T. Feinberg, M.D.",director_election,management
+HUM-2024-AM,1.05,"Election of Director: Wayne A. I. Frederick, M.D.",director_election,management
+HUM-2024-AM,1.06,Election of Director: John W. Garratt,director_election,management
+HUM-2024-AM,1.07,Election of Director: Kurt J. Hilzinger,director_election,management
+HUM-2024-AM,1.08,Election of Director: Karen W. Katz,director_election,management
+HUM-2024-AM,1.09,Election of Director: Marcy S. Klevorn,director_election,management
+HUM-2024-AM,1.10,Election of Director: Jorge S. Mesquita,director_election,management
+HUM-2024-AM,1.11,Election of Director: Brad D. Smith,director_election,management
+HUM-2025-AM,1.01,"Election of Director: Raquel C. Bono, M.D.",director_election,management
+HUM-2025-AM,1.02,Election of Director: Frank A. D’Amelio,director_election,management
+HUM-2025-AM,1.03,"Election of Director: David T. Feinberg, M.D.",director_election,management
+HUM-2025-AM,1.04,"Election of Director: Wayne A. I. Frederick, M.D.",director_election,management
+HUM-2025-AM,1.05,Election of Director: John W. Garratt,director_election,management
+HUM-2025-AM,1.06,Election of Director: Kurt J. Hilzinger,director_election,management
+HUM-2025-AM,1.07,Election of Director: Karen W. Katz,director_election,management
+HUM-2025-AM,1.08,Election of Director: Marcy S. Klevorn,director_election,management
+HUM-2025-AM,1.09,Election of Director: Jorge S. Mesquita,director_election,management
+HUM-2025-AM,1.10,Election of Director: James A. Rechtin,director_election,management
+HUM-2025-AM,1.11,Election of Director: Gordon Smith,director_election,management
+HUM-2026-AM,1.01,"Election of Director: Raquel C. Bono, M.D.",director_election,management
+HUM-2026-AM,1.02,Election of Director: Frank A. D’Amelio,director_election,management
+HUM-2026-AM,1.03,"Election of Director: David T. Feinberg, M.D.",director_election,management
+HUM-2026-AM,1.04,"Election of Director: Wayne A. I. Frederick, M.D.",director_election,management
+HUM-2026-AM,1.05,Election of Director: Kurt J. Hilzinger,director_election,management
+HUM-2026-AM,1.06,Election of Director: Karen W. Katz,director_election,management
+HUM-2026-AM,1.07,Election of Director: Marcy S. Klevorn,director_election,management
+HUM-2026-AM,1.08,Election of Director: Jorge S. Mesquita,director_election,management
+HUM-2026-AM,1.09,Election of Director: James A. Rechtin,director_election,management
+HUM-2026-AM,1.10,Election of Director: Gordon Smith,director_election,management
+META-2025-AM,1.01,Election of Director: Peggy Alford,director_election,management
+META-2025-AM,1.02,Election of Director: Marc L. Andreessen,director_election,management
+META-2025-AM,1.03,Election of Director: John Arnold,director_election,management
+META-2025-AM,1.04,Election of Director: Patrick Collison,director_election,management
+META-2025-AM,1.05,Election of Director: John Elkann,director_election,management
+META-2025-AM,1.06,Election of Director: Andrew W. Houston,director_election,management
+META-2025-AM,1.07,Election of Director: Nancy Killefer,director_election,management
+META-2025-AM,1.08,Election of Director: Robert M. Kimmitt,director_election,management
+META-2025-AM,1.09,Election of Director: Dina Powell McCormick,director_election,management
+META-2025-AM,1.10,Election of Director: Charles Songhurst,director_election,management
+META-2025-AM,1.11,Election of Director: Hock E. Tan,director_election,management
+META-2025-AM,1.12,Election of Director: Tracey T. Travis,director_election,management
+META-2025-AM,1.13,Election of Director: Dana White,director_election,management
+META-2025-AM,1.14,Election of Director: Tony Xu,director_election,management
+META-2025-AM,1.15,Election of Director: Mark Zuckerberg,director_election,management
+META-2026-AM,1.01,Election of Director: Peggy Alford,director_election,management
+META-2026-AM,1.02,Election of Director: Marc L. Andreessen,director_election,management
+META-2026-AM,1.03,Election of Director: John Arnold,director_election,management
+META-2026-AM,1.04,Election of Director: Patrick Collison,director_election,management
+META-2026-AM,1.05,Election of Director: John Elkann,director_election,management
+META-2026-AM,1.06,Election of Director: Andrew W. Houston,director_election,management
+META-2026-AM,1.07,Election of Director: Nancy Killefer,director_election,management
+META-2026-AM,1.08,Election of Director: Robert M. Kimmitt,director_election,management
+META-2026-AM,1.09,Election of Director: Charles Songhurst,director_election,management
+META-2026-AM,1.10,Election of Director: Dana White,director_election,management
+META-2026-AM,1.11,Election of Director: Tony Xu,director_election,management
+META-2026-AM,1.12,Election of Director: Mark Zuckerberg,director_election,management
+MSGE-2024-AM,1.01,Election of Director: Martin Bandier,director_election,management
+MSGE-2024-AM,1.02,Election of Director: Donna M. Coleman,director_election,management
+MSGE-2024-AM,1.03,Election of Director: Frederic V. Salerno,director_election,management
+MSGE-2024-AM,1.04,Election of Director: James L. Dolan,director_election,management
+MSGE-2024-AM,1.05,Election of Director: Charles F. Dolan,director_election,management
+MSGE-2024-AM,1.06,Election of Director: Charles P. Dolan,director_election,management
+MSGE-2024-AM,1.07,Election of Director: Marianne Dolan Weber,director_election,management
+MSGE-2024-AM,1.08,Election of Director: Paul J. Dolan,director_election,management
+MSGE-2024-AM,1.09,Election of Director: Quentin F. Dolan,director_election,management
+MSGE-2024-AM,1.10,Election of Director: Ryan T. Dolan,director_election,management
+MSGE-2024-AM,1.11,Election of Director: Thomas C. Dolan,director_election,management
+MSGE-2024-AM,1.12,Election of Director: Brian G. Sweeney,director_election,management
+MSGE-2025-AM,1.01,Election of Director: Martin Bandier,director_election,management
+MSGE-2025-AM,1.02,Election of Director: Donna M. Coleman,director_election,management
+MSGE-2025-AM,1.03,Election of Director: Frederic V. Salerno,director_election,management
+MSGE-2025-AM,1.04,Election of Director: James L. Dolan,director_election,management
+MSGE-2025-AM,1.05,Election of Director: Charles P. Dolan,director_election,management
+MSGE-2025-AM,1.06,Election of Director: Marianne Dolan Weber,director_election,management
+MSGE-2025-AM,1.07,Election of Director: Paul J. Dolan,director_election,management
+MSGE-2025-AM,1.08,Election of Director: Quentin F. Dolan,director_election,management
+MSGE-2025-AM,1.09,Election of Director: Ryan T. Dolan,director_election,management
+MSGE-2025-AM,1.10,Election of Director: Thomas C. Dolan,director_election,management
+MSGE-2025-AM,1.11,Election of Director: Brian G. Sweeney,director_election,management
+MSGE-2025-AM,1.12,Election of Director: Claire D. Sweeney,director_election,management
+PRU-2026-AM,1.01,Election of Director: Gilbert F. Casellas,director_election,management
+PRU-2026-AM,1.02,Election of Director: Carmine Di Sibio,director_election,management
+PRU-2026-AM,1.03,Election of Director: Martina Hund-Mejean,director_election,management
+PRU-2026-AM,1.04,Election of Director: Wendy E. Jones,director_election,management
+PRU-2026-AM,1.05,Election of Director: Maryann T. Mannen,director_election,management
+PRU-2026-AM,1.06,Election of Director: Sandra Pianalto,director_election,management
+PRU-2026-AM,1.07,Election of Director: Christine A. Poon,director_election,management
+PRU-2026-AM,1.08,Election of Director: Thomas D. Stoddard,director_election,management
+PRU-2026-AM,1.09,Election of Director: Andrew F. Sullivan,director_election,management
+PRU-2026-AM,1.10,Election of Director: Michael A. Todman,director_election,management
+PRU-2026-AM,1.11,Election of Director: Joseph J. Wolk,director_election,management
+VEEV-2024-AM,1.01,Election of Director: Tim Cabral,director_election,management
+VEEV-2024-AM,1.02,Election of Director: Mark Carges,director_election,management
+VEEV-2024-AM,1.03,Election of Director: Peter P. Gassner,director_election,management
+VEEV-2024-AM,1.04,Election of Director: Mary Lynne Hedley,director_election,management
+VEEV-2024-AM,1.05,Election of Director: Priscilla Hung,director_election,management
+VEEV-2024-AM,1.06,Election of Director: Tina Hunt,director_election,management
+VEEV-2024-AM,1.07,Election of Director: Marshall Mohr,director_election,management
+VEEV-2024-AM,1.08,Election of Director: Gordon Ritter,director_election,management
+VEEV-2024-AM,1.09,Election of Director: Paul Sekhri,director_election,management
+VEEV-2024-AM,1.10,Election of Director: Matthew J. Wallach,director_election,management
+VEEV-2025-AM,1.01,Election of Director: Tim Cabral,director_election,management
+VEEV-2025-AM,1.02,Election of Director: Mark Carges,director_election,management
+VEEV-2025-AM,1.03,Election of Director: Peter P. Gassner,director_election,management
+VEEV-2025-AM,1.04,Election of Director: Mary Lynne Hedley,director_election,management
+VEEV-2025-AM,1.05,Election of Director: Priscilla Hung,director_election,management
+VEEV-2025-AM,1.06,Election of Director: Marshall Mohr,director_election,management
+VEEV-2025-AM,1.07,Election of Director: Gordon Ritter,director_election,management
+VEEV-2025-AM,1.08,Election of Director: Paul Sekhri,director_election,management
+VEEV-2025-AM,1.09,Election of Director: Matthew J. Wallach,director_election,management

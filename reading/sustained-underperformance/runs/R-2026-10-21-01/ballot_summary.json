@@ -1,0 +1,73 @@
+{
+ "summary": {
+  "meetings": 23,
+  "items": 241,
+  "matched": 241,
+  "slate_items_not_graded": 0,
+  "key_holds_whole_ballot": false,
+  "slates": [],
+  "slates_with_another_count": 0,
+  "missing": 0,
+  "unmatched_engine": 0,
+  "fields": {
+   "number": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 241
+   },
+   "type": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 241
+   },
+   "proponent": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 241
+   },
+   "nominee": {
+    "pass": 241,
+    "fail": 0,
+    "not_graded": 0
+   },
+   "order": {
+    "pass": 238,
+    "fail": 3,
+    "not_graded": 0
+   },
+   "title": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 241
+   }
+  }
+ },
+ "failures": [
+  {
+   "meeting_id": "UPS-2026-AM",
+   "item_no": "1.11",
+   "title": "Election of Director: Carol Tomé",
+   "field": "order",
+   "engine_seq": 12,
+   "engine_qid": null
+  },
+  {
+   "meeting_id": "UPS-2024-AM",
+   "item_no": "1.01",
+   "title": "Election of Director: Carol Tomé",
+   "field": "order",
+   "engine_seq": 12,
+   "engine_qid": null
+  },
+  {
+   "meeting_id": "UPS-2025-AM",
+   "item_no": "1.11",
+   "title": "Election of Director: Carol Tomé",
+   "field": "order",
+   "engine_seq": 12,
+   "engine_qid": null
+  }
+ ],
+ "missing": [],
+ "unmatched_engine": []
+}

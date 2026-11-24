@@ -1,0 +1,1267 @@
+{
+ "summary": {
+  "meetings": 27,
+  "items": 439,
+  "matched": 318,
+  "slate_items_not_graded": 77,
+  "key_holds_whole_ballot": true,
+  "slates": [
+   {
+    "meeting_id": "BBY-2025-AM",
+    "key": 11,
+    "run": 11
+   },
+   {
+    "meeting_id": "CMS-2026-AM",
+    "key": 11,
+    "run": 11
+   },
+   {
+    "meeting_id": "FDS-2025-AM",
+    "key": 10,
+    "run": 10
+   },
+   {
+    "meeting_id": "GE-2026-AM",
+    "key": 9,
+    "run": 9
+   },
+   {
+    "meeting_id": "IBM-2026-AM",
+    "key": 13,
+    "run": 13
+   },
+   {
+    "meeting_id": "MA-2026-AM",
+    "key": 11,
+    "run": 11
+   },
+   {
+    "meeting_id": "ZTS-2025-AM",
+    "key": 12,
+    "run": 12
+   }
+  ],
+  "slates_with_another_count": 0,
+  "missing": 44,
+  "unmatched_engine": 44,
+  "fields": {
+   "number": {
+    "pass": 250,
+    "fail": 68,
+    "not_graded": 121
+   },
+   "type": {
+    "pass": 272,
+    "fail": 0,
+    "not_graded": 167
+   },
+   "proponent": {
+    "pass": 316,
+    "fail": 2,
+    "not_graded": 121
+   },
+   "nominee": {
+    "pass": 222,
+    "fail": 0,
+    "not_graded": 121
+   },
+   "order": {
+    "pass": 312,
+    "fail": 6,
+    "not_graded": 121
+   },
+   "title": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 439
+   }
+  }
+ },
+ "failures": [
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1b",
+   "title": "James A. Bell",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1c",
+   "title": "Lynda M. Clarizio",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1d",
+   "title": "Anthony R. Foxx",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1e",
+   "title": "Kelly J. Grier",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1f",
+   "title": "Marc E. Jones",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1g",
+   "title": "Christine A. Leahy",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1h",
+   "title": "Sanjay Mehrotra",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1i",
+   "title": "David W. Nelms",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1j",
+   "title": "Joseph R. Swedish",
+   "field": "number",
+   "engine_seq": 10,
+   "engine_qid": "10"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "1k",
+   "title": "Donna F. Zarcone",
+   "field": "number",
+   "engine_seq": 11,
+   "engine_qid": "11"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1b",
+   "title": "Election of Directors — James A. Bell",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1c",
+   "title": "Election of Directors — Lynda M. Clarizio",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1d",
+   "title": "Election of Directors — Anthony R. Foxx",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1e",
+   "title": "Election of Directors — Kelly J. Grier",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1f",
+   "title": "Election of Directors — Marc E. Jones",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1g",
+   "title": "Election of Directors — Christine A. Leahy",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1h",
+   "title": "Election of Directors — David W. Nelms",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "1i",
+   "title": "Election of Directors — Joseph R. Swedish",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "HON-2026-AM",
+   "item_no": "1f",
+   "title": "Election of Directors: Vimal Kapur",
+   "field": "order",
+   "engine_seq": 1,
+   "engine_qid": "1a"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1b",
+   "title": "Election of Directors for a Term of One Year: Thomas Buberl",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1c",
+   "title": "Election of Directors for a Term of One Year: David N. Farr",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1d",
+   "title": "Election of Directors for a Term of One Year: Alex Gorsky",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1e",
+   "title": "Election of Directors for a Term of One Year: Michelle J. Howard",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1f",
+   "title": "Election of Directors for a Term of One Year: Arvind Krishna",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1g",
+   "title": "Election of Directors for a Term of One Year: Andrew N. Liveris",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1h",
+   "title": "Election of Directors for a Term of One Year: F. William McNabb III",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1i",
+   "title": "Election of Directors for a Term of One Year: Michael Miebach",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1j",
+   "title": "Election of Directors for a Term of One Year: Martha E. Pollack",
+   "field": "number",
+   "engine_seq": 10,
+   "engine_qid": "10"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1k",
+   "title": "Election of Directors for a Term of One Year: Peter R. Voser",
+   "field": "number",
+   "engine_seq": 11,
+   "engine_qid": "11"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1l",
+   "title": "Election of Directors for a Term of One Year: Frederick H. Waddell",
+   "field": "number",
+   "engine_seq": 12,
+   "engine_qid": "12"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "1m",
+   "title": "Election of Directors for a Term of One Year: Alfred W. Zollar",
+   "field": "number",
+   "engine_seq": 13,
+   "engine_qid": "13"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.02",
+   "title": "Election of directors: Candido Bracher",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.02",
+   "title": "Election of directors: Candido Bracher",
+   "field": "order",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.03",
+   "title": "Election of directors: Richard K. Davis",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.03",
+   "title": "Election of directors: Richard K. Davis",
+   "field": "order",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.04",
+   "title": "Election of directors: Julius Genachowski",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.04",
+   "title": "Election of directors: Julius Genachowski",
+   "field": "order",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.05",
+   "title": "Election of directors: Choon Phong Goh",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.05",
+   "title": "Election of directors: Choon Phong Goh",
+   "field": "order",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.06",
+   "title": "Election of directors: Oki Matsumoto",
+   "field": "number",
+   "engine_seq": 11,
+   "engine_qid": "11"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.06",
+   "title": "Election of directors: Oki Matsumoto",
+   "field": "order",
+   "engine_seq": 11,
+   "engine_qid": "11"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.07",
+   "title": "Election of directors: Michael Miebach",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.08",
+   "title": "Election of directors: Youngme Moon",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.09",
+   "title": "Election of directors: Rima Qureshi",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.10",
+   "title": "Election of directors: Gabrielle Sulzberger",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.11",
+   "title": "Election of directors: Harit Talwar",
+   "field": "number",
+   "engine_seq": 10,
+   "engine_qid": "10"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "1.12",
+   "title": "Election of directors: Lance Uggla",
+   "field": "number",
+   "engine_seq": 12,
+   "engine_qid": "12"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1b",
+   "title": "Mary Ellen Coe",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1c",
+   "title": "Pamela J. Craig",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1d",
+   "title": "Robert M. Davis",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1e",
+   "title": "Thomas H. Glocer",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1f",
+   "title": "Risa J. Lavizzo-Mourey, M.D.",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1g",
+   "title": "Stephen L. Mayo, Ph.D.",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1h",
+   "title": "Paul B. Rothman, M.D.",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1i",
+   "title": "Patricia F. Russo",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1j",
+   "title": "Christine E. Seidman, M.D.",
+   "field": "number",
+   "engine_seq": 10,
+   "engine_qid": "10"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1k",
+   "title": "Inge G. Thulin",
+   "field": "number",
+   "engine_seq": 11,
+   "engine_qid": "11"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "1l",
+   "title": "Kathy J. Warden",
+   "field": "number",
+   "engine_seq": 12,
+   "engine_qid": "12"
+  },
+  {
+   "meeting_id": "T-2026-AM",
+   "item_no": "7",
+   "title": "Shareholder Right to Act by Written Consent",
+   "field": "proponent",
+   "engine_seq": 16,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "T-2026-AM",
+   "item_no": "8",
+   "title": "EEO-1 Report Disclosure Policy",
+   "field": "proponent",
+   "engine_seq": 17,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1b",
+   "title": "Marc A. Bruno",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1c",
+   "title": "Larry D. De Shon",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1d",
+   "title": "Matthew J. Flannery",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1e",
+   "title": "Kim Harris Jones",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1f",
+   "title": "Terri L. Kelly",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1g",
+   "title": "Michael J. Kneeland",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1h",
+   "title": "Francisco J. Lopez-Balboa",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1i",
+   "title": "Gracia C. Martore",
+   "field": "number",
+   "engine_seq": 9,
+   "engine_qid": "9"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "1j",
+   "title": "Shiv Singh",
+   "field": "number",
+   "engine_seq": 10,
+   "engine_qid": "10"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.02",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Courtney D. Armstrong",
+   "field": "number",
+   "engine_seq": 2,
+   "engine_qid": "2"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.03",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Yehuda Ari Buchalter",
+   "field": "number",
+   "engine_seq": 3,
+   "engine_qid": "3"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.04",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Kathleen A. Cote",
+   "field": "number",
+   "engine_seq": 4,
+   "engine_qid": "4"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.05",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Thomas F. Frist III",
+   "field": "number",
+   "engine_seq": 5,
+   "engine_qid": "5"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.06",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Jamie S. Gorelick",
+   "field": "number",
+   "engine_seq": 6,
+   "engine_qid": "6"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.07",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Debra W. McCann",
+   "field": "number",
+   "engine_seq": 7,
+   "engine_qid": "7"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "1.08",
+   "title": "Election of Eight Directors Named in the Proxy Statement — Timothy Tomlinson",
+   "field": "number",
+   "engine_seq": 8,
+   "engine_qid": "8"
+  }
+ ],
+ "missing": [
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "2",
+   "title": "Ratification of Appointment of Our Independent Registered Public Accounting Firm"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "3",
+   "title": "Advisory Vote to Approve Named Executive Officer Compensation"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "4",
+   "title": "Approval of Amendment No. 1 to our 2020 Omnibus Incentive Plan"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "5",
+   "title": "Support for Shareholder Right to Act by Written Consent"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "6",
+   "title": "Shareholder Proposal – Request to Cease CEI Participation"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "7",
+   "title": "Shareholder Proposal – Publish a Report on the Company’s LGBTQIA+ Inclusion Efforts in its Human Capital Management Strategy"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "item_no": "8",
+   "title": "Shareholder Proposal – Publish Climate Transition Plan to Achieve Stated Goals"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "2",
+   "title": "Advisory Vote to Approve Named Executive Officer Compensation"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "3",
+   "title": "Ratification of Selection of Independent Registered Public Accounting Firm"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "item_no": "4",
+   "title": "Stockholder Proposal Regarding Stockholder Right to Act by Written Consent"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "2",
+   "title": "To approve, on an advisory basis, named executive officer compensation."
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "3",
+   "title": "To ratify the selection of Ernst & Young LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2026."
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "4",
+   "title": "To approve the amendment to the Company’s Certificate of Incorporation to permit stockholder action by written consent."
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "item_no": "5",
+   "title": "To consider and act upon the stockholder proposal, if properly presented at the meeting, regarding independent Board chair requirements."
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "2",
+   "title": "Ratification of Appointment of Independent Registered Public Accounting Firm"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "3",
+   "title": "Advisory Vote on Executive Compensation (Say on Pay)"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "4",
+   "title": "Stockholder Proposal Requesting a Public Report on Lobbying Activities"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "5",
+   "title": "Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "6",
+   "title": "Stockholder Proposal Requesting a Right to Act by Written Consent"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "7",
+   "title": "Stockholder Proposal Requesting a Public Report on Climate Lobbying"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "item_no": "8",
+   "title": "Stockholder Proposal Requesting the Adoption of Greenhouse Gas Emissions Targets"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "2",
+   "title": "Advisory approval of Mastercard’s executive compensation"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "3",
+   "title": "Ratification of the appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for Mastercard for 2025"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "4",
+   "title": "Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to limit liability of officers as permitted by Delaware law"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "5",
+   "title": "Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to remove the Industry Director concept"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "6",
+   "title": "Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to implement other miscellaneous changes"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "7",
+   "title": "Consideration of a stockholder proposal requesting a racial equity audit report"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "item_no": "8",
+   "title": "Consideration of a stockholder proposal requesting a report on affirmative action risks"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "item_no": "2",
+   "title": "Advisory approval of Mastercard’s executive compensation"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "item_no": "3",
+   "title": "Ratification of the appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for Mastercard for 2026"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "item_no": "4",
+   "title": "Consideration of a stockholder proposal regarding shareholder right to act by written consent"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "item_no": "5",
+   "title": "Consideration of a stockholder proposal to adopt cumulative voting for the election of directors"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "2",
+   "title": "Non-Binding Advisory Vote to Approve the Compensation of Our Named Executive Officers"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "3",
+   "title": "Ratification of Appointment of Independent Registered Public Accounting Firm for 2024"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "4",
+   "title": "Shareholder Right to Act by Written Consent"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "5",
+   "title": "Shareholder Proposal Regarding Government Censorship Transparency Report"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "item_no": "6",
+   "title": "Shareholder Proposal Regarding a Report on Respecting Workforce Civil Liberties"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "2",
+   "title": "Ratification of Appointment of Public Accounting Firm"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "3",
+   "title": "Advisory Approval of Executive Compensation"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "item_no": "4",
+   "title": "Stockholder Proposal to Improve Shareholder Written Consent"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "2",
+   "title": "Advisory Vote to Approve Executive Compensation"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "3",
+   "title": "Ratification of Selection of KPMG LLP as Independent Registered Public Accounting Firm for 2025"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "4",
+   "title": "Approval of an Amendment to the Company’s Restated Certificate of Incorporation to Limit the Liability of Certain Officers as Permitted by Delaware Law."
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "item_no": "5",
+   "title": "Stockholder Proposal to Permit Stockholder Action by Written Consent"
+  }
+ ],
+ "unmatched_engine": [
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Ratification of Deloitte & Touche LLP for Fiscal 2026",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Advisory Approval of Named Executive Officer Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Approval of Amendment No. 1 to the 2020 Omnibus Incentive Plan",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 15,
+   "qid": "15",
+   "question": "Shareholder Right to Act by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 16,
+   "qid": "16",
+   "question": "Cease Corporate Equality Index Participation",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 17,
+   "qid": "17",
+   "question": "Report on LGBTQIA+ Inclusion Efforts in Human Capital Management",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "BBY-2025-AM",
+   "seq": 18,
+   "qid": "18",
+   "question": "Publish Climate Transition Plan to Achieve Stated Goals",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Advisory Approval of Named Executive Officer Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Ratification of Ernst & Young LLP as Independent Auditor for 2025",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2025-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Stockholder Right to Act by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "seq": 10,
+   "qid": "10",
+   "question": "Named Executive Officer Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "seq": 11,
+   "qid": "11",
+   "question": "Ernst & Young LLP as Independent Auditor",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Stockholder Action by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "CDW-2026-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Independent Board Chair Requirements",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Ratification of PricewaterhouseCoopers LLP as Independent Auditor",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 15,
+   "qid": "15",
+   "question": "Advisory Vote on Executive Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 16,
+   "qid": "16",
+   "question": "Public Report on Lobbying Activities",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 17,
+   "qid": "17",
+   "question": "Public Report on Congruency in China Business Operations and ESG Activities",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 18,
+   "qid": "18",
+   "question": "Stockholder Right to Act by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 19,
+   "qid": "19",
+   "question": "Public Report on Climate Lobbying",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "IBM-2024-AM",
+   "seq": 20,
+   "qid": "20",
+   "question": "Adoption of Greenhouse Gas Emissions Targets",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Advisory approval of Mastercard’s executive compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Ratification of PricewaterhouseCoopers LLP as independent registered public accounting firm for 2025",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 15,
+   "qid": "15",
+   "question": "Approve amendment to limit liability of officers as permitted by Delaware law",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 16,
+   "qid": "16",
+   "question": "Approve amendment to remove the Industry Director concept",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 17,
+   "qid": "17",
+   "question": "Approve amendment to implement other miscellaneous changes",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 18,
+   "qid": "18",
+   "question": "Consider stockholder proposal requesting a racial equity audit report",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2025-AM",
+   "seq": 19,
+   "qid": "19",
+   "question": "Consider stockholder proposal requesting a report on affirmative action risks",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Advisory approval of Mastercard’s executive compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Ratification of PricewaterhouseCoopers LLP as independent registered public accounting firm for 2026",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Shareholder right to act by written consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MA-2026-AM",
+   "seq": 15,
+   "qid": "15",
+   "question": "Adopt cumulative voting for directors",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Advisory Approval of Named Executive Officer Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "seq": 14,
+   "qid": "14",
+   "question": "Ratify PricewaterhouseCoopers LLP as Independent Auditor for 2024",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "seq": 15,
+   "qid": "15",
+   "question": "Shareholder Right to Act by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "seq": 16,
+   "qid": "16",
+   "question": "Government Censorship Transparency Report",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "MRK-2024-AM",
+   "seq": 17,
+   "qid": "17",
+   "question": "Report on Respecting Workforce Civil Liberties",
+   "type": "environmental_social",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "seq": 11,
+   "qid": "11",
+   "question": "Ratify Ernst & Young LLP as Independent Auditor for 2025",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Advisory Approval of Executive Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "URI-2025-AM",
+   "seq": 13,
+   "qid": "13",
+   "question": "Improve Shareholder Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "seq": 9,
+   "qid": "9",
+   "question": "Advisory Vote to Approve Executive Compensation",
+   "type": "executive_compensation",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "seq": 10,
+   "qid": "10",
+   "question": "Ratify KPMG LLP as Independent Registered Public Accounting Firm for 2025",
+   "type": "auditor_appointment",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "seq": 11,
+   "qid": "11",
+   "question": "Amend the Restated Certificate of Incorporation to Limit Certain Officers' Liability",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  },
+  {
+   "meeting_id": "VRSN-2025-AM",
+   "seq": 12,
+   "qid": "12",
+   "question": "Permit Stockholder Action by Written Consent",
+   "type": "governance_changes",
+   "reading": "not in the key's ballot"
+  }
+ ]
+}

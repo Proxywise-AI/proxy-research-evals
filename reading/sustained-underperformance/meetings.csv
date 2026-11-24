@@ -1,0 +1,24 @@
+meeting_id,company,ticker,cik,meeting_date,meeting_type,def14a_accession,filing_url,in_run
+AAPL-2026-AM,Apple Inc.,AAPL,0000320193,2026-02-24,annual,0001308179-26-000008,https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm,yes
+AAPL-2025-AM,Apple Inc.,AAPL,0000320193,2025-02-25,annual,0001308179-25-000008,https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14a.htm,yes
+BRK-2026-AM,Berkshire Hathaway Inc.,BRK,0001067983,2026-05-02,annual,0001193125-26-106253,https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm,yes
+BRK-2025-AM,Berkshire Hathaway Inc.,BRK,0001067983,2025-05-03,annual,0001193125-25-054877,https://www.sec.gov/Archives/edgar/data/1067983/000119312525054877/d812428ddef14a.htm,yes
+BA-2026-AM,The Boeing Company,BA,0000012927,2026-04-17,annual,0001193125-26-096787,https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm,yes
+BA-2024-AM,The Boeing Company,BA,0000012927,2024-05-17,annual,0001193125-24-088568,https://www.sec.gov/Archives/edgar/data/12927/000119312524088568/d550077ddef14a.htm,yes
+BA-2025-AM,The Boeing Company,BA,0000012927,2025-04-24,annual,0001193125-25-049921,https://www.sec.gov/Archives/edgar/data/12927/000119312525049921/d816992ddef14a.htm,yes
+BF-2026-AM,Brown-Forman Corporation,BF,0000014693,2026-07-23,annual,0001193125-26-275853,https://www.sec.gov/Archives/edgar/data/14693/000119312526275853/d39207ddef14a.htm,yes
+BF-2024-AM,Brown-Forman Corporation,BF,0000014693,2024-07-25,annual,0001193125-24-165706,https://www.sec.gov/Archives/edgar/data/14693/000119312524165706/d657975ddef14a.htm,yes
+BF-2025-AM,Brown-Forman Corporation,BF,0000014693,2025-07-24,annual,0001193125-25-143663,https://www.sec.gov/Archives/edgar/data/14693/000119312525143663/d913060ddef14a.htm,yes
+CMCSA-2026-AM,Comcast Corporation,CMCSA,0001166691,2026-06-10,annual,0001193125-26-177138,https://www.sec.gov/Archives/edgar/data/1166691/000119312526177138/cmcsa-20260424.htm,yes
+CMCSA-2025-AM,Comcast Corporation,CMCSA,0001166691,2025-06-18,annual,0001308179-25-000504,https://www.sec.gov/Archives/edgar/data/1166691/000130817925000504/cmcsa012438-def14a.htm,yes
+META-2026-AM,"Meta Platforms, Inc.",META,0001326801,2026-05-27,annual,0001628280-26-025532,https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm,yes
+MRNA-2026-AM,"Moderna, Inc.",MRNA,0001682852,2026-05-06,annual,0001308179-26-000081,https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/mrna-20260316.htm,yes
+MRNA-2025-AM,"Moderna, Inc.",MRNA,0001682852,2025-04-30,annual,0001308179-25-000082,https://www.sec.gov/Archives/edgar/data/1682852/000130817925000082/mrna-20250310.htm,yes
+TAP-2026-AM,Molson Coors Beverage Company,TAP,0000024545,2026-05-06,annual,0001104659-26-034154,https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm,yes
+NKE-2026-AM,"NIKE, Inc.",NKE,0000320187,2026-09-08,annual,0000320187-26-000089,https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm,yes
+NKE-2024-AM,"NIKE, Inc.",NKE,0000320187,2024-09-10,annual,0000320187-24-000045,https://www.sec.gov/Archives/edgar/data/320187/000032018724000045/nke-20240725.htm,yes
+NKE-2025-AM,"NIKE, Inc.",NKE,0000320187,2025-09-09,annual,0000320187-25-000048,https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm,yes
+UPS-2026-AM,"United Parcel Service, Inc.",UPS,0001090727,2026-05-07,annual,0001628280-26-019856,https://www.sec.gov/Archives/edgar/data/1090727/000162828026019856/ups-20260319.htm,yes
+UPS-2024-AM,"United Parcel Service, Inc.",UPS,0001090727,2024-05-02,annual,0001090727-24-000018,https://www.sec.gov/Archives/edgar/data/1090727/000109072724000018/ups-20240318.htm,yes
+UPS-2025-AM,"United Parcel Service, Inc.",UPS,0001090727,2025-05-08,annual,0001090727-25-000038,https://www.sec.gov/Archives/edgar/data/1090727/000109072725000038/ups-20250317.htm,yes
+UNH-2026-AM,UnitedHealth Group Incorporated,UNH,0000731766,2026-06-01,annual,0001104659-26-046125,https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm,yes

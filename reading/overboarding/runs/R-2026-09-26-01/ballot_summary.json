@@ -1,0 +1,48 @@
+{
+ "summary": {
+  "meetings": 27,
+  "items": 223,
+  "matched": 223,
+  "slate_items_not_graded": 0,
+  "key_holds_whole_ballot": false,
+  "slates": [],
+  "slates_with_another_count": 0,
+  "missing": 0,
+  "unmatched_engine": 0,
+  "fields": {
+   "number": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 223
+   },
+   "type": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 223
+   },
+   "proponent": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 223
+   },
+   "nominee": {
+    "pass": 223,
+    "fail": 0,
+    "not_graded": 0
+   },
+   "order": {
+    "pass": 223,
+    "fail": 0,
+    "not_graded": 0
+   },
+   "title": {
+    "pass": 0,
+    "fail": 0,
+    "not_graded": 223
+   }
+  }
+ },
+ "failures": [],
+ "missing": [],
+ "unmatched_engine": []
+}

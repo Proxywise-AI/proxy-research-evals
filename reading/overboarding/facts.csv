@@ -1,0 +1,869 @@
+meeting_id,item_no,fact_key,fact_value,unit,source_citation,source_tier,fact_type,tolerance,reviewed_by_a_person
+APG-2024-AM,meeting,meeting_date,2024-06-14,,"Notice of 2024 Annual Meeting of Shareholders: ""The 2024 Annual Meeting will be held on June 14, 2024, at 8:30 a.m. (Central Time) in virtual-only format""",1,value,n/a (context),no
+APG-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+APG-2024-AM,1.01,other_public_boards,Nomad Foods Limited; Element Solutions Inc; Admiral Acquisition Limited,,"Proposal 1—Election of Directors: ""co-founder and co-chairman of Nomad Foods Limited, a leading European frozen food company, and has served as a director since its inception in April 2014""; Proposal 1—Election of Directors: ""Sir Martin is also founder and Executive Chairman of Element Solutions Inc, a specialty chemicals company, and has served as a director since its inception in A""; Proposal 1—Election of Directors: ""and a founder and director of Admiral Acquisition Limited since May 2023.""",1,value,exact,no
+APG-2024-AM,1.01,other_boards_not_public,"Royal Oak Enterprises, LLC [no]",,Private LLC (manufacturer of charcoal and grilling products); no EDGAR registrant found under that name.,2,value,n/a (context),no
+APG-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.01,ceo_of_unlisted_company,"Mariposa Capital, LLC",,,2,value,n/a (context),no
+APG-2024-AM,1.01,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.02,other_public_boards,Nomad Foods Limited,,"Proposal 1—Election of Directors: ""Since June 2015, Mr. Lillie has served on the board of directors of Nomad Foods Limited and served on the board of directors of Tiffany & Co. from February 2017""",1,value,exact,no
+APG-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.03,other_public_boards,Element Solutions Inc; Nomad Foods Limited,,"Proposal 1—Election of Directors: ""Mr. Ashken also serves as a director of Element Solutions Inc and Nomad Foods Limited and is a director or trustee of a number of private companies.""; Proposal 1—Election of Directors: ""Mr. Ashken also serves as a director of Element Solutions Inc and Nomad Foods Limited and is a director or trustee of a number of private companies.""",1,value,exact,no
+APG-2024-AM,1.03,other_boards_not_public,a number of private companies (unnamed) [no]; non-profit family foundation (unnamed) [no],,The proxy calls them private companies.; Non-profit foundation; no equity.,2,value,n/a (context),no
+APG-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.03,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+APG-2024-AM,1.04,other_boards_not_public,Liberty Diversified Industries [no]; Marvin Companies [no],,The proxy states 'each a private company'.; The proxy states 'each a private company'.,2,value,n/a (context),no
+APG-2024-AM,1.04,is_sitting_public_ceo,APi Group Corporation (this company),,"Proposal 1—Election of Directors: ""Mr. Becker joined APi Group, Inc. in 2002 as President and Chief Operating Officer and became CEO in 2004. Mr. Becker has continued to serve as CEO of APi Group""",1,value,exact,no
+APG-2024-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.05,other_public_boards,"Robinhood Markets, Inc. (bio: 'Robinhood Markets'); Fastly, Inc. (bio: 'Fastly Inc.')",,"Proposal 1—Election of Directors: ""She serves as a director of Robinhood Markets, a financial services company, since June 2021 and as a director of Fastly Inc., an edge cloud computing company, ""; Proposal 1—Election of Directors: ""She serves as a director of Robinhood Markets, a financial services company, since June 2021 and as a director of Fastly Inc., an edge cloud computing company, """,1,value,exact,no
+APG-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.06,other_public_boards,"Empire State Realty Trust, Inc.",,"Proposal 1—Election of Directors: ""Since October 2013, Mr. Malkin has served as Chairman and Chief Executive Officer of Empire State Realty Trust, Inc. (“ESRT”), a real estate investment trust.""",1,value,exact,no
+APG-2024-AM,1.06,other_boards_not_public,Malkin Holdings L.L.C. [no]; Real Estate Board of New York (Board of Governors) [no],,LLC with transfer-agent filings only on EDGAR (CIK 107034); no listed equity.; Trade association; no equity.,2,value,n/a (context),no
+APG-2024-AM,1.06,is_sitting_public_ceo,"Empire State Realty Trust, Inc.",,"Proposal 1—Election of Directors: ""Since October 2013, Mr. Malkin has served as Chairman and Chief Executive Officer of Empire State Realty Trust, Inc. (“ESRT”), a real estate investment trust.""",1,value,exact,no
+APG-2024-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.06,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+APG-2024-AM,1.07,other_public_boards,Interfor Corporation; Admiral Acquisition Limited,,"Proposal 1—Election of Directors: ""Mr. Milroy also serves as a director of Interfor Corporation, a large lumber producer, Admiral Acquisition Limited, and Generation Capital Limited, a private in""; Proposal 1—Election of Directors: ""Mr. Milroy also serves as a director of Interfor Corporation, a large lumber producer, Admiral Acquisition Limited, and Generation Capital Limited, a private in""",1,value,exact,no
+APG-2024-AM,1.07,other_boards_not_public,Generation Capital Limited [no],,The proxy calls it 'a private investment company'.,2,value,n/a (context),no
+APG-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.08,other_public_boards,"Houlihan Lokey, Inc",,"Proposal 1—Election of Directors: ""Mr. Walker has served as a director of privately held jewelry company, Kendra Scott, since May 2021, and as a director of Houlihan Lokey, Inc since November 202""",1,value,exact,no
+APG-2024-AM,1.08,other_boards_not_public,Starwood Credit Income Real Estate Trust (S-CREDIT) [EDGAR name: Starwood Credit Real Estate Income Trust] [no]; The Mather Group [no]; Flores & Associates LLC [no]; Kendra Scott [no],,"Non-listed, perpetual-life REIT: 10-K cover shows 'Securities registered pursuant to Section 12(b) of the Act: None' (shares registered only under 12(g)) and st; Investment advisory firm (Vistria affiliate). EDGAR entity 'MATHER GROUP, LLC.' (CIK 1527641, Chicago) files only 13F-HR and N-PX reports as an institutional ma; Limited liability company, Vistria Group affiliated company; no EDGAR registrant found under that name.; The proxy calls it a 'privately held jewelry company'.",2,value,n/a (context),no
+APG-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2024-AM,1.08,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.09,other_public_boards,"Opendoor (Opendoor Technologies Inc.); TKO Group Holdings, Inc.",,"Proposal 1—Election of Directors (nominee sidebar): ""Other Public Co. Boards: •Opendoor •TKO Group Holdings, Inc.""; Proposal 1—Election of Directors: ""In addition, Ms. Wheeler has served as a director for TKO Group Holdings, Inc. since September 2023, and has previously served on a number of other corporate bo""",1,value,exact,no
+APG-2024-AM,1.09,is_sitting_public_ceo,Opendoor (Opendoor Technologies Inc.),,"Proposal 1—Election of Directors: ""Ms. Wheeler has served as Chief Executive Officer of Opendoor, a technology firm for residential real estate, since December 2022.""",1,value,exact,no
+APG-2024-AM,1.09,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2024-AM,1.09,public_boards_besides_own_company,2,boards,"this company + TKO Group Holdings, Inc.",1,computed,exact,no
+APG-2025-AM,meeting,meeting_date,2025-05-16,,"Notice of 2025 Annual Meeting of Shareholders: ""The 2025 Annual Meeting will be held on May 16, 2025, at 8:30 a.m. (Central Time) in virtual-only format conducted via live webcast at www.virtualshareholdermeeting.com/APG2025.""",1,value,n/a (context),no
+APG-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+APG-2025-AM,1.01,other_public_boards,Nomad Foods Limited; Element Solutions Inc; Acuren Corporation,,"Proposal 1—Election of Directors > Key Roles: ""Co-Founder and Co-Chair, Nomad Foods Limited, a leading European frozen food company (2013 - present)""; Proposal 1—Election of Directors > Key Roles: ""Founder and Executive Chair, Element Solutions Inc, a specialty chemicals company (2013 - present)""; Proposal 1—Election of Directors > Key Roles: ""Co-Founder and Co-Chair, Acuren Corporation (formerly Admiral Acquisition Limited), a provider of critical asset integrity services (2022 - present)""",1,value,exact,no
+APG-2025-AM,1.01,other_boards_not_public,"Sweet Oak Parent, LLC [no]",,"Private LLC: no EDGAR registrant named Sweet Oak; its operating company Whole Earth Brands, Inc. became its wholly owned subsidiary on 2024-08-05, was delisted ",2,value,n/a (context),no
+APG-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.01,ceo_of_unlisted_company,"Mariposa Capital, LLC",,,2,value,n/a (context),no
+APG-2025-AM,1.01,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.02,other_public_boards,Nomad Foods Limited; Acuren Corporation,,"Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Nomad Foods Limited •Acuren Corporation Former Public Co. Boards Within Past Five Years: •Tiffany and Co.""; Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Nomad Foods Limited •Acuren Corporation Former Public Co. Boards Within Past Five Years: •Tiffany and Co.""",1,value,exact,no
+APG-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.02,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.03,other_public_boards,Nomad Foods Limited; Element Solutions Inc,,"Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Nomad Foods Limited •Element Solutions Inc""; Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Nomad Foods Limited •Element Solutions Inc""",1,value,exact,no
+APG-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.03,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+APG-2025-AM,1.04,other_boards_not_public,Marvin Companies [no],,Proxy: 'a privately held window and door manufacturer'; EDGAR company search for 'Marvin Companies' returns no registrant.,2,value,n/a (context),no
+APG-2025-AM,1.04,is_sitting_public_ceo,APi Group Corporation (this company),,"Proposal 1—Election of Directors > Key Roles: ""CEO, APi Group Corporation, (2004-present); President and Chief Operating Officer, APi Group, Inc. (2002-2004)""",1,value,exact,no
+APG-2025-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.05,other_public_boards,"Fastly, Inc.; Robinhood Markets, Inc.",,"Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Fastly, Inc. •Robinhood Markets, Inc.""; Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Fastly, Inc. •Robinhood Markets, Inc.""",1,value,exact,no
+APG-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.06,other_public_boards,"Empire State Realty Trust, Inc.",,"Proposal 1—Election of Directors > Key Roles: ""Chairman and CEO of Empire State Realty Trust, Inc. (“ESRT”), a real estate investment trust (2013-present); other leadership roles with ESRT’s predecessor enti""",1,value,exact,no
+APG-2025-AM,1.06,other_boards_not_public,Malkin Holdings L.L.C. [no]; Real Estate Board of New York [no],,"EDGAR registrant 'MALKIN HOLDINGS LLC /TA' (CIK 107034) has filed only transfer-agent forms (TA-1/A, TA-2, TA-W; last 2014); no equity registration.; No EDGAR registrant under that name (company search returned no match); the proxy lists it with industry bodies (Real Estate Roundtable, Urban Land Institute), ",2,value,n/a (context),no
+APG-2025-AM,1.06,is_sitting_public_ceo,"Empire State Realty Trust, Inc.",,"Proposal 1—Election of Directors > Key Roles: ""Chairman and CEO of Empire State Realty Trust, Inc. (“ESRT”), a real estate investment trust (2013-present); other leadership roles with ESRT’s predecessor enti""",1,value,exact,no
+APG-2025-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.06,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+APG-2025-AM,1.07,other_public_boards,Interfor Corporation,,"Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""(Lead Independent Director) Director Since 2017 Age: 69 Committees: •Compensation (Chair) Other Public Co. Boards: •Interfor Corporation Former Public Co. Board""",1,value,exact,no
+APG-2025-AM,1.07,other_boards_not_public,Generation Capital Limited [no],,Proxy: 'a private investment company'; EDGAR company search finds no registrant named Generation Capital Limited (only unrelated 'Generation Capital Partners' L,2,value,n/a (context),no
+APG-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.07,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.08,other_public_boards,"Houlihan Lokey, Inc.",,"Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Houlihan Lokey, Inc. Former Public Co. Boards Within Past Five Years: •Arbor Ralpha Capital Bioholdings Corp I""",1,value,exact,no
+APG-2025-AM,1.08,other_boards_not_public,Starwood Credit Income Real Estate Trust [no]; The Mather Group [no]; Flores & Associates LLC [no]; Kendra Scott [no],,"Non-traded REIT: 'Securities registered pursuant to Section 12(b) of the Act: None'; 'There is currently no established public market for the registrant’s commo; EDGAR entity 'MATHER GROUP, LLC.' (CIK 1527641) files only 13F-HR and N-PX (institutional investment manager reports); no equity registration. Identity matched ; LLC described as 'a Vistria Group affiliated company'; no EDGAR registrant under that name.; Proxy: 'a privately held jewelry company'; EDGAR registrant 'Kendra Scott Design, Inc.' (CIK 1559028) has filed only a Form D (2012).",2,value,n/a (context),no
+APG-2025-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+APG-2025-AM,1.08,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.09,other_public_boards,"Opendoor Technologies Inc.; TKO Group Holdings, Inc.",,"Proposal 1—Election of Directors > nominee heading: ""Carrie A. Wheeler CEO and Director, Opendoor Technologies, Inc.""; Proposal 1—Election of Directors > director profile sidebar (Other Public Co. Boards): ""Other Public Co. Boards: •Opendoor Technologies Inc. •TKO Group Holdings, Inc. Former Public Co. Boards Within Past Five Years: •Dollar Tree, Inc.""",1,value,exact,no
+APG-2025-AM,1.09,is_sitting_public_ceo,Opendoor Technologies Inc.,,"Proposal 1—Election of Directors > Key Roles: ""CEO, Opendoor Technologies Inc., a technology firm for residential real estate (2022-present); CFO (2020-2022)""",1,value,exact,no
+APG-2025-AM,1.09,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+APG-2025-AM,1.09,public_boards_besides_own_company,2,boards,"this company + TKO Group Holdings, Inc.",1,computed,exact,no
+ARKO-2024-AM,meeting,meeting_date,2024-06-06,,2024-06-06,1,value,n/a (context),no
+ARKO-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ARKO-2024-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2024-AM,1.01,other_boards_not_public,"Crane Group, Inc [no]",,Proxy describes it as 'a large family office operating several diversified operating companies'. EDGAR company search for 'Crane Group' returns no registrant of,2,value,n/a (context),no
+ARKO-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2024-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2024-AM,1.02,other_public_boards,OneSpaWorld Holdings; Haymaker Acquisition Corp. 4; The Lovesac Company,,"Directors & Named Executive Officers > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. I (“Haymaker I”) until it completed its business combination with OneSpaWorld Holdings (NASD""; Directors & Named Executive Officers > Director Nominees: ""Currently, Mr. Heyer is the Chief Executive Officer and founder of Mistral Equity Partners, a private equity fund manager founded in 2007 that invests in the co""; Directors & Named Executive Officers > Director Nominees: ""Mr. Heyer also serves on the board of The Lovesac Company (NASDAQ: LOVE), a branded omni-channel retailer of technology-forward furniture, from 2010 to the pres""",1,value,exact,no
+ARKO-2024-AM,1.02,other_boards_not_public,PetWise [no]; (unnamed) several private companies owned in whole or in part by Mistral [no],,"Proxy calls it one of 'several private companies owned in whole or in part by Mistral'.; Proxy calls them 'private companies'; not named, so not countable individually.",2,value,n/a (context),no
+ARKO-2024-AM,1.02,is_sitting_public_ceo,Haymaker Acquisition Corp. 4,,"Directors & Named Executive Officers > Director Nominees: ""Currently, Mr. Heyer is the Chief Executive Officer and founder of Mistral Equity Partners, a private equity fund manager founded in 2007 that invests in the co""",1,value,exact,no
+ARKO-2024-AM,1.02,ceo_of_unlisted_company,Mistral Equity Partners,,,2,value,n/a (context),no
+ARKO-2024-AM,1.02,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2024-AM,1.02,public_boards_besides_own_company,3,boards,"this company + OneSpaWorld Holdings, The Lovesac Company",1,computed,exact,no
+ARKO-2024-AM,1.03,other_public_boards,Haymaker Acquisition Corp. 4,,"Directors & Named Executive Officers > Director Nominees: ""Mr. Heyer is currently President and a director of Haymaker Acquisition Corp. 4, a special purpose acquisition company.""",1,value,exact,no
+ARKO-2024-AM,1.03,other_boards_not_public,(unnamed) several private companies [no],,Proxy calls them 'private companies'; not named.,2,value,n/a (context),no
+ARKO-2024-AM,1.03,boards_ended_before_meeting,"Lazard Ltd (2021-04-29); Lazard Group (2024-02-23); Atkins Nutritionals, Inc. (undated)",,"ALREADY LEFT: retired from the Lazard Ltd board following the expiration of his term at Lazard's 2021 Annual General Meeting, held 2021-04-29 (Lazard DEF 14A filed 2022-04-06, accession 0001193125-22-; undated in any filing read, but not current: the Lazard Group FY2023 10-K signature page (2024-02-23) lists directors Jacobs, Orszag, Achleitner, Alper, Jarrard, Knobloch, Mendillo and Parsons, not He; LIKELY ALREADY LEFT: biote Corp.'s 2024 DEF 14A (tier 2) says he served on 'the board of Atkins Nutritionals Inc. until 2017'; no Simply Good Foods filing names him as a director. No Atkins filing dat",2,value,n/a (context),no
+ARKO-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2024-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2024-AM,1.03,count_at_proxy_date,3,boards,before the dated departures are applied,1,computed,n/a (context),no
+ARKO-2024-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2024-AM,1.04,other_boards_not_public,Brookings Institution [no]; Committee for Economic Development [no],,Non-profit think tank (trusteeship); no equity. Not a company board.; Non-profit policy organization (trusteeship); no equity. Not a company board.,2,value,n/a (context),no
+ARKO-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2024-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2024-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2024-AM,1.05,other_boards_not_public,Ligad Investments & Building Ltd. [no],,"Taken private in January 2013 (formerly Tel Aviv Stock Exchange); foreign non-SEC filer, proxy wording relied on.",2,value,n/a (context),no
+ARKO-2024-AM,1.05,is_sitting_public_ceo,ARKO Corp. (this company),,"Directors & Named Executive Officers: ""Arie Kotler has served as the Chairman and Chief Executive Officer of ARKO Corp. since the closing of our business combination on December 22, 2020 (the “Busine""",1,value,exact,no
+ARKO-2024-AM,1.05,ceo_of_unlisted_company,"GPM Investments, LLC",,,2,value,n/a (context),no
+ARKO-2024-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,meeting,meeting_date,2025-06-05,,"INFORMATION ABOUT OUR ANNUAL MEETING > When and where is the Annual Meeting?: ""The Annual Meeting will be held on June 5, 2025, at 10:00 a.m. Eastern Time.""",1,value,n/a (context),no
+ARKO-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ARKO-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2025-AM,1.01,other_boards_not_public,"GTT Communications, Inc. [no]; Key Energy Services, Inc. [no]; Real Alloy [no]; Aludyne [no]",,"NYSE delisted the common stock (Form 25-NSE, 2021-07-21); the company terminated registration of its Common Stock (Form 15-12G and 15-12G/A, 2021-11-09); last E; NYSE delisting (Form 25-NSE, 2019-12-13); Form 15-12B filed 2020-12-14 covering 'Common Stock'; no EDGAR filing after 2020-12-14. Proxy gives no ticker.; No EDGAR registrant whose name begins 'Real Alloy'; proxy gives no ticker or exchange (in the same biography it gives tickers for listed companies, e.g. 'Arch R; No EDGAR registrant whose name begins 'Aludyne'; proxy gives no ticker or exchange. Basis is absence of any SEC registration; see extractor_notes.",2,value,n/a (context),no
+ARKO-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2025-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,1.03,other_public_boards,"OneSpaWorld Holdings; biote, Corp.; The Lovesac Company",,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. I (“Haymaker I”) before its merger with OneSpaWorld Holdings (NASDAQ:OSW) (“OneSpaWorld”) in""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. III (“Haymaker III”) before its merger with biote, Corp. (NASDAQ:BTMD), a provider of preven""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Since 2010, Mr. Heyer has also served as a board member of The Lovesac Company (NASDAQ: LOVE), a branded retailer of technology-forward furniture.""",1,value,exact,no
+ARKO-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2025-AM,1.03,ceo_of_unlisted_company,Mistral Equity Partners,,"Proxy: 'a private equity fund founded in 2007'. EDGAR shows the Mistral entities only as Form D/REGDEX filers and as reporting holders (Forms 3/4, Schedule 13D) of other issuers; no 10-K, no 8-A, no l",2,value,n/a (context),no
+ARKO-2025-AM,1.03,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,1.04,other_public_boards,"Haymaker Acquisition Corp. 4; biote, Corp.",,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer is currently President and a director of Haymaker Acquisition Corp. 4, a special purpose acquisition company.""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker III before its merger with biote, Corp. in May 2022, and he has served on the board of biote, Corp. since such""",1,value,exact,no
+ARKO-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2025-AM,1.04,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2025-AM,1.05,other_boards_not_public,"Crane (defined term = the Crane Group, Inc.) [no]; Brookings Institution [no]; Committee for Economic Development [no]",,"The proxy defines “Crane” (in Michael J. Gade's biography) as 'the Crane Group, Inc.', 'a 4th generation family office'. No EDGAR registrant named Crane Group, ; Trusteeship of a non-profit institution; it has no shares. No EDGAR registrant under this name.; Trusteeship of a non-profit organization; it has no shares. No EDGAR registrant under this name.",2,value,n/a (context),no
+ARKO-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2025-AM,1.05,ceo_of_unlisted_company,"Who Brew, LLC",,Proxy: 'a franchisee of the fast-growing 7 Brew brand'; a limited liability company with no ticker given. No EDGAR registrant found under 'Who Brew'.,2,value,n/a (context),no
+ARKO-2025-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2025-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2025-AM,1.06,other_boards_not_public,Ligad Investments & Building Ltd. [no],,Proxy states it was taken private in January 2013 (formerly on the Tel Aviv Stock Exchange). It is a foreign company with no SEC filings; the proxy's own words ,2,value,n/a (context),no
+ARKO-2025-AM,1.06,is_sitting_public_ceo,ARKO Corp. (this company),,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Arie Kotler has served as the Chairman and Chief Executive Officer of ARKO since the Business Combination in which GPM became our wholly owned subsidiary, and a""",1,value,exact,no
+ARKO-2025-AM,1.06,ceo_of_unlisted_company,"GPM Investments, LLC (“GPM”)",,Proxy: GPM became ARKO's 'wholly owned subsidiary' in the Business Combination.,2,value,n/a (context),no
+ARKO-2025-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,meeting,meeting_date,2026-06-04,,"INFORMATION ABOUT OUR ANNUAL MEETING > When and where is the Annual Meeting?: ""The Annual Meeting will be held on June 4, 2026, at 10:00 a.m. Eastern Time.""",1,value,n/a (context),no
+ARKO-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ARKO-2026-AM,1.01,other_public_boards,ARKO Petroleum Corp. (“APC”),,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Edmiston has also served on the APC Board since February 2026.""",1,value,exact,no
+ARKO-2026-AM,1.01,other_boards_not_public,"GTT Communications, Inc. [no]; Key Energy Services, Inc. [no]; Real Alloy [no]",,"GTT's own filings: Form 25-NSE filed 2021-07-21 (acc. 0000876661-21-001103) removed its listing, and Form 15-12G filed 2021-11-09 (acc. 0001628280-21-022361) te; Key Energy's own Form 15-12B filed 2020-12-14 (acc. 0001193125-20-317107) terminated registration of its Common Stock; no later 10-K or 8-A. Proxy gives no exch; No EDGAR filer named Real Alloy (company search returns none). Full-text search shows Real Alloy only as a business of Real Industry, Inc. (CIK 0000038984), who",2,value,n/a (context),no
+ARKO-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2026-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2026-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,1.03,other_public_boards,ARKO Petroleum Corp. (“APC”),,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Avram (Avi) Friedman, one of our directors since June 2023 has also served on the APC Board since February 2026.""",1,value,exact,no
+ARKO-2026-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2026-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,1.04,other_public_boards,"ARKO Petroleum Corp. (“APC”); Suncrete, Inc.; OneSpaWorld Holdings; biote, Corp.; The Lovesac Company",,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer has served on the board of directors of APC (the “APC Board”) since February 2026.""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. 4 before its merger with Suncrete, Inc. (NYSE: RMIX), a pure-play ready-mix concrete company""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. I before its merger with OneSpaWorld Holdings (NASDAQ: OSW) in March 2019, where he continue""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Heyer was an officer and director of Haymaker Acquisition Corp. III before its merger with biote, Corp. (NASDAQ: BTMD), a provider of preventative healthcar""; DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Since 2010, Mr. Heyer",1,value,exact,no
+ARKO-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2026-AM,1.04,ceo_of_unlisted_company,Mistral Equity Partners,,"Proxy calls it “a private equity fund founded in 2007”; its EDGAR entities (Mistral Equity Partners, LP, CIK 0001414551; Mistral Equity Partners QP LP, CIK 0001427600; Mistral Equity GP LLC, CIK 00014",2,value,n/a (context),no
+ARKO-2026-AM,1.04,total_public_boards,6,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ARKO-2026-AM,1.05,other_boards_not_public,"Crane Group, Inc. [no]; the Brookings Institution [no]; the Committee for Economic Development [no]",,"Proxy describes it as “a fourth generation family office operating several diversified companies”, with no exchange or ticker; EDGAR company search for 'Crane G; Proxy calls the role 'Trustee' of an institution (non-profit board of trustees); no equity; EDGAR company search 'Brookings Institution' returns no filer.; Proxy calls the role 'Trustee'; no equity; EDGAR company search 'Committee for Economic Development' returns no filer.",2,value,n/a (context),no
+ARKO-2026-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+ARKO-2026-AM,1.05,ceo_of_unlisted_company,"Who Brew, LLC",,"Proxy describes it as an LLC “formed in 2023, a franchisee of the fast-growing 7 Brew brand” with no exchange or ticker; EDGAR company search for 'Who Brew' returns no filer, so it has no Exchange Act",2,value,n/a (context),no
+ARKO-2026-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ARKO-2026-AM,1.06,other_public_boards,ARKO Petroleum Corp. (“APC”),,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Kotler has also served as Chief Executive Officer and Chairman of APC, since its formation in July 2025 and as Chief Executive Officer and President of GPM,""",1,value,exact,no
+ARKO-2026-AM,1.06,other_boards_not_public,Ligad Investments & Building Ltd. [no],,Proxy: publicly traded on the Tel Aviv Stock Exchange “until it was taken private in January 2013”.,2,value,n/a (context),no
+ARKO-2026-AM,1.06,is_sitting_public_ceo,ARKO Corp. (this company),,"DIRECTORS & NAMED EXECUTIVE OFFICERS > Director Nominees: ""Mr. Kotler has also served as Chief Executive Officer and Chairman of APC, since its formation in July 2025 and as Chief Executive Officer and President of GPM,""",1,value,exact,no
+ARKO-2026-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2024-AM,meeting,meeting_date,2024-05-09,,2024-05-09,1,value,n/a (context),no
+ATEN-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ATEN-2024-AM,1.01,other_public_boards,Viavi Solutions Inc.,,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He is currently also a director of Viavi Solutions Inc. (Nasdaq: VIAV), a network and service enablement and optical coatings company.""",1,value,exact,no
+ATEN-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2024-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2024-AM,1.02,other_public_boards,"MACOM Technology Solutions Holdings, Inc.",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He is currently a director of MACOM Technology Solutions Holdings, Inc. (Nasdaq: MTSI) as well as several privately-held companies.""",1,value,exact,no
+ATEN-2024-AM,1.02,other_boards_not_public,"several privately-held companies (unnamed, number not stated) [no]",,"The proxy's own words: 'privately-held companies'. Companies are not named, so no filing check is possible.",2,value,n/a (context),no
+ATEN-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2024-AM,1.02,ceo_of_unlisted_company,"Summit Partners, L.P.",,"Proxy silent on listing. EDGAR filer SUMMIT PARTNERS L P (CIK 0000830588, Boston, 222 Berkeley Street) files only as an investor (13F-HR, Form 4, SC 13G/A and SCHEDULE 13G/A, N-PX); no 10-K, 8-K, DEF ",2,value,n/a (context),no
+ATEN-2024-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2024-AM,1.03,other_public_boards,Immersion Corporation; Universal Electronics,,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as the Chief Executive Officer of Immersion Corporation (Nasdaq: IMMR), a developer and licensor of touch feedback technology, since Janua""; BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as a member of the board of directors of Universal Electronics (NASDAQ: UEIC) since December 2023.""",1,value,exact,no
+ATEN-2024-AM,1.03,is_sitting_public_ceo,Immersion Corporation,,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as the Chief Executive Officer of Immersion Corporation (Nasdaq: IMMR), a developer and licensor of touch feedback technology, since Janua""",1,value,exact,no
+ATEN-2024-AM,1.03,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2024-AM,1.03,public_boards_besides_own_company,2,boards,this company + Universal Electronics,1,computed,exact,no
+ATEN-2024-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2024-AM,1.04,is_sitting_public_ceo,"A10 Networks, Inc. (this company)",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Dhrupad Trivedi joined A10 Networks, Inc. in December 2019 as president and chief executive officer.""",1,value,exact,no
+ATEN-2024-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2024-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2024-AM,1.05,other_boards_not_public,YeshID [no],,"Form D-only EDGAR filer (YeshID Inc., CIK 0001941381; sole filing Form D 2022-08-05 listing Dana Wolf as Executive Officer and Director)",2,value,n/a (context),no
+ATEN-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2024-AM,1.05,ceo_of_unlisted_company,YeshID,,"Proxy silent on listing. EDGAR registrant 'YeshID Inc.' (CIK 0001941381, Delaware) has a single filing, a Form D (Rule 506(b) exempt offering) filed 2022-08-05 that names Dana Wolf as Executive Office",2,value,n/a (context),no
+ATEN-2024-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2025-AM,meeting,meeting_date,2025-04-17,,"NOTICE OF ANNUAL MEETING OF STOCKHOLDERS: ""The 2025 Annual Meeting of stockholders (the “Annual Meeting”) of A10 Networks, Inc., a Delaware corporation, will be held on Thursday, April 17, 2025 at 12:00 p.m. Pacific Time, at 2300 Orchard Parkway, San Jose, California 95131""",1,value,n/a (context),no
+ATEN-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ATEN-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2025-AM,1.02,other_public_boards,"MACOM Technology Solutions Holdings, Inc. (Nasdaq: MTSI)",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He is currently a director of MACOM Technology Solutions Holdings, Inc. (Nasdaq: MTSI) as well as several privately held companies.""",1,value,exact,no
+ATEN-2025-AM,1.02,other_boards_not_public,"several privately held companies (unnamed, number not stated) [no]",,"Proxy describes them as ""privately held companies""; not named, so no filing check is possible.",2,value,n/a (context),no
+ATEN-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2025-AM,1.02,ceo_of_unlisted_company,"Summit Partners, L.P.",,"Summit Partners, L.P. is a private equity/growth equity firm. Its EDGAR record (SUMMIT PARTNERS L P, CIK 0000830588) shows no ticker or exchange, and no 10-K, 8-A or other registrant filing; its 277 r",2,value,n/a (context),no
+ATEN-2025-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2025-AM,1.03,other_public_boards,Barnes and Noble Education (NYSE: BNED); Immersion Corporation (Nasdaq: IMMR); Universal Electronics (Nasdaq: UEIC),,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer was appointed as a director of Barnes and Noble Education (NYSE: BNED) in June 2024.""; BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as the Chief Executive Officer of Immersion Corporation (Nasdaq: IMMR), a developer and licensor of touch feedback technology, since Janua""; BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as a member of the board of directors of Universal Electronics (Nasdaq: UEIC) since December 2023.""",1,value,exact,no
+ATEN-2025-AM,1.03,is_sitting_public_ceo,Immersion Corporation (Nasdaq: IMMR),,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as the Chief Executive Officer of Immersion Corporation (Nasdaq: IMMR), a developer and licensor of touch feedback technology, since Janua""",1,value,exact,no
+ATEN-2025-AM,1.03,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2025-AM,1.03,public_boards_besides_own_company,3,boards,"this company + Barnes and Noble Education (NYSE: BNED), Universal Electronics (Nasdaq: UEIC)",1,computed,exact,no
+ATEN-2025-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2025-AM,1.04,is_sitting_public_ceo,"A10 Networks, Inc. (this company)",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Dhrupad Trivedi joined A10 Networks, Inc. in December 2019 as President and Chief Executive Officer.""",1,value,exact,no
+ATEN-2025-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2025-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2025-AM,1.05,other_boards_not_public,YeshID [no],,"Form D-only filer on EDGAR (YeshID Inc., CIK 0001941381, one Form D filed 2022-08-05); proxy names no exchange.",2,value,n/a (context),no
+ATEN-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2025-AM,1.05,ceo_of_unlisted_company,YeshID,,"Proxy gives no exchange or ticker. EDGAR: YeshID Inc. (CIK 0001941381, Delaware) has a single filing, a Form D (Notice of Exempt Offering of Securities) filed 2022-08-05; no 10-K, 8-A or other registr",2,value,n/a (context),no
+ATEN-2025-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2026-AM,meeting,meeting_date,2026-04-22,,"{'value': '2026-04-22', 'quote': 'The 2026 Annual Meeting of stockholders (the “Annual Meeting”) of A10 Networks, Inc., a Delaware corporation, will be held on Wednesday, April 22, 2026 at 10:00 a.m. Pacific Time, at 2300 Orchard Parkway, San Jose, California 95131', 'section': 'NOTICE OF ANNUAL MEETING OF STOCKHOLDERS', 'proxy_date': ""2026-03-10 (DEF 14A filed 2026-03-10; director table 'as of March 10, 2026'; Notice first mailed on or about March 10, 2026)""}",1,value,n/a (context),no
+ATEN-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+ATEN-2026-AM,1.01,other_public_boards,"IAC, Inc.",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He is also member of the board of directors of IAC, Inc. (Nasdaq: IAC), a holding company focused on internet, media, and digital services, where he serves on t""",1,value,exact,no
+ATEN-2026-AM,1.01,other_boards_not_public,unnamed private company (manufacturer of YIG-based RF and microwave components) [no],,"Proxy calls it 'a private company'; the company is not named, so no EDGAR check is possible.",2,value,n/a (context),no
+ATEN-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2026-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2026-AM,1.02,other_public_boards,"MACOM Technology Solutions Holdings, Inc.",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He is currently a director of MACOM Technology Solutions Holdings, Inc. (Nasdaq: MTSI) as well as several privately held companies.""",1,value,exact,no
+ATEN-2026-AM,1.02,other_boards_not_public,several privately held companies (unnamed; number not stated) [no],,"Proxy says 'several privately held companies'; they are not named, so no EDGAR check is possible.",2,value,n/a (context),no
+ATEN-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2026-AM,1.02,ceo_of_unlisted_company,"Summit Partners, L.P.",,"Proxy is silent on listing. EDGAR company search: SUMMIT PARTNERS L P (CIK 0000830588) has no 10-K, 8-K, DEF 14A, 8-A12B, 25-NSE or 15-12G filings, and every other 'Summit Partners' EDGAR entity is a ",2,value,n/a (context),no
+ATEN-2026-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2026-AM,1.03,other_public_boards,"Immersion Corporation; Barnes & Noble Education, Inc.; Universal Electronics Inc.",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""He has been a member of Immersion’s board of directors since March 2020 and previously served as Executive Chairman from August 2020 to January 2023.""; BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""In connection with his role as Chief Executive Officer of Immersion, Mr. Singer also serves on the boards of directors of Barnes & Noble Education, Inc. (NYSE: ""; BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""In connection with his role as Chief Executive Officer of Immersion, Mr. Singer also serves on the boards of directors of Barnes & Noble Education, Inc. (NYSE: """,1,value,exact,no
+ATEN-2026-AM,1.03,is_sitting_public_ceo,Immersion Corporation,,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Mr. Singer has served as Chief Executive Officer of Immersion Corporation (Nasdaq: IMMR), a developer and licensor of touch feedback technology, since January 2""",1,value,exact,no
+ATEN-2026-AM,1.03,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2026-AM,1.03,public_boards_besides_own_company,3,boards,"this company + Barnes & Noble Education, Inc., Universal Electronics Inc.",1,computed,exact,no
+ATEN-2026-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2026-AM,1.04,is_sitting_public_ceo,"A10 Networks, Inc. (this company)",,"BOARD OF DIRECTORS AND CORPORATE GOVERNANCE > Nominees for Director: ""Dhrupad Trivedi joined A10 Networks, Inc. in December 2019 as President and Chief Executive Officer.""",1,value,exact,no
+ATEN-2026-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+ATEN-2026-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+ATEN-2026-AM,1.05,other_boards_not_public,YeshID [no],,YeshID Inc. (CIK 0001941381) files only Form D; the proxy does not describe it as public.,2,value,n/a (context),no
+ATEN-2026-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+ATEN-2026-AM,1.05,ceo_of_unlisted_company,YeshID,,"Proxy does not describe YeshID as public. EDGAR company search: YeshID Inc. (CIK 0001941381, Delaware) has filed only a Form D (2022-08-05, accession 0001941381-22-000001). A Form D-only filer has no ",2,value,n/a (context),no
+ATEN-2026-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,meeting,meeting_date,2024-06-27,,2024-06-27,1,value,n/a (context),no
+DELL-2024-AM,meeting,company_board_limit_policy,"{""limit"": ""A non-employee director generally should not simultaneously serve on more than six public company boards, including the Dell Technologies Board. No separate limit for directors who are CEOs is stated."", ""quote"": ""Generally, a non-employee director should not simultaneously serve on more t",,,1,value,n/a (context),no
+DELL-2024-AM,1.01,other_public_boards,SecureWorks Corp.,,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mr. Dell is Non-Executive Chairman of SecureWorks Corp., a global provider of intelligence-driven information security solutions. SecureWorks Corp. is a public """,1,value,exact,no
+DELL-2024-AM,1.01,other_boards_not_public,"Catalyst [no]; Indian School of Business (Hyderabad, India) [no]; World Economic Forum [no]",,non-profit organization per the proxy; no equity; educational institution (business school) per the proxy; not an issuer of listed equity; international not-for-profit foundation; no equity (proxy gives no listing),2,value,n/a (context),no
+DELL-2024-AM,1.01,is_sitting_public_ceo,Dell Technologies Inc. (this company),,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mr. Dell serves as Chairman of the Board and Chief Executive Officer of Dell Technologies.""",1,value,exact,no
+DELL-2024-AM,1.01,ceo_of_unlisted_company,Dell Inc.,,"wholly-owned subsidiary of Dell Technologies per the proxy, so it has no publicly traded equity",2,value,n/a (context),no
+DELL-2024-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.02,other_public_boards,"PayPal Holdings, Inc.",,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""as a director of PayPal Holdings, Inc., a digital payments system operator, since July 2015""",1,value,exact,no
+DELL-2024-AM,1.02,other_boards_not_public,Infoworks.io [no]; Georgia Tech Foundation [no],,"Form D-only filer (InfoWorks.io, Inc., CIK 1642431: five Form D filings 2015-2022, no 10-K, 8-A or S-1); university foundation (non-profit); no equity",2,value,n/a (context),no
+DELL-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.03,other_public_boards,"TKO Group Holdings, Inc.; Unity Software Inc.; Endeavor Group Holdings, Inc.",,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""TKO Group Holdings, Inc., a premium sports and entertainment company,""; Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Unity Software Inc., a company that provides a real-time development platform,""; Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Endeavor Group Holdings, Inc., an entertainment, sports and content company, where he is Chairman of the board of directors.""",1,value,exact,no
+DELL-2024-AM,1.03,other_boards_not_public,Qualtrics International Inc. [no],,Nasdaq filed Form 25 for Qualtrics Class A Common Stock on 2023-06-28 and Qualtrics filed Form 15-12G on 2023-07-10 (one holder of record) after its acquisition,2,value,n/a (context),no
+DELL-2024-AM,1.03,boards_ended_before_meeting,"Motorola Solutions, Inc. (2024-05-14)",,"{'status': 'already left before the Dell proxy date and the meeting', 'date': '2024-05-14', 'event': ""his term on the Motorola Solutions board expired at the conclusion of Motorola Solutions' 2024 Ann",2,value,n/a (context),no
+DELL-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.03,ceo_of_unlisted_company,Silver Lake,,"private technology investment firm; EDGAR lists Silver Lake only as fund, general-partner and management-company entities (e.g. Silver Lake Technology Associates V, L.P., CIK 1737657; Silver Lake Mana",2,value,n/a (context),no
+DELL-2024-AM,1.03,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.03,count_at_proxy_date,5,boards,before the dated departures are applied,1,computed,n/a (context),no
+DELL-2024-AM,1.04,other_public_boards,Southern Company; New Fortress Energy Inc.,,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mr. Grain has served since December 2012 as a director of Southern Company, a gas and utility holding company, where he is currently the Lead Independent Direct""; Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""since January 2019 as a director of New Fortress Energy Inc., an integrated liquified natural gas company.""",1,value,exact,no
+DELL-2024-AM,1.04,other_boards_not_public,Brookings Institution [no]; Martha’s Vineyard Museum [no],,non-profit public policy organization; no equity (proxy gives no listing); museum (non-profit); no equity (proxy gives no listing),2,value,n/a (context),no
+DELL-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.04,ceo_of_unlisted_company,Grain Management LLC,,"the proxy calls it a private equity firm (an LLC); EDGAR company search finds no registrant named Grain Management, only private fund vehicles (e.g. Grain Communications Opportunity Fund, L.P.) and no",2,value,n/a (context),no
+DELL-2024-AM,1.04,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.05,other_public_boards,S&P Global Inc.,,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mr. Green is also a member of the board of directors of S&P Global Inc., a company that provides financial ratings, benchmarks, analytics and data.""",1,value,exact,no
+DELL-2024-AM,1.05,other_boards_not_public,GTY Technology Holdings Inc. [no],,delisted from Nasdaq (Form 25 filed 2022-07-07) and deregistered (Form 15-12G filed 2022-07-18): Approximate number of holders of record as of the certification,2,value,n/a (context),no
+DELL-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.05,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.06,other_public_boards,The Boeing Company,,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mr. Mollenkopf has served as a director of The Boeing Company, or Boeing, a leading global aerospace firm, since April 2020 and as Independent Chair of the Boar""",1,value,exact,no
+DELL-2024-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.07,other_public_boards,Booking Holdings Inc.; Ford Motor Company,,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Ms. Vojvodich Radakovich currently serves on the boards of directors of Booking Holdings Inc., a global provider of online travel and related services, Ford Mot""; Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Ms. Vojvodich Radakovich currently serves on the boards of directors of Booking Holdings Inc., a global provider of online travel and related services, Ford Mot""",1,value,exact,no
+DELL-2024-AM,1.07,other_boards_not_public,"Figma, Inc. [no]",,"Form D-only filer at the meeting date (Form D filings 2013-2024, latest filed 2024-05-29); its Form 8-A12B was filed 2025-07-22 and IPO prospectus (424B4) 2025-",2,value,n/a (context),no
+DELL-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+DELL-2024-AM,1.08,other_public_boards,"Amgen Inc.; The Goldman Sachs Group, Inc.",,"Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mrs. Kullman also serves as a director of Amgen Inc., a developer and manufacturer of human therapeutics, and The Goldman Sachs Group, Inc., a global investment""; Proposal 1 – Election of Directors – Director Qualifications and Information (biography): ""Mrs. Kullman also serves as a director of Amgen Inc., a developer and manufacturer of human therapeutics, and The Goldman Sachs Group, Inc., a global investment""",1,value,exact,no
+DELL-2024-AM,1.08,other_boards_not_public,"Carbon, Inc. [no]; Northwestern University [no]",,"Form D-only filer (Carbon, Inc., formerly Carbon3D, Inc., CIK 1648978: Form D and D/A filings 2015-2019, nothing else); university (non-profit); no equity",2,value,n/a (context),no
+DELL-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+DELL-2024-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,meeting,meeting_date,2024-05-29,,"PROXY STATEMENT (opening paragraph): ""our Annual Meeting of Shareholders to be held on Wednesday, May 29, 2024.""",1,value,n/a (context),no
+DG-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+DG-2024-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.02,other_public_boards,PVH Corp.,,"PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Mr. Calbert has served as a director of PVH Corp. since May 2022 and served as a director of Executive Network Partnering Corporation from September 2020 to Oct""",1,value,exact,no
+DG-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.04,other_public_boards,"Reddit, Inc.; Chipotle Mexican Grill, Inc.",,"PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Ms. Fili-Krushel has served as a director of Reddit, Inc. since January 2022 and Chipotle Mexican Grill, Inc. since March 2019 and served as a director of I2PO ""; PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Ms. Fili-Krushel has served as a director of Reddit, Inc. since January 2022 and Chipotle Mexican Grill, Inc. since March 2019 and served as a director of I2PO """,1,value,exact,no
+DG-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.04,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2024-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.07,other_public_boards,"Keurig Dr Pepper Inc.; Archer Daniels Midland Company; Gannett Co., Inc.",,"PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016 and Gannett Co., Inc. since June 2""; PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016 and Gannett Co., Inc. since June 2""; PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016 and Gannett Co., Inc. since June 2""",1,value,exact,no
+DG-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.07,ceo_of_unlisted_company,"La Grenade Group, LLC; Mavis Foods, LLC",,"Proxy describes it as 'a marketing consultancy' organized as an LLC; no EDGAR registrant found: EDGAR company-name searches (browse-edgar, output=atom) for 'La Grenade', 'LaGrenade' and 'Grenade Group; Proxy describes it as 'a startup she founded', organized as an LLC; no EDGAR registrant found: EDGAR company-name searches (browse-edgar, output=atom) for 'Mavis Foods' and 'Mavis Food' returned no co",2,value,n/a (context),no
+DG-2024-AM,1.07,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2024-AM,1.08,ceo_of_unlisted_company,Recteq Grills,,"Proxy describes it only as 'a pellet grill company'; no EDGAR registrant found: EDGAR company-name searches (browse-edgar, output=atom) for 'Recteq', 'RecTec' and 'Rec Tec' returned no company; a comp",2,value,n/a (context),no
+DG-2024-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2024-AM,1.09,other_public_boards,KeyCorp,,"PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Mr. Vasos has served as a director of KeyCorp since July 2020.""",1,value,exact,no
+DG-2024-AM,1.09,is_sitting_public_ceo,Dollar General Corporation (this company),,"PROPOSAL 1: Election of Directors — Who are the nominees this year? (Biography): ""Mr. Vasos has served as our Chief Executive Officer since October 2023 and as a member of our Board of Directors since June 2015. He previously served as our Ch""",1,value,exact,no
+DG-2024-AM,1.09,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,meeting,meeting_date,2025-05-29,,"Letter to shareholders (DEAR FELLOW SHAREHOLDERS); also NOTICE OF ANNUAL MEETING OF SHAREHOLDERS (DATE: Thursday, May 29, 2025): ""I am pleased to invite you to the virtual 2025 Annual Meeting of Shareholders of Dollar General Corporation on May 29, 2025, at 8:00 a.m. CT.""",1,value,n/a (context),no
+DG-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+DG-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.02,other_public_boards,PVH Corp.,,"Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Mr. Calbert has served as a director of PVH Corp. since May 2022""",1,value,exact,no
+DG-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.04,other_boards_not_public,Jump Plus Stores ULC [no],,"Jump Plus Stores ULC is a Canadian company (proxy: ""a Canadian chain of Apple Premier Partner consumer electronics stores""). It is not an SEC filer: EDGAR compa",2,value,n/a (context),no
+DG-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.06,other_public_boards,"Keurig Dr Pepper Inc.; Archer Daniels Midland Company; Gannett Co., Inc.",,"Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021""; Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Archer Daniels Midland Company since May 2016""; Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Gannett Co., Inc. since June 2015""",1,value,exact,no
+DG-2025-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.06,ceo_of_unlisted_company,"La Grenade Group, LLC",,,2,value,n/a (context),no
+DG-2025-AM,1.06,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.07,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.07,ceo_of_unlisted_company,Recteq Grills,,,2,value,n/a (context),no
+DG-2025-AM,1.07,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2025-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2025-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2025-AM,1.09,other_public_boards,KeyCorp,,"Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Mr. Vasos has served as a director of KeyCorp since July 2020.""",1,value,exact,no
+DG-2025-AM,1.09,is_sitting_public_ceo,Dollar General Corporation (this company),,"Election of Directors (ITEM 1 ON THE BALLOT) - Who are the nominees this year? (Biography): ""Mr. Vasos currently serves as our Chief Executive Officer, having returned to Dollar General in October 2023""",1,value,exact,no
+DG-2025-AM,1.09,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,meeting,meeting_date,2026-05-28,,"PROXY STATEMENT (introduction)', 'proxy_statement_date': '2026-04-07', 'proxy_statement_date_quote': 'Proxy Statement dated April 7, 2026', 'confirmation': 'Dollar General Form 8-K filed 2026-06-02 (accession 0001104659-26-069198), Item 5.07: The Annual Meeting of the Company’s Shareholders was held on May 28, 2026.: ""our Annual Meeting of Shareholders to be held at 8:00 a.m., Central Time, on Thursday, May 28, 2026""",1,value,n/a (context),no
+DG-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+DG-2026-AM,1.01,other_public_boards,PVH Corp.,,"Election of Directors (ITEM 1 ON THE BALLOT) > MICHAEL M. CALBERT > Biography: ""Mr. Calbert has served as a director of PVH Corp. since May 2022 and previously served as a director of Executive Network Partnering Corporation from September """,1,value,exact,no
+DG-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.03,other_public_boards,"Canadian Tire Corporation, Limited",,"Election of Directors (ITEM 1 ON THE BALLOT) > GREGORY H. HICKS > Biography: ""Mr. Hicks has served as a director of Canadian Tire since March 2020 and previously served as a director of CT REIT from May 2018 to May 2021.""",1,value,exact,no
+DG-2026-AM,1.03,is_sitting_public_ceo,"Canadian Tire Corporation, Limited",,"Election of Directors (ITEM 1 ON THE BALLOT) > GREGORY H. HICKS > Biography: ""Mr. Hicks has served as President and Chief Executive Officer of Canadian Tire Corporation, Limited, a Canadian retail company, since March 2020.""",1,value,exact,no
+DG-2026-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.03,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+DG-2026-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2026-AM,1.04,other_boards_not_public,Jump Plus Stores ULC [no],,"Proxy gives no exchange, ticker, 'publicly traded' or 'listed' wording: it describes Jump Plus Stores ULC only as 'a Canadian chain of Apple Premium Partner con",2,value,n/a (context),no
+DG-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.05,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2026-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.05,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.06,other_public_boards,"Keurig Dr Pepper Inc.; Archer Daniels Midland Company; USA TODAY Co., Inc. (f/k/a Gannett Co., Inc.)",,"Election of Directors (ITEM 1 ON THE BALLOT) > DEBRA A. SANDLER > Biography: ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016, and USA TODAY Co., Inc. (f/k/a Ga""; Election of Directors (ITEM 1 ON THE BALLOT) > DEBRA A. SANDLER > Biography: ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016, and USA TODAY Co., Inc. (f/k/a Ga""; Election of Directors (ITEM 1 ON THE BALLOT) > DEBRA A. SANDLER > Biography: ""Ms. Sandler has served as a director of Keurig Dr Pepper Inc. since March 2021, Archer Daniels Midland Company since May 2016, and USA TODAY Co., Inc. (f/k/a Ga""",1,value,exact,no
+DG-2026-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.06,ceo_of_unlisted_company,"La Grenade Group, LLC",,"Proxy describes it only as 'a marketing consultancy that serves packaged goods companies operating in the health and wellness space' (an LLC), with no exchange or 'publicly traded' wording; EDGAR comp",2,value,n/a (context),no
+DG-2026-AM,1.06,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.07,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2026-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.07,ceo_of_unlisted_company,Recteq Grills,,"Proxy describes it only as 'a pellet grill company', with no exchange, ticker or 'publicly traded' wording; EDGAR company search (browse-edgar?company=...&action=getcompany, prefix match on registrant",2,value,n/a (context),no
+DG-2026-AM,1.07,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+DG-2026-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+DG-2026-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+DG-2026-AM,1.09,other_public_boards,KeyCorp,,"Election of Directors (ITEM 1 ON THE BALLOT) > TODD J. VASOS > Biography: ""Mr. Vasos has served as a director of KeyCorp since July 2020 and as its lead independent director since January 2026.""",1,value,exact,no
+DG-2026-AM,1.09,is_sitting_public_ceo,Dollar General Corporation (this company),,"Election of Directors (ITEM 1 ON THE BALLOT) > TODD J. VASOS > Biography: ""Mr. Vasos has served as our Chief Executive Officer since October 2023 when he returned to Dollar General after previously serving as our CEO from June 2015 to """,1,value,exact,no
+DG-2026-AM,1.09,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GH-2024-AM,meeting,meeting_date,2024-06-12,,"Notice of 2024 Annual Meeting of Stockholders: ""NOTICE IS HEREBY GIVEN that the 2024 Annual Meeting of Stockholders (the “Annual Meeting”) of Guardant Health, Inc., a Delaware corporation, will be held on Wednesday, June 12, 2024, at 9:30 a.m. Pacific Time, virtually at www.virtualshareholdermeeting.com/GH2024.""",1,value,n/a (context),no
+GH-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+GH-2024-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+GH-2024-AM,1.01,is_sitting_public_ceo,"Guardant Health, Inc. (this company)",,"Proposal 1: Election of Directors > Information about Class III Director Nominees > Class III Directors with Term Expiring at the 2024 Annual Meeting: ""Dr. Eltoukhy is our co-founder and has served as our CEO and a member of our Board since January 2013. On August 5, 2021, Dr. Eltoukhy was appointed as Chairper""",1,value,exact,no
+GH-2024-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GH-2024-AM,1.02,other_public_boards,"Denali Therapeutics Inc.; Gritstone bio, Inc.; argenx SE",,"Proposal 1: Election of Directors > Information about Class III Director Nominees > Class III Directors with Term Expiring at the 2024 Annual Meeting: ""Mr. Krognes currently serves as a member of the Board of Directors at Denali Therapeutics Inc., Gritstone bio, Inc., argenx SE and ClavystBio, and previously se""; Proposal 1: Election of Directors > Information about Class III Director Nominees > Class III Directors with Term Expiring at the 2024 Annual Meeting: ""Mr. Krognes currently serves as a member of the Board of Directors at Denali Therapeutics Inc., Gritstone bio, Inc., argenx SE and ClavystBio, and previously se""; Proposal 1: Election of Directors > Information about Class III Director Nominees > Class III Directors with Term Expiring at the 2024 Annual Meeting: ""Mr. Krognes currently serves as a member of the Board of Directors at Denali Therapeutics Inc., Gritstone bio, Inc., a",1,value,exact,no
+GH-2024-AM,1.02,other_boards_not_public,ClavystBio [no],,"The GH proxy gives no listing words for ClavystBio (no exchange, ticker, 'public' or 'private'). ClavystBio is not an SEC filer: EDGAR company searches for 'Cla",2,value,n/a (context),no
+GH-2024-AM,1.02,boards_leaving_after_meeting,"Gritstone bio, Inc. (2024-06-17)",,"Leaves at Gritstone's 2024 annual meeting, held June 17, 2024 (5 days AFTER the GH meeting of June 12, 2024). The GH proxy is silent on this (says 'currently serves'). Tier 2: Gritstone 8-K filed 2024",2,value,n/a (context),no
+GH-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+GH-2024-AM,1.02,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+GH-2024-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+GH-2024-AM,1.03,is_sitting_public_ceo,"Guardant Health, Inc. (this company)",,"Proposal 1: Election of Directors > Information about Class III Director Nominees > Class III Directors with Term Expiring at the 2024 Annual Meeting: ""On August 5, 2021, the Company appointed Dr. Talasaz as Co-CEO of the Company. On the same day, Dr. Talasaz resigned his position as Chairperson of the Board an""",1,value,exact,no
+GH-2024-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GH-2026-AM,meeting,meeting_date,2026-06-17,,"Notice of 2026 Annual Meeting of Stockholders: ""NOTICE IS HEREBY GIVEN that the 2026 Annual Meeting of Stockholders (the “Annual Meeting”) of Guardant Health, Inc., a Delaware corporation, will be held on Wednesday, June 17, 2026, at 9:30 a.m. Pacific Time, virtually at www.virtualshareholdermeeting.com/GH2026.""",1,value,n/a (context),no
+GH-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+GH-2026-AM,1.01,other_public_boards,"Takeda Pharmaceutical Company Limited; Olema Pharmaceuticals, Inc.; Kyverna Therapeutics Inc; Corvus Pharmaceuticals, Inc.; BioMarin Pharmaceutical Inc.",,"Proposal 1: Election of Directors > Information about Class II Director Nominees > Class II Directors with Term Expiring at the 2026 Annual Meeting: ""Mr. Clark currently serves on the Board of Directors of Takeda Pharmaceutical Company Limited, Olema Pharmaceuticals, Inc., Kyverna Therapeutics Inc, Corvus Pha""; Proposal 1: Election of Directors > Information about Class II Director Nominees > Class II Directors with Term Expiring at the 2026 Annual Meeting: ""Mr. Clark currently serves on the Board of Directors of Takeda Pharmaceutical Company Limited, Olema Pharmaceuticals, Inc., Kyverna Therapeutics Inc, Corvus Pha""; Proposal 1: Election of Directors > Information about Class II Director Nominees > Class II Directors with Term Expiring at the 2026 Annual Meeting: ""Mr. Clark currently serves on the Board of Directors of Takeda Pharmaceutical Company Limited, Olema Pharmaceuticals, Inc., ",1,value,exact,no
+GH-2026-AM,1.01,boards_leaving_after_meeting,Takeda Pharmaceutical Company Limited (2026-06-24),,"2026-06-24 (after the 2026-06-17 meeting). The proxy says only 'June 2026' / 'ordinary general meeting of shareholders in June 2026'; Takeda's 20-F dates its 150th Annual General Meeting to June 24, 2",2,value,n/a (context),no
+GH-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+GH-2026-AM,1.01,total_public_boards,6,boards,this company + the listed boards above,1,computed,exact,no
+GH-2026-AM,1.02,other_public_boards,Bristol-Myers Squibb Company,,"Proposal 1: Election of Directors > Information about Class II Director Nominees > Class II Directors with Term Expiring at the 2026 Annual Meeting: ""Dr. Hidalgo currently serves as a member of the Board of Directors of Bristol-Myers Squibb Company.""",1,value,exact,no
+GH-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+GH-2026-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,meeting,meeting_date,2024-05-22,,"NOTICE OF 2024 ANNUAL MEETING OF STOCKHOLDERS: ""Notice is given that the 2024 Annual Meeting of Stockholders (including any adjournments or postponements, the “Annual Meeting”) of Gulfport Energy will be held on May 22, 2024 at 9:00 a.m., Central Time""",1,value,n/a (context),no
+GPOR-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+GPOR-2024-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2024-AM,1.01,other_boards_not_public,Louisiana Tech Foundation [no],,University foundation (non-profit); EDGAR company search 'Louisiana Tech Foundation' returned no registrant; no equity to list.,2,value,n/a (context),no
+GPOR-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2024-AM,1.02,other_boards_not_public,EP Energy Corporation [no],,EP Energy Corporation (CIK 1584952) filed Form 15 on 2020-04-24 terminating registration of its Class A Common Stock and suspending its reporting duty; its same,2,value,n/a (context),no
+GPOR-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.05,other_public_boards,Studio City International Holdings,,"ELECTION OF DIRECTORS AND DIRECTOR BIOGRAPHIES > David Reganato > Other Public Company Directorships Held in the Past Five Years: ""Studio City International Holdings (since March 2014)""",1,value,exact,no
+GPOR-2024-AM,1.05,other_boards_not_public,"Granite Broadcasting LLC [no]; New Cotai, LLC [no]; Rotech Healthcare Holdings, Inc. [no]; Trident Holding Company, LLC (holding company of TridentCare) [no]",,"No EDGAR registrant named Granite Broadcasting LLC (company search returned no match). An EDGAR registrant 'Granite Broadcasting Corp' (CIK 839621) terminated r; New Cotai, LLC (CIK 1844036) files only Schedule 13G/13G/A as a holder of Studio City International Holdings shares; it is a Delaware limited liability company ; Rotech Healthcare Holdings Inc. (CIK 1858721) filed an S-1 in 2021 that never became effective; the SEC's order of 2022-08-08 declared the registration statemen; No EDGAR registrant under 'Trident Holding Co', 'Trident Topco' (the name Studio City's 20-F uses for this seat) or 'TridentCare' (company searches returned no ",2,value,n/a (context),no
+GPOR-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.05,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2024-AM,1.06,is_sitting_public_ceo,Gulfport Energy Corporation (this company),,"Summary Compensation Table, footnote 5: ""Mr. Reinhart joined the Company as its President and Chief Executive Officer and Director on January 24, 2023.""",1,value,exact,no
+GPOR-2024-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2024-AM,1.07,other_public_boards,Ag Growth International,,"ELECTION OF DIRECTORS AND DIRECTOR BIOGRAPHIES > Mary Shafer-Malicki > Business Experience: ""In addition, Ms. Shafer-Malicki currently serves as a director of Ag Growth International, the University of Wyoming Foundation, as well as a member of industry""",1,value,exact,no
+GPOR-2024-AM,1.07,other_boards_not_public,University of Wyoming Foundation [no],,University foundation (non-profit); EDGAR company search 'University of Wyoming Foundation' returned no registrant; no equity to list.,2,value,n/a (context),no
+GPOR-2024-AM,1.07,boards_ended_before_meeting,Callon Petroleum (2024-04-01),,"Already left before the proxy date: seat ended at the merger's effective time on April 1, 2024. The proxy dates the end only as 'April 2024'; the Callon 8-K dates it: 'By virtue of the Merger, all of ",2,value,n/a (context),no
+GPOR-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2024-AM,1.07,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,meeting,meeting_date,2025-05-21,,"NOTICE OF 2025 ANNUAL MEETING OF STOCKHOLDERS: ""Notice is given that the 2025 Annual Meeting of Stockholders (including any adjournments or postponements, the “Annual Meeting”) of Gulfport Energy will be held on May 21, 2025 at 9:00 a.m., Central Time""",1,value,n/a (context),no
+GPOR-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+GPOR-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2025-AM,1.01,other_boards_not_public,Louisiana Tech Foundation Board [no],,"University foundation (non-profit) named under ""Other Memberships and Positions"", not under public directorships; EDGAR company search ""Louisiana Tech"" returns ",2,value,n/a (context),no
+GPOR-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2025-AM,1.02,other_boards_not_public,EP Energy Corporation [no],,EP Energy Corp (CIK 1584952): Form 25-NSE filed 2019-06-07 by the New York Stock Exchange removing the Class A Common Stock from listing; Form 15-12B filed 2020,2,value,n/a (context),no
+GPOR-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.05,other_public_boards,Studio City International Holdings,,"ELECTION OF DIRECTORS AND DIRECTOR BIOGRAPHIES > David Reganato > Other Public Company Directorships Held in the Past Five Years: ""Studio City International Holdings (since March 2014)""",1,value,exact,no
+GPOR-2025-AM,1.05,other_boards_not_public,"Granite Broadcasting LLC [no]; New Cotai, LLC [no]; Rotech Healthcare Holdings, Inc. [no]; Trident Holding Company, LLC (holding company of TridentCare) [no]",,"No EDGAR registrant named ""Granite Broadcasting LLC"" (company search returns none). The predecessor Granite Broadcasting Corporation (CIK 839621) filed Form 15-; New Cotai, LLC (CIK 1844036) files only Schedules 13G/13G-A as a holder of Studio City shares; it is a Delaware LLC (""TYPE OF REPORTING PERSON (SEE INSTRUCTIONS; Rotech Healthcare Holdings Inc. (CIK 1858721) filed an IPO registration statement (S-1 2021-07-06, amended to 2021-09-17) that never became effective; SEC order; No EDGAR registrant for ""Trident Holding Co"", ""TridentCare"" or ""Trident Topco"" (the name Studio City's 20-F uses for the same seat). The only similar EDGAR file",2,value,n/a (context),no
+GPOR-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.05,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2025-AM,1.06,is_sitting_public_ceo,Gulfport Energy Corporation (this company),,"COMPENSATION TABLES > Summary Compensation Table, footnote (4): ""Mr. Reinhart joined the Company as its President and Chief Executive Officer and Director on January 24, 2023.""",1,value,exact,no
+GPOR-2025-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2025-AM,1.07,other_public_boards,Ag Growth International,,"ELECTION OF DIRECTORS AND DIRECTOR BIOGRAPHIES > Mary Shafer-Malicki: ""Other Public Company Directorships Held in the Past Five Years: Ag Growth International (Since January 2024)""",1,value,exact,no
+GPOR-2025-AM,1.07,other_boards_not_public,"University of Wyoming Foundation [no]; Chemical Engineering department, University of Wyoming (industry advisory board) [no]",,"University foundation named in the biography, not under public directorships; not a company with equity; EDGAR company search ""University of Wyoming"" returns no; University academic department advisory board; not a company with equity.",2,value,n/a (context),no
+GPOR-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2025-AM,1.07,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,meeting,meeting_date,2026-05-27,,"NOTICE OF 2026 ANNUAL MEETING OF STOCKHOLDERS', 'held_confirmation': 'Tier 2: Gulfport 8-K filed 2026-06-01 (Item 5.07) states the meeting was held on May 27, 2026 and all six nominees were elected.', 'held_confirmation_quote': 'On May 27, 2026, the Company held its 2026 Annual Meeting of Stockholders: ""Notice is given that the 2026 Annual Meeting of Stockholders (including any adjournments or postponements, the “Annual Meeting”) of Gulfport Energy will be held on May 27, 2026 at 9:00 a.m., Central Time at Gulfport Headquarters located at 713 Market Drive, Oklahoma City, OK 73114""",1,value,n/a (context),no
+GPOR-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+GPOR-2026-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2026-AM,1.01,other_boards_not_public,Louisiana Tech Foundation Board [no]; Audubon Institute [no],,"University foundation named under ""Other Memberships and Positions"", not under ""Other Public Company Directorships""; no EDGAR registrant found for ""Louisiana Te; Institution named under ""Other Memberships and Positions"", not under ""Other Public Company Directorships""; no EDGAR registrant found for ""Audubon Institute"" or ",2,value,n/a (context),no
+GPOR-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2026-AM,1.02,other_boards_not_public,EP Energy Corporation [no],,EP Energy Corp (CIK 1584952) filed Form 15 on 2020-04-24 terminating registration of its Class A Common Stock (Rules 12g-4(a)(1) and 15d-6) and has filed nothin,2,value,n/a (context),no
+GPOR-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2026-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,1.05,other_public_boards,Studio City International Holdings,,"ELECTION OF DIRECTORS AND DIRECTOR BIOGRAPHIES (Proposal 1) > David Reganato (Other Public Company Directorships Held in the Past Five Years): ""Studio City International Holdings (since March 2014)""",1,value,exact,no
+GPOR-2026-AM,1.05,other_boards_not_public,"Granite Broadcasting LLC [no]; New Cotai, LLC [no]; Rotech Healthcare Holdings, Inc. [no]; Trident Holding Company, LLC (holding company of TridentCare) [no]",,"No EDGAR registrant named Granite Broadcasting LLC (EDGAR company search returns only Granite Broadcasting Corp, CIK 839621). The predecessor Granite Broadcasti; Studio City's 2025 Form 20-F calls it ""a private company organized in the U.S."" New Cotai (CIK 1844036) has filed only Schedules 13G/13G/A (2021, 2023) as a hol; Rotech Healthcare Holdings Inc. (CIK 1858721) filed an IPO registration statement (S-1, File No. 333-257716) in 2021. On 2022-08-08 the SEC issued an order decl; No EDGAR registrant found under ""Trident Holding Co"", ""Trident Topco"", ""TridentCare"", ""Trident Care"" or ""Trident USA Health"". The only near match, Trident Holdi",2,value,n/a (context),no
+GPOR-2026-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.05,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+GPOR-2026-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+GPOR-2026-AM,1.06,other_boards_not_public,"University of Wyoming Foundation [no]; Oklahoma State University, Dean of Engineering (industry advisory board) [no]",,"University foundation, not named under ""Other Public Company Directorships""; no EDGAR registrant found for ""University of Wyoming"" (EDGAR company search).; University advisory board; not a company.",2,value,n/a (context),no
+GPOR-2026-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+GPOR-2026-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,meeting,meeting_date,2024-04-18,,"Frequently Asked Questions - When and where is the Annual Meeting?: ""The Annual Meeting will be held on Thursday, April 18, 2024, at 1:00 p.m., Eastern Time, via live audio webcast and will be accessible at www.virtualshareholdermeeting.com/HUM2024.""",1,value,n/a (context),no
+HUM-2024-AM,meeting,company_board_limit_policy,Non-CEO director: at most 4 public company boards including Humana (3 outside); a director who is a public-company CEO: at most 2 including Humana (1 outside). Proxy states all directors comply.,,,1,value,n/a (context),no
+HUM-2024-AM,1.01,other_public_boards,"Alcon, Inc.",,"Proposal One - Director Nominee Biographies: ""Dr. Bono currently serves on the Board of Directors of Alcon, Inc.""",1,value,exact,no
+HUM-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.02,other_public_boards,HP Inc.,,"Proposal One - Director Nominee Biographies: ""He is a member of the Board of Directors of HP Inc. and is a member and previous chair of AHIP.""",1,value,exact,no
+HUM-2024-AM,1.02,other_boards_not_public,AHIP [no]; Trust for the National Mall [no],,"No SEC registrant found: EDGAR company searches for 'AHIP', 'Americas Health Insurance' and ""America's Health Insurance Plans"" return no filer. A U.S. exchange ; Proxy describes it as 'a nonprofit philanthropic partner of the National Park Service' (a nonprofit has no equity); no EDGAR registrant found",2,value,n/a (context),no
+HUM-2024-AM,1.02,is_sitting_public_ceo,Humana Inc. (this company),,"Proposal One - Director Nominee Biographies: ""Bruce D. Broussard, Chief Executive Officer, joined Humana in 2011.""",1,value,exact,no
+HUM-2024-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.03,other_public_boards,"Zoetis, Inc.; Hewlett Packard Enterprises; Catalent, Inc.",,"Proposal One - Director Nominee Biographies: ""Mr. D’Amelio also serves on the Board of Directors of Zoetis, Inc., Hewlett Packard Enterprises and Catalent, Inc.""; Proposal One - Director Nominee Biographies: ""Mr. D’Amelio also serves on the Board of Directors of Zoetis, Inc., Hewlett Packard Enterprises and Catalent, Inc.""; Proposal One - Director Nominee Biographies: ""Mr. D’Amelio also serves on the Board of Directors of Zoetis, Inc., Hewlett Packard Enterprises and Catalent, Inc.""",1,value,exact,no
+HUM-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.03,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.04,other_public_boards,Douglas Emmett Inc.,,"Proposal One - Director Nominee Biographies: ""Dr. Feinberg also serves on the Board of Directors of Douglas Emmett Inc.""",1,value,exact,no
+HUM-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.04,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.05,other_public_boards,"Agostini Limited; Insulet Corporation; Workday, Inc.",,"Proposal One - Director Nominee Biographies: ""Dr. Frederick also serves on the Board of Directors of Agostini Limited, Insulet Corporation, Workday, Inc. and Mutual of America Life Insurance Co. in addition""; Proposal One - Director Nominee Biographies: ""Dr. Frederick also serves on the Board of Directors of Agostini Limited, Insulet Corporation, Workday, Inc. and Mutual of America Life Insurance Co. in addition""; Proposal One - Director Nominee Biographies: ""Dr. Frederick also serves on the Board of Directors of Agostini Limited, Insulet Corporation, Workday, Inc. and Mutual of America Life Insurance Co. in addition""",1,value,exact,no
+HUM-2024-AM,1.05,other_boards_not_public,Mutual of America Life Insurance Co. [no]; (unnamed) a few other privately held companies and charitable organizations [no],,A New York mutual life insurance company with no stockholders: 'We are a mutual life insurance company and consequently have no stockholders.' Its EDGAR records; Proxy calls them privately held companies and charitable organizations; not named,2,value,n/a (context),no
+HUM-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.05,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.06,other_public_boards,"Papa John’s International, Inc.; Cracker Barrel Old Country Store, Inc.",,"Proposal One - Director Nominee Biographies: ""Mr. Garratt also serves on the Board of Directors of Papa John’s International, Inc. and Cracker Barrel Old Country Store, Inc.""; Proposal One - Director Nominee Biographies: ""Mr. Garratt also serves on the Board of Directors of Papa John’s International, Inc. and Cracker Barrel Old Country Store, Inc.""",1,value,exact,no
+HUM-2024-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.06,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.07,other_public_boards,"Outlook Therapeutics, Inc.",,"Proposal One - Director Nominee Biographies: ""Mr. Hilzinger also serves on the Board of Directors of Outlook Therapeutics, Inc. and several privately held companies.""",1,value,exact,no
+HUM-2024-AM,1.07,other_boards_not_public,(unnamed) several privately held companies [no],,Proxy calls them privately held; not named,2,value,n/a (context),no
+HUM-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.07,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.08,other_public_boards,"Under Armour, Inc.; The RealReal, Inc.",,"Proposal One - Director Nominee Biographies: ""Ms. Katz currently serves on the Board of Directors of Under Armour, Inc. and The RealReal, Inc.""; Proposal One - Director Nominee Biographies: ""Ms. Katz currently serves on the Board of Directors of Under Armour, Inc. and The RealReal, Inc.""",1,value,exact,no
+HUM-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.09,other_public_boards,Northern Trust Corporation; Cerence Inc.,,"Proposal One - Director Nominee Biographies: ""Ms. Klevorn currently serves on the Board of Directors of Northern Trust Corporation and Cerence Inc. in addition to a few privately held companies.""; Proposal One - Director Nominee Biographies: ""Ms. Klevorn currently serves on the Board of Directors of Northern Trust Corporation and Cerence Inc. in addition to a few privately held companies.""",1,value,exact,no
+HUM-2024-AM,1.09,other_boards_not_public,(unnamed) a few privately held companies [no],,Proxy calls them privately held; not named,2,value,n/a (context),no
+HUM-2024-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.09,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.10,other_public_boards,"Mondelez International, Inc.",,"Proposal One - Director Nominee Biographies: ""Mr. Mesquita currently serves on the Board of Directors of Mondelez International, Inc.""",1,value,exact,no
+HUM-2024-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.10,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2024-AM,1.11,other_public_boards,"Amazon.com, Inc.",,"Proposal One - Director Nominee Biographies: ""Mr. Smith currently serves on the Board of Directors of Amazon.com, Inc.""",1,value,exact,no
+HUM-2024-AM,1.11,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2024-AM,1.11,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,meeting,meeting_date,2025-04-17,,2025-04-17,1,value,n/a (context),no
+HUM-2025-AM,meeting,company_board_limit_policy,"{""text"": ""Non-CEO director: at most four public company boards including Humana (three outside). A director who is a public-company CEO: at most two public company boards including Humana (one outside)."", ""quote"": ""the Board has adopted a policy under which (a) a director (other than a director who ",,,1,value,n/a (context),no
+HUM-2025-AM,1.01,other_public_boards,"Alcon, Inc.",,"Proposal One — Director Nominee Biographies — Raquel C. Bono, M.D. — Other Public Company Boards: ""Other Public Company Boards (1) … •   Alcon, Inc.""",1,value,exact,no
+HUM-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.01,ceo_of_unlisted_company,Medical iSight,,,2,value,n/a (context),no
+HUM-2025-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.02,other_public_boards,"Zoetis, Inc.; Hewlett Packard Enterprises",,"Proposal One — Director Nominee Biographies — Frank A. D’Amelio — Other Public Company Boards: ""Other Public Company Boards (2) … •  Zoetis, Inc. •  Hewlett Packard Enterprises""; Proposal One — Director Nominee Biographies — Frank A. D’Amelio — Other Public Company Boards: ""Other Public Company Boards (2) … •  Zoetis, Inc. •  Hewlett Packard Enterprises""",1,value,exact,no
+HUM-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.02,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.03,other_public_boards,Edwards Lifesciences Corporation,,"Proposal One — Director Nominee Biographies — David T. Feinberg, M.D. — Other Public Company Boards: ""Other Public Company Boards (1) … •   Edwards Lifesciences Corporation""",1,value,exact,no
+HUM-2025-AM,1.03,other_boards_not_public,Oracle Health [no],,"Wholly owned by Oracle Corporation since June 8, 2022 (Cerner Corporation renamed); Cerner delisted (Form 25-NSE 2022-06-08) and deregistered (Form 15-12G 2022-",2,value,n/a (context),no
+HUM-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.04,other_public_boards,"Insulet Corporation; Tempus AI, Inc.; Workday, Inc.; Agostini Limited",,"Proposal One — Director Nominee Biographies — Wayne A. I. Frederick, M.D. — Other Public Company Boards: ""Other Public Company Boards (3)* … •   Insulet Corporation •   Tempus AI, Inc. •   Workday, Inc.""; Proposal One — Director Nominee Biographies — Wayne A. I. Frederick, M.D. — Other Public Company Boards: ""Other Public Company Boards (3)* … •   Insulet Corporation •   Tempus AI, Inc. •   Workday, Inc.""; Proposal One — Director Nominee Biographies — Wayne A. I. Frederick, M.D. — Other Public Company Boards: ""Other Public Company Boards (3)* … •   Insulet Corporation •   Tempus AI, Inc. •   Workday, Inc.""; Proposal One — Director Nominee Biographies — Wayne A. I. Frederick, M.D. — Other Public Company Boards (footnote *); also Corporate Governance Policies — Additional Public Company Board Service: ""In February 2025, Agostini Limited announced that Dr. Frederick was taking a voluntary l",1,value,exact,no
+HUM-2025-AM,1.04,other_boards_not_public,Mutual of America Life Insurance Co. [no],,The proxy separates it from his public boards ('In addition to his public board service'). EDGAR: MUTUAL OF AMERICA LIFE INSURANCE CO (CIK 743503) files only 13,2,value,n/a (context),no
+HUM-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.04,total_public_boards,5,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.05,other_public_boards,"Papa John’s International, Inc.; Cracker Barrel Old Country Store, Inc.",,"Proposal One — Director Nominee Biographies — John W. Garratt — Other Public Company Boards: ""Other Public Company Boards (2) … •   Papa John’s International, Inc. •   Cracker Barrel Old Country Store, Inc.""; Proposal One — Director Nominee Biographies — John W. Garratt — Other Public Company Boards: ""Other Public Company Boards (2) … •   Papa John’s International, Inc. •   Cracker Barrel Old Country Store, Inc.""",1,value,exact,no
+HUM-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.06,other_public_boards,"Outlook Therapeutics, Inc.",,"Proposal One — Director Nominee Biographies — Kurt J. Hilzinger — Other Public Company Boards: ""Other Public Company Boards (1) … •   Outlook Therapeutics, Inc.""",1,value,exact,no
+HUM-2025-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.07,other_public_boards,"Under Armour, Inc.; The RealReal, Inc.",,"Proposal One — Director Nominee Biographies — Karen W. Katz — Other Public Company Boards: ""Other Public Company Boards (2) … •   Under Armour, Inc. •   The RealReal, Inc. (Chairperson)""; Proposal One — Director Nominee Biographies — Karen W. Katz — Other Public Company Boards: ""Other Public Company Boards (2) … •   Under Armour, Inc. •   The RealReal, Inc. (Chairperson)""",1,value,exact,no
+HUM-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.08,other_public_boards,Northern Trust Corporation; Cerence Inc.,,"Proposal One — Director Nominee Biographies — Marcy S. Klevorn — Other Public Company Boards: ""Other Public Company Boards (2) … •   Northern Trust Corporation •   Cerence Inc.""; Proposal One — Director Nominee Biographies — Marcy S. Klevorn — Other Public Company Boards: ""Other Public Company Boards (2) … •   Northern Trust Corporation •   Cerence Inc.""",1,value,exact,no
+HUM-2025-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.09,other_public_boards,"Mondelez International, Inc.",,"Proposal One — Director Nominee Biographies — Jorge S. Mesquita — Other Public Company Boards: ""Other Public Company Boards (1) … •   Mondelez International, Inc.""",1,value,exact,no
+HUM-2025-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.09,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.10,other_public_boards,none besides this company,,,1,value,exact,no
+HUM-2025-AM,1.10,is_sitting_public_ceo,Humana Inc. (this company),,"Executive Compensation — CEO Pay Ratio — CEO Assessment: ""we selected the compensation of Mr. Rechtin, who became our Chief Executive Officer on July 1, 2024, and was serving in the role as Chief Executive Officer on D""",1,value,exact,no
+HUM-2025-AM,1.10,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2025-AM,1.11,other_public_boards,Choice Hotels International,,"Proposal One — Director Nominee Biographies — Gordon Smith — Other Public Company Boards: ""Other Public Company Boards (1) … •   Choice Hotels International""",1,value,exact,no
+HUM-2025-AM,1.11,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2025-AM,1.11,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,meeting,meeting_date,2026-04-16,,"Notice of 2026 Annual Meeting of Stockholders > Time and Date: ""1:00 p.m., Eastern Time, on Thursday, April 16, 2026""",1,value,n/a (context),no
+HUM-2026-AM,meeting,company_board_limit_policy,Non-CEO director: at most four public company boards including Humana (three external). Director who is a public-company CEO: at most two public company boards including Humana (one external).,,,1,value,n/a (context),no
+HUM-2026-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+HUM-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.01,ceo_of_unlisted_company,Medical iSight,,"The proxy names no exchange, ticker or 'publicly traded' wording for Medical iSight and does not state its domicile. EDGAR company search for 'Medical iSight' / 'Medical Isight' returns no registrant ",2,value,n/a (context),no
+HUM-2026-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.02,other_public_boards,"Zoetis, Inc.; Hewlett Packard Enterprises; Viatris Inc.",,"Proposal One: Election of Directors > Director Nominee Biographies > Frank A. D’Amelio > Other Public Company Boards: ""Other Public Company Boards (3) Board Aptitude • Zoetis, Inc. • Hewlett Packard Enterprises • Viatris Inc.""; Proposal One: Election of Directors > Director Nominee Biographies > Frank A. D’Amelio > Other Public Company Boards: ""Other Public Company Boards (3) Board Aptitude • Zoetis, Inc. • Hewlett Packard Enterprises • Viatris Inc.""; Proposal One: Election of Directors > Director Nominee Biographies > Frank A. D’Amelio > Other Public Company Boards: ""Other Public Company Boards (3) Board Aptitude • Zoetis, Inc. • Hewlett Packard Enterprises • Viatris Inc.""",1,value,exact,no
+HUM-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.02,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.03,other_public_boards,Edwards Lifesciences Corporation,,"Proposal One: Election of Directors > Director Nominee Biographies > David T. Feinberg, M.D. > Other Public Company Boards: ""Other Public Company Boards (1) Board Aptitude • Edwards Lifesciences Corporation""",1,value,exact,no
+HUM-2026-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.04,other_public_boards,"Insulet Corporation; Tempus AI, Inc.; Workday, Inc.; Agostini Limited",,"Proposal One: Election of Directors > Director Nominee Biographies > Wayne A. I. Frederick, M.D. > Other Public Company Boards: ""Other Public Company Boards (4) Board Aptitude • Insulet Corporation • Tempus AI, Inc. • Workday, Inc. • Agostini Limited""; Proposal One: Election of Directors > Director Nominee Biographies > Wayne A. I. Frederick, M.D. > Other Public Company Boards: ""Other Public Company Boards (4) Board Aptitude • Insulet Corporation • Tempus AI, Inc. • Workday, Inc. • Agostini Limited""; Proposal One: Election of Directors > Director Nominee Biographies > Wayne A. I. Frederick, M.D. > Other Public Company Boards: ""Other Public Company Boards (4) Board Aptitude • Insulet Corporation • Tempus AI, Inc. • Workday, Inc. • Agostini Limited""; Proposal One: Election of Directors > Director Nominee Biographies > Wayne A. I. Frederick, M.D. > Other Public Company Boards: ""Other Public",1,value,exact,no
+HUM-2026-AM,1.04,other_boards_not_public,Mutual of America Life Insurance Co. [no],,"The proxy contrasts it with his public boards: ""In addition to his public board service"". It is a mutual life insurer; on EDGAR, MUTUAL OF AMERICA LIFE INSURANC",2,value,n/a (context),no
+HUM-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.04,total_public_boards,5,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.05,other_public_boards,"Outlook Therapeutics, Inc.",,"Proposal One: Election of Directors > Director Nominee Biographies > Kurt J. Hilzinger > Other Public Company Boards: ""Other Public Company Boards (1) Board Aptitude • Outlook Therapeutics, Inc.""",1,value,exact,no
+HUM-2026-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.05,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.06,other_public_boards,"The RealReal, Inc.",,"Proposal One: Election of Directors > Director Nominee Biographies > Karen W. Katz > Other Public Company Boards: ""Other Public Company Boards (1) Board Aptitude • The RealReal, Inc. (Chairperson)""",1,value,exact,no
+HUM-2026-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.07,other_public_boards,Northern Trust Corporation; Cerence Inc.,,"Proposal One: Election of Directors > Director Nominee Biographies > Marcy S. Klevorn > Other Public Company Boards: ""Other Public Company Boards (2) Board Aptitude • Northern Trust Corporation • Cerence Inc.""; Proposal One: Election of Directors > Director Nominee Biographies > Marcy S. Klevorn > Other Public Company Boards: ""Other Public Company Boards (2) Board Aptitude • Northern Trust Corporation • Cerence Inc.""",1,value,exact,no
+HUM-2026-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.08,other_public_boards,"Mondelez International, Inc.",,"Proposal One: Election of Directors > Director Nominee Biographies > Jorge S. Mesquita > Other Public Company Boards: ""Other Public Company Boards (1) Board Aptitude • Mondelez International, Inc.""",1,value,exact,no
+HUM-2026-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.08,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.09,other_public_boards,none besides this company,,,1,value,exact,no
+HUM-2026-AM,1.09,is_sitting_public_ceo,Humana Inc. (this company),,"Proposal One: Election of Directors > Director Nominee Biographies > James A. Rechtin > Professional Summary: ""James (Jim) Rechtin, joined Humana in January 2024, having served as President and Chief Operating Officer until July 2024.""",1,value,exact,no
+HUM-2026-AM,1.09,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+HUM-2026-AM,1.10,other_public_boards,Choice Hotels International; Comcast Corporation,,"Proposal One: Election of Directors > Director Nominee Biographies > Gordon Smith > Other Public Company Boards: ""Other Public Company Boards (2) Board Aptitude • Choice Hotels International • Comcast Corporation""; Proposal One: Election of Directors > Director Nominee Biographies > Gordon Smith > Other Public Company Boards: ""Other Public Company Boards (2) Board Aptitude • Choice Hotels International • Comcast Corporation""",1,value,exact,no
+HUM-2026-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+HUM-2026-AM,1.10,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,meeting,meeting_date,2025-05-28,,"Notice of Annual Meeting of Shareholders: ""Notice of Annual Meeting of Shareholders to be held on May 28, 2025 ... Date and Time May 28, 2025 10:00 a.m. Pacific Time""",1,value,n/a (context),no
+META-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+META-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.02,other_public_boards,"Coinbase Global, Inc.; Samsara Inc.",,"Director Nominees and Executive Officers > Director Nominees > Marc L. Andreessen - Independent Director > Other Current Public Company Directorships; Corporate Governance > Director Independence: ""Other Current Public Company Directorships: •Coinbase Global, Inc. •Samsara Inc. ; also: Coinbase Global, Inc., of which Mr. Andreessen is a member of the board""; Director Nominees and Executive Officers > Director Nominees > Marc L. Andreessen - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Coinbase Global, Inc. •Samsara Inc.""",1,value,exact,no
+META-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.02,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.03,other_boards_not_public,Grid United [no]; Arnold Ventures [no],,Private energy infrastructure company; no EDGAR registrant ('No matching companies').; Philanthropic organization per proxy; no EDGAR registrant ('No matching companies').,2,value,n/a (context),no
+META-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.04,other_boards_not_public,"Stripe, Inc. [no]",,"Stripe, Inc. (CIK 0001691342) has filed only Form D (13) and Form D/A (1) on EDGAR, latest Form D 2024-04-12; no 10-K, 8-A or other Exchange Act registration; E",2,value,n/a (context),no
+META-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.04,ceo_of_unlisted_company,"Stripe, Inc.",,,2,value,n/a (context),no
+META-2025-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.05,other_public_boards,Exor N.V.; Stellantis N.V.; Ferrari N.V.,,"Director Nominees and Executive Officers > Director Nominees > John Elkann - Independent Director > Other Current Public Company Directorships; Director Nominees and Executive Officers > Director Nominees > John Elkann - Independent Director > Professional Experience: ""Other Current Public Company Directorships: •Exor N.V. •Stellantis N.V. •Ferrari N.V. and Ferrari S.p.A. ; Exor N.V. (investment holding company) Chief Executiv""; Director Nominees and Executive Officers > Director Nominees > John Elkann - Independent Director > Other Current Public Company Directorships; Director Nominees and Executive Officers > Director Nominees > John Elkann - Independent Director > Professional Experience: ""Other Current Public Company Directorships: •Exor N.V. •Stellantis N.V. •Ferrari N.V. and Ferrari S.p.A. ; Exor N.V. (investment holding company) Chief Executiv""; Director Nominees and Executive Of",1,value,exact,no
+META-2025-AM,1.05,is_sitting_public_ceo,Exor N.V.,,"Director Nominees and Executive Officers > Director Nominees > John Elkann - Independent Director > Professional Experience: ""Exor N.V. (investment holding company) Chief Executive Officer & Director (2011-present) Chairman (2009-2022) •Stellantis N.V. (global automaker and provider of""",1,value,exact,no
+META-2025-AM,1.05,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.05,public_boards_besides_own_company,3,boards,"this company + Stellantis N.V., Ferrari N.V.",1,computed,exact,no
+META-2025-AM,1.06,other_public_boards,"Dropbox, Inc.",,"Director Nominees and Executive Officers > Director Nominees > Andrew W. Houston - Independent Director > Other Current Public Company Directorships; Professional Experience: ""Other Current Public Company Directorships: •Dropbox, Inc. ; Dropbox, Inc. (global collaboration platform) Chief Executive Officer & Chairman of the board of di""",1,value,exact,no
+META-2025-AM,1.06,is_sitting_public_ceo,"Dropbox, Inc.",,"Director Nominees and Executive Officers > Director Nominees > Andrew W. Houston - Independent Director > Professional Experience: ""Dropbox, Inc. (global collaboration platform) Chief Executive Officer & Chairman of the board of directors (2007-present)""",1,value,exact,no
+META-2025-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.06,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+META-2025-AM,1.07,other_public_boards,"Cardinal Health, Inc.; Certara, Inc.",,"Director Nominees and Executive Officers > Director Nominees > Nancy Killefer - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Cardinal Health, Inc. •Certara, Inc.""; Director Nominees and Executive Officers > Director Nominees > Nancy Killefer - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Cardinal Health, Inc. •Certara, Inc.""",1,value,exact,no
+META-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.09,other_public_boards,Exxon Mobil Corporation,,"Director Nominees and Executive Officers > Director Nominees > Dina Powell McCormick - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Exxon Mobil Corporation""",1,value,exact,no
+META-2025-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.09,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.10,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.10,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.11,other_public_boards,Broadcom Inc.,,"Director Nominees and Executive Officers > Director Nominees > Hock E. Tan - Independent Director > Other Current Public Company Directorships; Corporate Governance > Director Independence: ""Other Current Public Company Directorships: •Broadcom Inc. ; also: Broadcom Inc. (Broadcom), of which Mr. Tan serves as the President and Chief Executive Office""",1,value,exact,no
+META-2025-AM,1.11,is_sitting_public_ceo,Broadcom Inc.,,"Director Nominees and Executive Officers > Director Nominees > Hock E. Tan - Independent Director > Professional Experience: ""Broadcom Inc. (semiconductor and infrastructure software company) President, Chief Executive Officer & Director (2006-present)""",1,value,exact,no
+META-2025-AM,1.11,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.11,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+META-2025-AM,1.12,other_public_boards,Accenture plc; Hyatt Hotels Corporation,,"Director Nominees and Executive Officers > Director Nominees > Tracey T. Travis - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Accenture plc •Hyatt Hotels Corporation""; Director Nominees and Executive Officers > Director Nominees > Tracey T. Travis - Independent Director > Other Current Public Company Directorships: ""Other Current Public Company Directorships: •Accenture plc •Hyatt Hotels Corporation""",1,value,exact,no
+META-2025-AM,1.12,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.12,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.13,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.13,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2025-AM,1.13,ceo_of_unlisted_company,Ultimate Fighting Championship,,,2,value,n/a (context),no
+META-2025-AM,1.13,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.14,other_public_boards,"DoorDash, Inc.",,"Director Nominees and Executive Officers > Director Nominees > Tony Xu - Independent Director > Other Current Public Company Directorships; Professional Experience: ""Other Current Public Company Directorships: •DoorDash, Inc. ; DoorDash, Inc. (local commerce platform) Co-founder & Chief Executive Officer (2013-present) Chair""",1,value,exact,no
+META-2025-AM,1.14,is_sitting_public_ceo,"DoorDash, Inc.",,"Director Nominees and Executive Officers > Director Nominees > Tony Xu - Independent Director > Professional Experience: ""DoorDash, Inc. (local commerce platform) Co-founder & Chief Executive Officer (2013-present) Chairman of the board of directors (2020-present)""",1,value,exact,no
+META-2025-AM,1.14,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2025-AM,1.14,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+META-2025-AM,1.15,other_public_boards,none besides this company,,,1,value,exact,no
+META-2025-AM,1.15,is_sitting_public_ceo,"Meta Platforms, Inc. (this company)",,"Director Nominees and Executive Officers > Director Nominees > Mark Zuckerberg - Founder, Chairman, and Chief Executive Officer > Professional Experience: ""Meta Platforms, Inc. Founder & Chief Executive Officer (2004-present) Chairman of the board of directors (2012-present)""",1,value,exact,no
+META-2025-AM,1.15,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,meeting,meeting_date,2026-05-27,,"Letters to Our Shareholders (To Our Shareholders): ""I'd like to invite you to attend the 2026 Annual Meeting of Shareholders of Meta Platforms, Inc. to be held virtually on May 27, 2026, at 10:00 a.m. Pacific Time.""",1,value,n/a (context),no
+META-2026-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+META-2026-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.02,other_public_boards,"Coinbase Global, Inc.; Samsara Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Marc L. Andreessen > Other Current Public Company Directorships: ""Other Current Public Company Directorships: Coinbase Global, Inc. Samsara Inc.""; Director Nominees and Executive Officers > DIRECTOR NOMINEES > Marc L. Andreessen > Other Current Public Company Directorships: ""Other Current Public Company Directorships: Coinbase Global, Inc. Samsara Inc.""",1,value,exact,no
+META-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.02,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.03,other_boards_not_public,Grid United [no]; Arnold Ventures [no],,"Proxy: 'energy infrastructure company', not listed among 'Other Current Public Company Directorships' (None). No EDGAR registrant under the name 'Grid United'.; Proxy: 'philanthropic organization' (no equity); no EDGAR registrant under the name 'Arnold Ventures'.",2,value,n/a (context),no
+META-2026-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.04,other_boards_not_public,"Stripe, Inc. [no]",,"Stripe, Inc. (CIK 1691342, San Francisco) is a Form D-only filer on EDGAR (Forms D and D/A, 2016-2024; no 10-K, 8-A, 20-F). Proxy lists no current public compan",2,value,n/a (context),no
+META-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.04,ceo_of_unlisted_company,"Stripe, Inc.",,,2,value,n/a (context),no
+META-2026-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.05,other_public_boards,Exor N.V.; Stellantis N.V.; Ferrari N.V.,,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > John Elkann > Professional Experience; also listed under Other Current Public Company Directorships: ""Exor N.V. (investment holding company) Chief Executive Officer & Director (2011-present) Chairman (2009-2022)""; Director Nominees and Executive Officers > DIRECTOR NOMINEES > John Elkann > Professional Experience; also listed under Other Current Public Company Directorships: ""Stellantis N.V. (global automaker and provider of mobility solutions) Executive Chairman & Director (2021-present)""; Director Nominees and Executive Officers > DIRECTOR NOMINEES > John Elkann > Professional Experience; also listed under Other Current Public Company Directorships: ""Ferrari N.V. (luxury sports car manufacturer) Executive Chairman & Director (2018-present)""",1,value,exact,no
+META-2026-AM,1.05,is_sitting_public_ceo,Exor N.V.,,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > John Elkann > Professional Experience: ""Exor N.V. (investment holding company) Chief Executive Officer & Director (2011-present) Chairman (2009-2022)""",1,value,exact,no
+META-2026-AM,1.05,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.05,public_boards_besides_own_company,3,boards,"this company + Stellantis N.V., Ferrari N.V.",1,computed,exact,no
+META-2026-AM,1.06,other_public_boards,"Dropbox, Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Andrew W. Houston > Professional Experience; also listed under Other Current Public Company Directorships: ""Dropbox, Inc. (global collaboration platform) Chief Executive Officer & Chairman of the board of directors (2007-present)""",1,value,exact,no
+META-2026-AM,1.06,is_sitting_public_ceo,"Dropbox, Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Andrew W. Houston > Professional Experience: ""Dropbox, Inc. (global collaboration platform) Chief Executive Officer & Chairman of the board of directors (2007-present)""",1,value,exact,no
+META-2026-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.06,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+META-2026-AM,1.07,other_public_boards,"Cardinal Health, Inc.; Certara, Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Nancy Killefer > Other Current Public Company Directorships: ""Other Current Public Company Directorships: Cardinal Health, Inc. Certara, Inc.""; Director Nominees and Executive Officers > DIRECTOR NOMINEES > Nancy Killefer > Other Current Public Company Directorships: ""Other Current Public Company Directorships: Cardinal Health, Inc. Certara, Inc.""",1,value,exact,no
+META-2026-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.09,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.09,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.10,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+META-2026-AM,1.10,ceo_of_unlisted_company,Ultimate Fighting Championship,,,2,value,n/a (context),no
+META-2026-AM,1.10,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.11,other_public_boards,"DoorDash, Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Tony Xu > Professional Experience; also listed under Other Current Public Company Directorships: ""DoorDash, Inc. (local commerce platform) Co-founder & Chief Executive Officer (2013-present) Chairman of the board of directors (2020-present)""",1,value,exact,no
+META-2026-AM,1.11,is_sitting_public_ceo,"DoorDash, Inc.",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Tony Xu > Professional Experience: ""DoorDash, Inc. (local commerce platform) Co-founder & Chief Executive Officer (2013-present) Chairman of the board of directors (2020-present)""",1,value,exact,no
+META-2026-AM,1.11,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+META-2026-AM,1.11,public_boards_besides_own_company,1,boards,this company + none,1,computed,exact,no
+META-2026-AM,1.12,other_public_boards,none besides this company,,,1,value,exact,no
+META-2026-AM,1.12,is_sitting_public_ceo,"Meta Platforms, Inc. (this company)",,"Director Nominees and Executive Officers > DIRECTOR NOMINEES > Mark Zuckerberg > Professional Experience: ""Meta Platforms, Inc. Founder & Chief Executive Officer (2004-present) Chairman of the board of directors (2012-present)""",1,value,exact,no
+META-2026-AM,1.12,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,meeting,meeting_date,2024-12-11,,"Notice of 2024 Annual Meeting of Stockholders: ""The Annual Meeting of Stockholders of Madison Square Garden Entertainment Corp. (the “annual meeting”) will be held on Wednesday, December 11, 2024, at 10:00 a.m. Eastern Time.""",1,value,n/a (context),no
+MSGE-2024-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+MSGE-2024-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2024-AM,1.01,other_boards_not_public,Songwriters Hall of Fame [no]; Syracuse University [no],,Music-industry hall of fame organization; no exchange/ticker/listing words in the proxy; EDGAR company search for 'Songwriters Hall' returns no registrant.; A university (board of trustees); it has no share capital. Not searched on EDGAR.,2,value,n/a (context),no
+MSGE-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.01,ceo_of_unlisted_company,Bandier Ventures LP,,"Proxy describes it only as 'a music publishing and recorded music acquisition company' (no exchange, ticker or 'publicly traded' wording). EDGAR company search for 'Bandier Ventures' returns no regist",2,value,n/a (context),no
+MSGE-2024-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.03,other_public_boards,"Associated Capital Group, Inc.",,"Proposal 1 — Election of Directors > FREDERIC V. SALERNO – Age 81 > Career Highlights: ""Mr. Salerno has served as a director of Associated Capital Group, Inc., an alternative investment management business, since 2017.""",1,value,exact,no
+MSGE-2024-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.04,other_public_boards,AMC Networks Inc.; Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > JAMES L. DOLAN – Age 69 > Career Highlights: ""Mr. Dolan has served as Non-Executive Chairman of AMC Networks since February 2023, previously serving in that role from September 2020 to December 2022, and ha""; Proposal 1 — Election of Directors > JAMES L. DOLAN – Age 69 > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""; Proposal 1 — Election of Directors > JAMES L. DOLAN – Age 69 > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""",1,value,exact,no
+MSGE-2024-AM,1.04,is_sitting_public_ceo,Madison Square Garden Entertainment Corp. (this company),,"Proposal 1 — Election of Directors > JAMES L. DOLAN – Age 69 > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""; Proposal 1 — Election of Directors > JAMES L. DOLAN – Age 69 > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""",1,value,exact,no
+MSGE-2024-AM,1.04,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.05,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > CHARLES F. DOLAN – Age 98 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of AMC Networks from 2011 t""; Proposal 1 — Election of Directors > CHARLES F. DOLAN – Age 98 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of AMC Networks from 2011 t""",1,value,exact,no
+MSGE-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.06,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > CHARLES P. DOLAN – Age 37 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of MSG Networks from 2010 t""; Proposal 1 — Election of Directors > CHARLES P. DOLAN – Age 37 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of MSG Networks from 2010 t""",1,value,exact,no
+MSGE-2024-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.06,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.07,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > MARIANNE DOLAN WEBER – Age 67 > Career Highlights: ""Ms. Dolan Weber has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2016.""; Proposal 1 — Election of Directors > MARIANNE DOLAN WEBER – Age 67 > Career Highlights: ""Ms. Dolan Weber has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2016.""",1,value,exact,no
+MSGE-2024-AM,1.07,other_boards_not_public,Green Mountain Foundation Inc. [no],,"A foundation. On EDGAR, Green Mountain Foundation Inc. (CIK 0002044922) has a single filing, a Form 144 (notice of proposed sale by a securities holder) dated 2",2,value,n/a (context),no
+MSGE-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.08,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > PAUL J. DOLAN – Age 66 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2019 and Dix & Eaton, a privately-owned communications and public relati""; Proposal 1 — Election of Directors > PAUL J. DOLAN – Age 66 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2019 and Dix & Eaton, a privately-owned communications and public relati""",1,value,exact,no
+MSGE-2024-AM,1.08,other_boards_not_public,Dix & Eaton [no],,Proxy: 'a privately-owned communications and public relations firm'. (EDGAR company search for 'Dix & Eaton' also returns no registrant.),2,value,n/a (context),no
+MSGE-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.08,ceo_of_unlisted_company,Cleveland Guardians (Major League Baseball team),,"The proxy gives no listing words. No EDGAR registrant named 'Cleveland Guardians'. The club's previously public entity, Cleveland Indians Baseball Company, Inc. (CIK 0001059019, 8-A12G 1998), filed a ",2,value,n/a (context),no
+MSGE-2024-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.09,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > QUENTIN F. DOLAN – Age 30 > Career Highlights: ""Mr. Dolan has also served as a director of Sphere Entertainment since 2020 and MSG Sports since 2021.""; Proposal 1 — Election of Directors > QUENTIN F. DOLAN – Age 30 > Career Highlights: ""Mr. Dolan has also served as a director of Sphere Entertainment since 2020 and MSG Sports since 2021.""",1,value,exact,no
+MSGE-2024-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.09,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.10,other_public_boards,Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > RYAN T. DOLAN – Age 35 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2019.""; Proposal 1 — Election of Directors > RYAN T. DOLAN – Age 35 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2019.""",1,value,exact,no
+MSGE-2024-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.10,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.11,other_public_boards,AMC Networks Inc.; Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > THOMAS C. DOLAN – Age 72 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""; Proposal 1 — Election of Directors > THOMAS C. DOLAN – Age 72 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""; Proposal 1 — Election of Directors > THOMAS C. DOLAN – Age 72 > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""",1,value,exact,no
+MSGE-2024-AM,1.11,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.11,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2024-AM,1.12,other_public_boards,AMC Networks Inc.; Madison Square Garden Sports Corp.; Sphere Entertainment Co.,,"Proposal 1 — Election of Directors > BRIAN G. SWEENEY – Age 60 > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""; Proposal 1 — Election of Directors > BRIAN G. SWEENEY – Age 60 > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""; Proposal 1 — Election of Directors > BRIAN G. SWEENEY – Age 60 > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""",1,value,exact,no
+MSGE-2024-AM,1.12,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2024-AM,1.12,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,meeting,meeting_date,2025-12-10,,2025-12-10,1,value,n/a (context),no
+MSGE-2025-AM,meeting,company_board_limit_policy,absent,,,1,value,n/a (context),no
+MSGE-2025-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2025-AM,1.01,other_boards_not_public,Songwriters Hall of Fame [no]; Syracuse University [no],,Proxy gives no exchange or ticker and does not list it under Other Public Company Directorships ('None'); EDGAR company search for 'Songwriters Hall' returns no; A university board of trustees; proxy gives no exchange or ticker; EDGAR company search for 'Syracuse University' returns no registrant.,2,value,n/a (context),no
+MSGE-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.01,ceo_of_unlisted_company,Bandier Ventures LP,,"Proxy describes it only as 'a music publishing and recorded music acquisition company' and gives no exchange or ticker; an EDGAR company search for 'Bandier Ventures' returns no registrant, so it has ",2,value,n/a (context),no
+MSGE-2025-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.03,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2025-AM,1.03,other_boards_not_public,"Associated Capital Group, Inc. [no]",,"The proxy prints '(NYSE: AC)', but AC's own filings show it voluntarily delisted its Class A common stock from the NYSE before the proxy date: 8-K (2025-08-15) ",2,value,n/a (context),no
+MSGE-2025-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.03,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.04,other_public_boards,"AMC Networks Inc. (""AMC Networks""); Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > JAMES L. DOLAN > Career Highlights: ""Mr. Dolan has served as Non-Executive Chairman of AMC Networks since February 2023, previously serving in that role from September 2020 to December 2022, and ha""; Proposal 1 — Election of Directors > JAMES L. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""; Proposal 1 — Election of Directors > JAMES L. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""",1,value,exact,no
+MSGE-2025-AM,1.04,is_sitting_public_ceo,Madison Square Garden Entertainment Corp. (this company),,"Proposal 1 — Election of Directors > JAMES L. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""; Proposal 1 — Election of Directors > JAMES L. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director and the Executive Chairman and Chief Executive Officer of Sphere Entertainment since 2019, as a director and the Executi""",1,value,exact,no
+MSGE-2025-AM,1.04,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.05,other_public_boards,"Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > CHARLES P. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of MSG Networks from 2010 t""; Proposal 1 — Election of Directors > CHARLES P. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2015, and previously served as a director of MSG Networks from 2010 t""",1,value,exact,no
+MSGE-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.06,other_public_boards,"Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > MARIANNE DOLAN WEBER > Career Highlights: ""Ms. Dolan Weber has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2016.""; Proposal 1 — Election of Directors > MARIANNE DOLAN WEBER > Career Highlights: ""Ms. Dolan Weber has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2016.""",1,value,exact,no
+MSGE-2025-AM,1.06,other_boards_not_public,Green Mountain Foundation Inc. [no],,A foundation; proxy gives no exchange or ticker and omits it from the Other Public Company Directorships line. The EDGAR registrant 'Green Mountain Foundation I,2,value,n/a (context),no
+MSGE-2025-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.06,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.07,other_public_boards,"Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > PAUL J. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2019 and Dix & Eaton, a privately-owned communications and public relati""; Proposal 1 — Election of Directors > PAUL J. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2019 and Dix & Eaton, a privately-owned communications and public relati""",1,value,exact,no
+MSGE-2025-AM,1.07,other_boards_not_public,Dix & Eaton [no]; Cleveland Guardians (Major League Baseball team) [no],,Proxy: 'a privately-owned communications and public relations firm'.; Proxy calls it an MLB team and gives no exchange or ticker. EDGAR has no registrant named 'Cleveland Guardians'. The historic registrant Cleveland Indians Baseb,2,value,n/a (context),no
+MSGE-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.07,ceo_of_unlisted_company,Cleveland Guardians (Major League Baseball team),,"Proxy calls it an MLB team and gives no exchange or ticker. EDGAR has no registrant named 'Cleveland Guardians'. The historic registrant Cleveland Indians Baseball Company, Inc. (CIK 1059019, 2401 Ont",2,value,n/a (context),no
+MSGE-2025-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.08,other_public_boards,"Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > QUENTIN F. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director of Sphere Entertainment since 2020 and MSG Sports since 2021.""; Proposal 1 — Election of Directors > QUENTIN F. DOLAN > Career Highlights: ""Mr. Dolan has also served as a director of Sphere Entertainment since 2020 and MSG Sports since 2021.""",1,value,exact,no
+MSGE-2025-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.09,other_public_boards,"Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > RYAN T. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2019.""; Proposal 1 — Election of Directors > RYAN T. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020 and MSG Sports since 2019.""",1,value,exact,no
+MSGE-2025-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.09,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.10,other_public_boards,"AMC Networks Inc. (""AMC Networks""); Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > THOMAS C. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""; Proposal 1 — Election of Directors > THOMAS C. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""; Proposal 1 — Election of Directors > THOMAS C. DOLAN > Career Highlights: ""Mr. Dolan has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011, and previously served as a director of""",1,value,exact,no
+MSGE-2025-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.10,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.11,other_public_boards,"AMC Networks Inc. (""AMC Networks""); Madison Square Garden Sports Corp. (""MSG Sports""); Sphere Entertainment Co. (""Sphere Entertainment"")",,"Proposal 1 — Election of Directors > BRIAN G. SWEENEY > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""; Proposal 1 — Election of Directors > BRIAN G. SWEENEY > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""; Proposal 1 — Election of Directors > BRIAN G. SWEENEY > Career Highlights: ""Mr. Sweeney has served as a director of Sphere Entertainment since 2020, MSG Sports since 2015 and AMC Networks since 2011 and previously served as a director o""",1,value,exact,no
+MSGE-2025-AM,1.11,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.11,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+MSGE-2025-AM,1.12,other_public_boards,none besides this company,,,1,value,exact,no
+MSGE-2025-AM,1.12,is_sitting_public_ceo,no,,,1,value,exact,no
+MSGE-2025-AM,1.12,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,meeting,meeting_date,2026-05-12,,"Proxy Statement (introduction): ""The Board of Directors (the “Board”) of Prudential Financial, Inc. (“Prudential Financial” or the “Company”) is providing this Proxy Statement in connection with the Annual Meeting of Shareholders to be held on May 12, 2026, at 2:00 p.m.""",1,value,n/a (context),no
+PRU-2026-AM,meeting,company_board_limit_policy,No director is expected to serve on more than four other public company boards in addition to Prudential's; the Board may allow more. No separate limit for directors who are sitting CEOs is stated.,,,1,value,n/a (context),no
+PRU-2026-AM,1.01,other_public_boards,none besides this company,,,1,value,exact,no
+PRU-2026-AM,1.01,other_boards_not_public,Prudential Insurance (The Prudential Insurance Company of America) [no],,"Wholly owned subsidiary of Prudential Financial, Inc.; no equity of its own listed.",2,value,n/a (context),no
+PRU-2026-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.01,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.02,other_public_boards,"Paypal Holdings, Inc.",,"Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Paypal Holdings, Inc.""",1,value,exact,no
+PRU-2026-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.02,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.03,other_public_boards,Colgate-Palmolive Company; GE Vernova Inc.,,"Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Colgate-Palmolive Company • GE Vernova Inc.""; Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Colgate-Palmolive Company • GE Vernova Inc.""",1,value,exact,no
+PRU-2026-AM,1.03,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.03,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.04,other_public_boards,none besides this company,,,1,value,exact,no
+PRU-2026-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.04,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.05,other_public_boards,Marathon Petroleum Corp.; MPLX GP LLC,,"Item 1 Election of Directors — Director Nominees: ""Ms. Mannen has served as President and CEO of Marathon Petroleum Corporation (“Marathon Petroleum”), an integrated, downstream energy company, since 2024 and be""; Item 1 Election of Directors — Director Nominees (footnote 1): ""Ms. Mannen serves as a member of the Board of Directors of MPLX GP LLC, a wholly owned subsidiary of Marathon Petroleum. Marathon Petroleum’s Corporate Governan""",1,value,exact,no
+PRU-2026-AM,1.05,boards_ended_before_meeting,Owens Corning (2026-04-14),,"Leaves at Owens Corning's 2026 Annual Meeting, held April 14, 2026 (before this meeting). Sources: tier 2: Owens Corning (CIK 1370946) DEF 14A filed 2026-03-13, accession 0001370946-26-000107 — annual",2,value,n/a (context),no
+PRU-2026-AM,1.05,is_sitting_public_ceo,Marathon Petroleum Corporation,,"Item 1 Election of Directors — Director Nominees: ""Ms. Mannen has served as President and CEO of Marathon Petroleum Corporation (“Marathon Petroleum”), an integrated, downstream energy company, since 2024 and be""; Item 1 Election of Directors — Director Nominees: ""Ms. Mannen is also Chairman, President and CEO of MPLX GP LLC, a publicly traded large-cap midstream asset holding fund managed and majority owned by Marathon P""",1,value,exact,no
+PRU-2026-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.05,public_boards_besides_own_company,2,boards,this company + MPLX GP LLC,1,computed,exact,no
+PRU-2026-AM,1.05,count_at_proxy_date,3,boards,before the dated departures are applied,1,computed,n/a (context),no
+PRU-2026-AM,1.06,other_public_boards,Eaton Corporation plc,,"Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Eaton Corporation plc""",1,value,exact,no
+PRU-2026-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.07,other_public_boards,"Regeneron Pharmaceuticals, Inc.; Neurocrine Biosciences, Inc.",,"Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Regeneron Pharmaceuticals, Inc. • Neurocrine Biosciences, Inc.""; Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Regeneron Pharmaceuticals, Inc. • Neurocrine Biosciences, Inc.""",1,value,exact,no
+PRU-2026-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.07,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+PRU-2026-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.09,other_public_boards,none besides this company,,,1,value,exact,no
+PRU-2026-AM,1.09,other_boards_not_public,The Prudential Insurance Company of America [no],,"Wholly owned subsidiary of Prudential Financial, Inc.; no equity of its own listed.",2,value,n/a (context),no
+PRU-2026-AM,1.09,is_sitting_public_ceo,"Prudential Financial, Inc. (this company)",,"Item 1 Election of Directors — Director Nominees: ""Mr. Sullivan has served as Chairman of the Board of Directors of Prudential Financial, Inc. and The Prudential Insurance Company of America (“Prudential”) since""",1,value,exact,no
+PRU-2026-AM,1.09,ceo_of_unlisted_company,The Prudential Insurance Company of America,,"Wholly owned subsidiary of Prudential Financial, Inc.: ""Our wholly owned subsidiary, The Prudential Insurance Company of America, sponsors our tax-qualified defined benefit retirement plan, The Pruden",2,value,n/a (context),no
+PRU-2026-AM,1.09,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.10,other_public_boards,"Brown-Forman Corporation; Carrier Global Corporation; Mondelēz International, Inc.",,"Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Brown-Forman Corporation • Carrier Global Corporation • Mondelēz International, Inc.""; Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Brown-Forman Corporation • Carrier Global Corporation • Mondelēz International, Inc.""; Item 1 Election of Directors — Director Nominees: ""Public Directorships: • Brown-Forman Corporation • Carrier Global Corporation • Mondelēz International, Inc.""",1,value,exact,no
+PRU-2026-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.10,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+PRU-2026-AM,1.11,other_public_boards,none besides this company,,,1,value,exact,no
+PRU-2026-AM,1.11,is_sitting_public_ceo,no,,,1,value,exact,no
+PRU-2026-AM,1.11,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,meeting,meeting_date,2024-06-12,,"Our Meeting — Frequently Asked Questions and Answers — Annual Meeting: ""Our Board is providing these proxy materials to you in connection with the solicitation of proxies for use at the virtual Annual Meeting to be held on Wednesday, June 12, 2024 at 9:00 a.m. Pacific Time""",1,value,n/a (context),no
+VEEV-2024-AM,meeting,company_board_limit_policy,Max four public-company boards including Veeva; directors who are executive officers of a public company (or in a similarly demanding full-time role) max two public boards including Veeva; exceptions by Nominating and Governance Committee consent.,,,1,value,n/a (context),no
+VEEV-2024-AM,1.01,other_public_boards,Doximity Inc.,,"Who We Are — Board Nominees (biography of Tim Cabral): ""• Doximity Inc. (2020–present) (Public)""",1,value,exact,no
+VEEV-2024-AM,1.01,other_boards_not_public,"ServiceTitan, Inc. [no]; SingleStore, Inc. [no]",,"Not listed at the meeting date: ServiceTitan first registered its Class A common stock on The Nasdaq Stock Market by Form 8-A12B filed 2024-12-09 (IPO prospectu; No EDGAR registrant named SingleStore found by EDGAR company search; the only name match for its former name, memsql, Inc. (CIK 1522012), filed Form D only (201",2,value,n/a (context),no
+VEEV-2024-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.01,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2024-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.03,other_public_boards,"Zoom Video Communications, Inc.",,"Who We Are — Board Nominees (biography of Peter P. Gassner): ""• Zoom Video Communications, Inc. (2015–present) (Public)""",1,value,exact,no
+VEEV-2024-AM,1.03,is_sitting_public_ceo,Veeva Systems Inc. (this company),,"Who We Are — Board Nominees (biography of Peter P. Gassner): ""2007–present: Co-founder and Chief Executive Officer, Veeva Systems Inc.""",1,value,exact,no
+VEEV-2024-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.04,other_public_boards,Eli Lilly and Company; Centessa Pharmaceuticals plc,,"Who We Are — Board Nominees (biography of Mary Lynne Hedley): ""• Eli Lilly and Company (2022–present) (Public)""; Who We Are — Board Nominees (biography of Mary Lynne Hedley): ""• Centessa Pharmaceuticals plc (2021–present) (Public)""",1,value,exact,no
+VEEV-2024-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.04,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.05,other_public_boards,Waystar Holding Corp.; Xerox Holdings Corporation,,"Who We Are — Board Nominees (biography of Priscilla Hung): ""• Waystar Holding Corp. (2024–present)""; Who We Are — Board Nominees (biography of Priscilla Hung) — footnote * to Selected Board Experience: ""Ms. Hung was nominated for election to the board of directors of Xerox Holdings Corporation at its 2024 annual meeting of shareholders to be held on May 22, 202""",1,value,exact,no
+VEEV-2024-AM,1.05,other_boards_not_public,Ethos Technologies Inc. [no],,"Not listed at the meeting date: first Form 8-A12B (Class A common stock, The Nasdaq Stock Market LLC) filed 2026-01-21; earlier filings are Form D only (2019-20",2,value,n/a (context),no
+VEEV-2024-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.06,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2024-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.06,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.07,other_public_boards,"Pacific Biosciences of California, Inc.",,"Who We Are — Board Nominees (biography of Marshall Mohr): ""• Pacific Biosciences of California, Inc. (2012–present) (Public)""",1,value,exact,no
+VEEV-2024-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.07,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.08,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2024-AM,1.08,other_boards_not_public,numerous private technology companies (unnamed) [no],,Proxy's own words: 'private technology companies'. Names and count are not disclosed.,2,value,n/a (context),no
+VEEV-2024-AM,1.08,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.08,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.09,other_public_boards,"vTv Therapeutics Inc.; Longboard Pharmaceuticals, Inc.; Compugen Ltd.",,"Who We Are — Board Nominees (biography of Paul Sekhri): ""• vTv Therapeutics Inc. (2022–present) (Public)""; Who We Are — Board Nominees (biography of Paul Sekhri): ""• Longboard Pharmaceuticals, Inc. (2020–present) (Public)""; Who We Are — Board Nominees (biography of Paul Sekhri): ""• Compugen Ltd. (2017–present) (Public)""",1,value,exact,no
+VEEV-2024-AM,1.09,other_boards_not_public,"AdhereTech, Inc. [no]; Spring Discovery, Inc. [no]; eGenesis, Inc. [no]",,"No EDGAR registrant found (EDGAR company search 'AdhereTech' / 'Adhere Tech' returned nothing); no Exchange Act registration, which a US exchange listing requir; No EDGAR registrant found (EDGAR company search 'Spring Discovery' returned nothing); no Exchange Act registration. Proxy does not tag it (Public).; Form D-only filer (Forms D 2016-2024, latest 2024-02-27); no exchange registration. Proxy does not tag it (Public).",2,value,n/a (context),no
+VEEV-2024-AM,1.09,is_sitting_public_ceo,vTv Therapeutics Inc.,,"Who We Are — Board Nominees (biography of Paul Sekhri): ""2022–present: President and Chief Executive Officer, vTv Therapeutics Inc., a clinical stage biopharmaceutical company""",1,value,exact,no
+VEEV-2024-AM,1.09,total_public_boards,4,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2024-AM,1.09,public_boards_besides_own_company,3,boards,"this company + Longboard Pharmaceuticals, Inc., Compugen Ltd.",1,computed,exact,no
+VEEV-2024-AM,1.10,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2024-AM,1.10,other_boards_not_public,"HealthVerity, Inc. [no]",,Form D-only filer (Forms D 2016-2021); no exchange registration. Proxy does not tag it (Public).,2,value,n/a (context),no
+VEEV-2024-AM,1.10,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2024-AM,1.10,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,meeting,meeting_date,2025-06-18,,"Our Meeting — Frequently Asked Questions and Answers — Annual Meeting: ""Our Board is providing these proxy materials to you in connection with the solicitation of proxies for use at the virtual Annual Meeting to be held on Wednesday, June 18, 2025 at 9:00 a.m. Pacific Time,""",1,value,n/a (context),no
+VEEV-2025-AM,meeting,company_board_limit_policy,Max four publicly traded company boards including Veeva; a director who is an executive officer of a publicly traded company (or in a similarly demanding full-time role) max three including Veeva; either limit can be exceeded with Nominating and Governance Committee consent. The proxy states no dire,,,1,value,n/a (context),no
+VEEV-2025-AM,1.01,other_public_boards,"Doximity Inc.; ServiceTitan, Inc.",,"Who We Are — Board Nominees — Tim Cabral — Selected Board Experience: ""Doximity Inc. (2020–present) (Public)""; Who We Are — Board Nominees — Tim Cabral — Selected Board Experience: ""ServiceTitan, Inc. (2020–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.01,other_boards_not_public,"SingleStore, Inc. [no]",,"Proxy does not mark the seat '(Public)' (it marks every listed seat that way). EDGAR company search for 'SingleStore' and 'Single Store' returns no registrant, ",2,value,n/a (context),no
+VEEV-2025-AM,1.01,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.01,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.02,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2025-AM,1.02,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.02,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.03,other_public_boards,"Zoom Communications, Inc.",,"Who We Are — Board Nominees — Peter P. Gassner — Selected Board Experience: ""Zoom Communications, Inc. (2015–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.03,is_sitting_public_ceo,Veeva Systems Inc. (this company),,"Who We Are — Board Nominees — Peter P. Gassner — Career Experience: ""2007–present: Co-founder and CEO, Veeva Systems Inc.""",1,value,exact,no
+VEEV-2025-AM,1.03,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.04,other_public_boards,Eli Lilly and Company; Centessa Pharmaceuticals plc,,"Who We Are — Board Nominees — Mary Lynne Hedley — Selected Board Experience: ""Eli Lilly and Company (2022–present) (Public)""; Who We Are — Board Nominees — Mary Lynne Hedley — Selected Board Experience: ""Centessa Pharmaceuticals plc (2021–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.04,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.04,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.05,other_public_boards,Xerox Holdings Corporation; Waystar Holding Corp.,,"Who We Are — Board Nominees — Priscilla Hung — Selected Board Experience: ""Xerox Holdings Corporation (2024–present) (Public)""; Who We Are — Board Nominees — Priscilla Hung — Selected Board Experience: ""Waystar Holding Corp. (2024–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.05,other_boards_not_public,Ethos Technologies Inc. [no],,Not listed at 2025-06-18. The proxy does not mark the seat '(Public)'. Ethos (CIK 1788451) filed only Form D notices (2019–2022) until a confidential draft regi,2,value,n/a (context),no
+VEEV-2025-AM,1.05,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.05,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.06,other_public_boards,"Pacific Biosciences of California, Inc.",,"Who We Are — Board Nominees — Marshall Mohr — Selected Board Experience: ""Pacific Biosciences of California, Inc. (2012–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.06,other_boards_not_public,SRI International [no],,"The proxy does not mark the seat '(Public)'. EDGAR company search for 'SRI International' (and 'SRI Intl', 'Stanford Research Institute') returns no registrant,",2,value,n/a (context),no
+VEEV-2025-AM,1.06,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.06,total_public_boards,2,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.07,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2025-AM,1.07,other_boards_not_public,numerous private technology companies (unnamed) [no]; Princeton University Investment Company [no],,The proxy itself calls them private: 'numerous private technology companies'. Number and names not disclosed.; Proxy does not describe it as public. It is the investment office of Princeton University (the proxy names it beside his Princeton trusteeship); EDGAR company s,2,value,n/a (context),no
+VEEV-2025-AM,1.07,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.07,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.08,other_public_boards,vTv Therapeutics Inc.; Compugen Ltd.,,"Who We Are — Board Nominees — Paul Sekhri — Selected Board Experience*: ""vTv Therapeutics Inc. (2022–present) (Public)""; Who We Are — Board Nominees — Paul Sekhri — Selected Board Experience*: ""Compugen Ltd. (2017–present) (Public)""",1,value,exact,no
+VEEV-2025-AM,1.08,boards_leaving_after_meeting,Compugen Ltd. (2025-09-16),,"Leaves the Compugen board at the conclusion of Compugen's 2025 Annual General Meeting, held Tuesday, September 16, 2025 (after the 2025-06-18 Veeva meeting). Announced by Compugen on 2025-05-13 (betwe",2,value,n/a (context),no
+VEEV-2025-AM,1.08,is_sitting_public_ceo,vTv Therapeutics Inc.,,"Who We Are — Board Nominees — Paul Sekhri — Career Experience: ""2022–present: President and Chief Executive Officer, vTv Therapeutics Inc., a clinical stage biopharmaceutical company""",1,value,exact,no
+VEEV-2025-AM,1.08,total_public_boards,3,boards,this company + the listed boards above,1,computed,exact,no
+VEEV-2025-AM,1.08,public_boards_besides_own_company,2,boards,this company + Compugen Ltd.,1,computed,exact,no
+VEEV-2025-AM,1.09,other_public_boards,none besides this company,,,1,value,exact,no
+VEEV-2025-AM,1.09,other_boards_not_public,"HealthVerity, Inc. [no]",,"Proxy does not mark the seat '(Public)'. HealthVerity, Inc. (CIK 1671703) is a Form D-only filer (Form D 2016-04-21, 2017-05-08, 2019-04-05, 2020-07-20, 2021-07",2,value,n/a (context),no
+VEEV-2025-AM,1.09,is_sitting_public_ceo,no,,,1,value,exact,no
+VEEV-2025-AM,1.09,total_public_boards,1,boards,this company + the listed boards above,1,computed,exact,no

@@ -1,0 +1,28 @@
+meeting_id,company,ticker,cik,meeting_date,meeting_type,def14a_accession,filing_url,in_run
+APG-2024-AM,APi Group Corporation,APG,0001796209,2024-06-14,annual,0001628280-24-019083,https://www.sec.gov/Archives/edgar/data/1796209/000162828024019083/apg-20240429.htm,yes
+APG-2025-AM,APi Group Corporation,APG,0001796209,2025-05-16,annual,0001628280-25-016749,https://www.sec.gov/Archives/edgar/data/1796209/000162828025016749/apg-20250404.htm,yes
+ARKO-2024-AM,ARKO Corp.,ARKO,0001823794,2024-06-06,annual,0000950170-24-046083,https://www.sec.gov/Archives/edgar/data/1823794/000095017024046083/arko-20240419.htm,yes
+ARKO-2025-AM,ARKO Corp.,ARKO,0001823794,2025-06-05,annual,0000950170-25-057661,https://www.sec.gov/Archives/edgar/data/1823794/000095017025057661/arko-20250423.htm,yes
+ARKO-2026-AM,ARKO Corp.,ARKO,0001823794,2026-06-04,annual,0001193125-26-162839,https://www.sec.gov/Archives/edgar/data/1823794/000119312526162839/arko-20260419.htm,yes
+ATEN-2024-AM,"A10 Networks, Inc.",ATEN,0001580808,2024-05-09,annual,0001140361-24-015636,https://www.sec.gov/Archives/edgar/data/1580808/000114036124015636/ny20012741x1_def14a.htm,yes
+ATEN-2025-AM,"A10 Networks, Inc.",ATEN,0001580808,2025-04-17,annual,0001140361-25-007193,https://www.sec.gov/Archives/edgar/data/1580808/000114036125007193/ny20041280x1_def14a.htm,yes
+ATEN-2026-AM,"A10 Networks, Inc.",ATEN,0001580808,2026-04-22,annual,0001140361-26-008793,https://www.sec.gov/Archives/edgar/data/1580808/000114036126008793/ny20063667x1_def14a.htm,yes
+DELL-2024-AM,Dell Technologies Inc.,DELL,0001571996,2024-06-27,annual,0001193125-24-141729,https://www.sec.gov/Archives/edgar/data/1571996/000119312524141729/d645928ddef14a.htm,yes
+DG-2024-AM,Dollar General Corporation,DG,0000029534,2024-05-29,annual,0001104659-24-044304,https://www.sec.gov/Archives/edgar/data/29534/000110465924044304/tm2332854d3_def14a.htm,yes
+DG-2025-AM,Dollar General Corporation,DG,0000029534,2025-05-29,annual,0001104659-25-033041,https://www.sec.gov/Archives/edgar/data/29534/000110465925033041/tm2416441-2_def14a.htm,yes
+DG-2026-AM,Dollar General Corporation,DG,0000029534,2026-05-28,annual,0001104659-26-040394,https://www.sec.gov/Archives/edgar/data/29534/000110465926040394/tm261322-1_def14a.htm,yes
+GH-2024-AM,"Guardant Health, Inc.",GH,0001576280,2024-06-12,annual,0001193125-24-113951,https://www.sec.gov/Archives/edgar/data/1576280/000119312524113951/d630233ddef14a.htm,yes
+GH-2026-AM,"Guardant Health, Inc.",GH,0001576280,2026-06-17,annual,0001193125-26-187403,https://www.sec.gov/Archives/edgar/data/1576280/000119312526187403/d945907ddef14a.htm,yes
+GPOR-2024-AM,Gulfport Energy Corporation,GPOR,0000874499,2024-05-22,annual,0001213900-24-030836,https://www.sec.gov/Archives/edgar/data/874499/000121390024030836/ea0201768-01.htm,yes
+GPOR-2025-AM,Gulfport Energy Corporation,GPOR,0000874499,2025-05-21,annual,0001213900-25-028069,https://www.sec.gov/Archives/edgar/data/874499/000121390025028069/ea0229694-03.htm,yes
+GPOR-2026-AM,Gulfport Energy Corporation,GPOR,0000874499,2026-05-27,annual,0001213900-26-041489,https://www.sec.gov/Archives/edgar/data/874499/000121390026041489/ea0284308-01.htm,yes
+HUM-2024-AM,Humana Inc.,HUM,0000049071,2024-04-18,annual,0001193125-24-062915,https://www.sec.gov/Archives/edgar/data/49071/000119312524062915/d52608ddef14a.htm,yes
+HUM-2025-AM,Humana Inc.,HUM,0000049071,2025-04-17,annual,0001193125-25-048976,https://www.sec.gov/Archives/edgar/data/49071/000119312525048976/d852577ddef14a.htm,yes
+HUM-2026-AM,Humana Inc.,HUM,0000049071,2026-04-16,annual,0001104659-26-024393,https://www.sec.gov/Archives/edgar/data/49071/000110465926024393/tm2518709-2_def14a.htm,yes
+META-2025-AM,"Meta Platforms, Inc.",META,0001326801,2025-05-28,annual,0001326801-25-000040,https://www.sec.gov/Archives/edgar/data/1326801/000132680125000040/meta-20250417.htm,yes
+META-2026-AM,"Meta Platforms, Inc.",META,0001326801,2026-05-27,annual,0001628280-26-025532,https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm,yes
+MSGE-2024-AM,Madison Square Garden Entertainment Corp.,MSGE,0001952073,2024-12-11,annual,0001952073-24-000026,https://www.sec.gov/Archives/edgar/data/1952073/000195207324000026/msge-20241025.htm,yes
+MSGE-2025-AM,Madison Square Garden Entertainment Corp.,MSGE,0001952073,2025-12-10,annual,0001628280-25-046267,https://www.sec.gov/Archives/edgar/data/1952073/000162828025046267/msge-20251024.htm,yes
+PRU-2026-AM,"Prudential Financial, Inc.",PRU,0001137774,2026-05-12,annual,0001104659-26-035162,https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm,yes
+VEEV-2024-AM,Veeva Systems Inc.,VEEV,0001393052,2024-06-12,annual,0001140361-24-021323,https://www.sec.gov/Archives/edgar/data/1393052/000114036124021323/ny20019009x3_def14a.htm,yes
+VEEV-2025-AM,Veeva Systems Inc.,VEEV,0001393052,2025-06-18,annual,0001140361-25-017353,https://www.sec.gov/Archives/edgar/data/1393052/000114036125017353/ny20039511x1_def14a.htm,yes

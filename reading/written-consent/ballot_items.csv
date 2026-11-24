@@ -1,0 +1,462 @@
+meeting_id,item_no,item_title_as_printed,proposal_type,proponent
+BAC-2024-AM,1a,Election of Directors: Sharon L. Allen,director_election,management
+BAC-2024-AM,1b,Election of Directors: José (Joe) E. Almeida,director_election,management
+BAC-2024-AM,1c,Election of Directors: Pierre J. P. de Weck,director_election,management
+BAC-2024-AM,1d,Election of Directors: Arnold W. Donald,director_election,management
+BAC-2024-AM,1e,Election of Directors: Linda P. Hudson,director_election,management
+BAC-2024-AM,1f,Election of Directors: Monica C. Lozano,director_election,management
+BAC-2024-AM,1g,Election of Directors: Brian T. Moynihan,director_election,management
+BAC-2024-AM,1h,Election of Directors: Lionel L. Nowell III,director_election,management
+BAC-2024-AM,1i,Election of Directors: Denise L. Ramos,director_election,management
+BAC-2024-AM,1j,Election of Directors: Clayton S. Rose,director_election,management
+BAC-2024-AM,1k,Election of Directors: Michael D. White,director_election,management
+BAC-2024-AM,1l,Election of Directors: Thomas D. Woods,director_election,management
+BAC-2024-AM,1m,Election of Directors: Maria T. Zuber,director_election,management
+BAC-2024-AM,2,"Approving our executive compensation (an advisory, non-binding “Say on Pay” resolution)",say_on_pay,management
+BAC-2024-AM,3,Ratifying the appointment of our independent registered public accounting firm for 2024,auditor,management
+BAC-2024-AM,4,Proposal to amend and restate the Bank of America Corporation Equity Plan,equity_plan,management
+BAC-2024-AM,5,Shareholder proposal requesting report on risks of politicized de-banking,shareholder_proposal,shareholder
+BAC-2024-AM,6,Shareholder proposal requesting report on lobbying alignment with Bank of America’s climate goals,shareholder_proposal,shareholder
+BAC-2024-AM,7,Shareholder proposal requesting disclosure of clean energy financing ratio,shareholder_proposal,shareholder
+BAC-2024-AM,8,Shareholder proposal requesting right to act by written consent,shareholder_proposal,shareholder
+BAC-2024-AM,9,Shareholder proposal requesting independent board chair,shareholder_proposal,shareholder
+BAC-2024-AM,10,Shareholder proposal requesting changes to executive compensation program,shareholder_proposal,shareholder
+BA-2026-AM,1a,Robert A. Bradway,director_election,management
+BA-2026-AM,1b,Mortimer “Tim” J. Buckley,director_election,management
+BA-2026-AM,1c,Lynne M. Doughtie,director_election,management
+BA-2026-AM,1d,David L. Gitlin,director_election,management
+BA-2026-AM,1e,Lynn J. Good,director_election,management
+BA-2026-AM,1f,Stayce D. Harris,director_election,management
+BA-2026-AM,1g,Akhil Johri,director_election,management
+BA-2026-AM,1h,David L. Joyce,director_election,management
+BA-2026-AM,1i,Steven M. Mollenkopf,director_election,management
+BA-2026-AM,1j,Robert Kelly Ortberg,director_election,management
+BA-2026-AM,1k,John M. Richardson,director_election,management
+BA-2026-AM,1l,Bradley D. Tilden,director_election,management
+BA-2026-AM,2,"Approve, on an Advisory Basis, Named Executive Officer Compensation.",say_on_pay,management
+BA-2026-AM,3,Ratify the Appointment of Deloitte & Touche LLP as Independent Auditor for 2026.,auditor,management
+BA-2026-AM,4,Board Committee on Disability Access.,shareholder_proposal,shareholder
+BA-2026-AM,5,Action by Written Consent.,shareholder_proposal,shareholder
+BBY-2025-AM,1.01,Election of Directors,director_election,management
+BBY-2025-AM,1.02,Election of Directors,director_election,management
+BBY-2025-AM,1.03,Election of Directors,director_election,management
+BBY-2025-AM,1.04,Election of Directors,director_election,management
+BBY-2025-AM,1.05,Election of Directors,director_election,management
+BBY-2025-AM,1.06,Election of Directors,director_election,management
+BBY-2025-AM,1.07,Election of Directors,director_election,management
+BBY-2025-AM,1.08,Election of Directors,director_election,management
+BBY-2025-AM,1.09,Election of Directors,director_election,management
+BBY-2025-AM,1.10,Election of Directors,director_election,management
+BBY-2025-AM,1.11,Election of Directors,director_election,management
+BBY-2025-AM,2,Ratification of Appointment of Our Independent Registered Public Accounting Firm,auditor,management
+BBY-2025-AM,3,Advisory Vote to Approve Named Executive Officer Compensation,say_on_pay,management
+BBY-2025-AM,4,Approval of Amendment No. 1 to our 2020 Omnibus Incentive Plan,equity_plan,management
+BBY-2025-AM,5,Support for Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+BBY-2025-AM,6,Shareholder Proposal – Request to Cease CEI Participation,shareholder_proposal,shareholder
+BBY-2025-AM,7,Shareholder Proposal – Publish a Report on the Company’s LGBTQIA+ Inclusion Efforts in its Human Capital Management Strategy,shareholder_proposal,shareholder
+BBY-2025-AM,8,Shareholder Proposal – Publish Climate Transition Plan to Achieve Stated Goals,shareholder_proposal,shareholder
+BWA-2026-AM,1A,Joseph F. Fadool,director_election,management
+BWA-2026-AM,1B,Sara A. Greenstein,director_election,management
+BWA-2026-AM,1C,Michael S. Hanley,director_election,management
+BWA-2026-AM,1D,Shaun E. McAlmont,director_election,management
+BWA-2026-AM,1E,Deborah D. McWhinney,director_election,management
+BWA-2026-AM,1F,Alexis P. Michas,director_election,management
+BWA-2026-AM,1G,Sailaja K. Shankar,director_election,management
+BWA-2026-AM,1H,Hau N. Thai-Tang,director_election,management
+BWA-2026-AM,2,"Approve, on an advisory basis, the compensation of our named executive officers",say_on_pay,management
+BWA-2026-AM,3,Ratify the selection of PricewaterhouseCoopers LLP as the independent registered public accounting firm for the Company for 2026,auditor,management
+BWA-2026-AM,4,Approve the Amended and Restated BorgWarner Inc. 2023 Stock Incentive Plan,equity_plan,management
+BWA-2026-AM,5,Vote on a stockholder proposal regarding action by written consent,shareholder_proposal,shareholder
+CDW-2025-AM,1a,Virginia C. Addicott,director_election,management
+CDW-2025-AM,1b,James A. Bell,director_election,management
+CDW-2025-AM,1c,Lynda M. Clarizio,director_election,management
+CDW-2025-AM,1d,Anthony R. Foxx,director_election,management
+CDW-2025-AM,1e,Kelly J. Grier,director_election,management
+CDW-2025-AM,1f,Marc E. Jones,director_election,management
+CDW-2025-AM,1g,Christine A. Leahy,director_election,management
+CDW-2025-AM,1h,Sanjay Mehrotra,director_election,management
+CDW-2025-AM,1i,David W. Nelms,director_election,management
+CDW-2025-AM,1j,Joseph R. Swedish,director_election,management
+CDW-2025-AM,1k,Donna F. Zarcone,director_election,management
+CDW-2025-AM,2,Advisory Vote to Approve Named Executive Officer Compensation,say_on_pay,management
+CDW-2025-AM,3,Ratification of Selection of Independent Registered Public Accounting Firm,auditor,management
+CDW-2025-AM,4,Stockholder Proposal Regarding Stockholder Right to Act by Written Consent,shareholder_proposal,shareholder
+CDW-2026-AM,1a,Election of Directors — Virginia C. Addicott,director_election,management
+CDW-2026-AM,1b,Election of Directors — James A. Bell,director_election,management
+CDW-2026-AM,1c,Election of Directors — Lynda M. Clarizio,director_election,management
+CDW-2026-AM,1d,Election of Directors — Anthony R. Foxx,director_election,management
+CDW-2026-AM,1e,Election of Directors — Kelly J. Grier,director_election,management
+CDW-2026-AM,1f,Election of Directors — Marc E. Jones,director_election,management
+CDW-2026-AM,1g,Election of Directors — Christine A. Leahy,director_election,management
+CDW-2026-AM,1h,Election of Directors — David W. Nelms,director_election,management
+CDW-2026-AM,1i,Election of Directors — Joseph R. Swedish,director_election,management
+CDW-2026-AM,2,"To approve, on an advisory basis, named executive officer compensation.",say_on_pay,management
+CDW-2026-AM,3,"To ratify the selection of Ernst & Young LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2026.",auditor,management
+CDW-2026-AM,4,To approve the amendment to the Company’s Certificate of Incorporation to permit stockholder action by written consent.,charter_or_bylaw_amendment,management
+CDW-2026-AM,5,"To consider and act upon the stockholder proposal, if properly presented at the meeting, regarding independent Board chair requirements.",shareholder_proposal,shareholder
+CMS-2026-AM,1.01,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.02,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.03,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.04,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.05,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.06,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.07,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.08,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.09,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.10,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,1.11,"Elect the Director Nominees, Named in this Proxy Statement, to the Board of Directors",director_election,management
+CMS-2026-AM,2,"Approve, on an Advisory Basis, Executive Compensation",say_on_pay,management
+CMS-2026-AM,3,Ratify the Appointment of Independent Registered Public Accounting Firm,auditor,management
+CMS-2026-AM,4,Approve an Amendment to the CMS Restated Articles of Incorporation Increasing the Number of Authorized Shares of CMS Common Stock from 350 Million Shares to 700 Million Shares,charter_or_bylaw_amendment,management
+CMS-2026-AM,5,Approve an Amendment to the CMS Restated Articles of Incorporation to Allow Shareholders to Call a Special Meeting,charter_or_bylaw_amendment,management
+CMS-2026-AM,6,"Vote on a Shareholder Proposal: Shareholder Right to Act by Written Consent, if Properly Presented",shareholder_proposal,shareholder
+CVS-2026-AM,1a,Fernando Aguirre,director_election,management
+CVS-2026-AM,1b,"Jeffrey R. Balser, M.D., Ph.D.",director_election,management
+CVS-2026-AM,1c,C. David Brown II,director_election,management
+CVS-2026-AM,1d,Alecia A. DeCoudreaux,director_election,management
+CVS-2026-AM,1e,Anne M. Finucane,director_election,management
+CVS-2026-AM,1f,John E. Gallina,director_election,management
+CVS-2026-AM,1g,J. David Joyner,director_election,management
+CVS-2026-AM,1h,J. Scott Kirby,director_election,management
+CVS-2026-AM,1i,Michael F. Mahoney,director_election,management
+CVS-2026-AM,1j,Leslie V. Norwalk,director_election,management
+CVS-2026-AM,1k,Larry M. Robbins,director_election,management
+CVS-2026-AM,1l,Guy P. Sansone,director_election,management
+CVS-2026-AM,1m,Douglas H. Shulman,director_election,management
+CVS-2026-AM,2,Ratification of the Appointment of Our Independent Registered Public Accounting Firm for 2026,auditor,management
+CVS-2026-AM,3,"Say on Pay, a Proposal to Approve, on an Advisory Basis, the Company’s Executive Compensation",say_on_pay,management
+CVS-2026-AM,4,Proposal to Approve the Company’s 2026 Incentive Compensation Plan,equity_plan,management
+CVS-2026-AM,5,Stockholder Proposal for Reducing the Threshold for Our Stockholder Right to Act By Written Consent,shareholder_proposal,shareholder
+DAL-2026-AM,1a,Election of Nominees for Director: Edward H. Bastian,director_election,management
+DAL-2026-AM,1b,Election of Nominees for Director: Christophe Beck,director_election,management
+DAL-2026-AM,1c,Election of Nominees for Director: Maria Black,director_election,management
+DAL-2026-AM,1d,Election of Nominees for Director: Willie CW Chiang,director_election,management
+DAL-2026-AM,1e,Election of Nominees for Director: Greg Creed,director_election,management
+DAL-2026-AM,1f,Election of Nominees for Director: David G. DeWalt,director_election,management
+DAL-2026-AM,1g,Election of Nominees for Director: Leslie D. Hale,director_election,management
+DAL-2026-AM,1h,Election of Nominees for Director: Christopher A. Hazleton,director_election,management
+DAL-2026-AM,1i,Election of Nominees for Director: Michael P. Huerta,director_election,management
+DAL-2026-AM,1j,Election of Nominees for Director: Judith J. McKenna,director_election,management
+DAL-2026-AM,1k,Election of Nominees for Director: Vasant M. Prabhu,director_election,management
+DAL-2026-AM,1l,Election of Nominees for Director: Sergio A. L. Rial,director_election,management
+DAL-2026-AM,1m,Election of Nominees for Director: David S. Taylor,director_election,management
+DAL-2026-AM,1n,Election of Nominees for Director: Kathy N. Waller,director_election,management
+DAL-2026-AM,2,Advisory vote on executive compensation,say_on_pay,management
+DAL-2026-AM,3,Ratification of Ernst & Young LLP as independent auditors for 2026,auditor,management
+DAL-2026-AM,4,"Shareholder proposal requesting the ability for shareholders to act by written consent, if properly presented",shareholder_proposal,shareholder
+DAL-2026-AM,5,"Shareholder proposal requesting the adoption of cumulative voting for the election of directors, if properly presented",shareholder_proposal,shareholder
+DLTR-2026-AM,1a,"Michael C. Creedon, Jr.",director_election,management
+DLTR-2026-AM,1b,William W. Douglas III,director_election,management
+DLTR-2026-AM,1c,Cheryl W. Grisé,director_election,management
+DLTR-2026-AM,1d,Daniel J. Heinrich,director_election,management
+DLTR-2026-AM,1e,Paul C. Hilal,director_election,management
+DLTR-2026-AM,1f,Timothy A. Johnson,director_election,management
+DLTR-2026-AM,1g,"Edward J. Kelly, III",director_election,management
+DLTR-2026-AM,1h,Diane E. Randolph,director_election,management
+DLTR-2026-AM,1i,Bertram L. Scott,director_election,management
+DLTR-2026-AM,1j,Stephanie P. Stahl,director_election,management
+DLTR-2026-AM,2,Advisory Vote on NEO Compensation,say_on_pay,management
+DLTR-2026-AM,3,Ratification of Appointment of Independent Auditors,auditor,management
+DLTR-2026-AM,4,Shareholder Proposal Requesting a Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+FDS-2025-AM,1.01,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.02,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.03,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.04,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.05,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.06,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.07,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.08,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.09,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,1.10,Elect each of our Board's ten nominees: for a one-year term expiring at the 2026 Annual Meeting of Stockholders,director_election,management
+FDS-2025-AM,2,Ratify appointment of Ernst & Young LLP as our independent registered public accounting firm for fiscal year 2026,auditor,management
+FDS-2025-AM,3,"Approve, in an advisory vote, the compensation of our named executive officers as disclosed in this Proxy Statement",say_on_pay,management
+FDS-2025-AM,4,Approve the FactSet Research Systems Inc. 2025 Employee Stock Purchase Plan,equity_plan,management
+FDS-2025-AM,5,Approve the FactSet Research Systems Inc. 2025 Omnibus Incentive Plan,equity_plan,management
+FDS-2025-AM,6,"Approve an amendment and restatement of the Certificate of Incorporation to change the stockholder vote required for amendment of the provision for stockholder action by written consent from supermajority to majority, and implement other ministerial changes",charter_or_bylaw_amendment,management
+GE-2026-AM,1.01,Election of Directors,director_election,management
+GE-2026-AM,1.02,Election of Directors,director_election,management
+GE-2026-AM,1.03,Election of Directors,director_election,management
+GE-2026-AM,1.04,Election of Directors,director_election,management
+GE-2026-AM,1.05,Election of Directors,director_election,management
+GE-2026-AM,1.06,Election of Directors,director_election,management
+GE-2026-AM,1.07,Election of Directors,director_election,management
+GE-2026-AM,1.08,Election of Directors,director_election,management
+GE-2026-AM,1.09,Election of Directors,director_election,management
+GE-2026-AM,2,Advisory Approval of Our Named Executives’ Compensation,say_on_pay,management
+GE-2026-AM,3,Approval of the Amendment and Restatement of the 2022 Long-Term Incentive Plan,equity_plan,management
+GE-2026-AM,4,Approval of the GE Aerospace Global Employee Stock Purchase Plan,equity_plan,management
+GE-2026-AM,5,Ratification of Deloitte as Independent Auditor for 2026,auditor,management
+GE-2026-AM,6,Shareholder Proposal Requesting Right to Act by Written Consent,shareholder_proposal,shareholder
+GE-2026-AM,7,Shareholder Proposal Requesting Report on Defense-Related Products,shareholder_proposal,shareholder
+GOOGL-2025-AM,1a,Election of ten directors — 1a. Larry Page,director_election,management
+GOOGL-2025-AM,1b,Election of ten directors — 1b. Sergey Brin,director_election,management
+GOOGL-2025-AM,1c,Election of ten directors — 1c. Sundar Pichai,director_election,management
+GOOGL-2025-AM,1d,Election of ten directors — 1d. John L. Hennessy,director_election,management
+GOOGL-2025-AM,1e,Election of ten directors — 1e. Frances H. Arnold,director_election,management
+GOOGL-2025-AM,1f,Election of ten directors — 1f. R. Martin “Marty” Chávez,director_election,management
+GOOGL-2025-AM,1g,Election of ten directors — 1g. L. John Doerr,director_election,management
+GOOGL-2025-AM,1h,Election of ten directors — 1h. Roger W. Ferguson Jr.,director_election,management
+GOOGL-2025-AM,1i,Election of ten directors — 1i. K. Ram Shriram,director_election,management
+GOOGL-2025-AM,1j,Election of ten directors — 1j. Robin L. Washington,director_election,management
+GOOGL-2025-AM,2,"Ratification of the appointment of Ernst & Young LLP as Alphabet’s independent registered public accounting firm for the fiscal year ending December 31, 2025",auditor,management
+GOOGL-2025-AM,3,Stockholder proposal regarding “Support for Shareholder Right to Act by Written Consent”,shareholder_proposal,shareholder
+GOOGL-2025-AM,4,Stockholder proposal regarding a financial performance policy,shareholder_proposal,shareholder
+GOOGL-2025-AM,5,Stockholder proposal regarding a report on charitable partnerships,shareholder_proposal,shareholder
+GOOGL-2025-AM,6,Stockholder proposal regarding a request to cease CEI participation,shareholder_proposal,shareholder
+GOOGL-2025-AM,7,Stockholder proposal regarding an enhanced disclosure on climate goals,shareholder_proposal,shareholder
+GOOGL-2025-AM,8,Stockholder proposal regarding equal shareholder voting,shareholder_proposal,shareholder
+GOOGL-2025-AM,9,Stockholder proposal regarding a report on the due diligence process to assess human rights risks in CAHRA,shareholder_proposal,shareholder
+GOOGL-2025-AM,10,Stockholder proposal regarding a report on risks of discrimination in GenAI,shareholder_proposal,shareholder
+GOOGL-2025-AM,11,Stockholder proposal regarding a report on AI data usage oversight,shareholder_proposal,shareholder
+GOOGL-2025-AM,12,Stockholder proposal regarding a human rights impact assessment of AI-driven targeted ad policies,shareholder_proposal,shareholder
+GOOGL-2025-AM,13,Stockholder proposal regarding a report on alignment of lobbying activities with child safety policies,shareholder_proposal,shareholder
+GOOGL-2025-AM,14,Stockholder proposal regarding a report on online safety for children,shareholder_proposal,shareholder
+HON-2026-AM,1a,Election of Directors: Duncan B. Angove,director_election,management
+HON-2026-AM,1b,Election of Directors: Craig Arnold,director_election,management
+HON-2026-AM,1c,Election of Directors: William S. Ayer,director_election,management
+HON-2026-AM,1d,Election of Directors: D. Scott Davis,director_election,management
+HON-2026-AM,1e,Election of Directors: Deborah Flint,director_election,management
+HON-2026-AM,1f,Election of Directors: Vimal Kapur,director_election,management
+HON-2026-AM,1g,Election of Directors: Michael W. Lamach,director_election,management
+HON-2026-AM,1h,Election of Directors: Grace D. Lieblein,director_election,management
+HON-2026-AM,1i,Election of Directors: Indra K. Nooyi,director_election,management
+HON-2026-AM,1j,Election of Directors: Marc Steinberg,director_election,management
+HON-2026-AM,1k,Election of Directors: Robin Watson,director_election,management
+HON-2026-AM,1l,Election of Directors: Stephen Williamson,director_election,management
+HON-2026-AM,2,Advisory Vote to Approve Executive Compensation,say_on_pay,management
+HON-2026-AM,3,Approval of Independent Accountants,auditor,management
+HON-2026-AM,4,Reverse Stock Split Proposal,charter_or_bylaw_amendment,management
+HON-2026-AM,5,Shareowner Proposal — Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+IBM-2024-AM,1a,Election of Directors for a Term of One Year: Marianne C. Brown,director_election,management
+IBM-2024-AM,1b,Election of Directors for a Term of One Year: Thomas Buberl,director_election,management
+IBM-2024-AM,1c,Election of Directors for a Term of One Year: David N. Farr,director_election,management
+IBM-2024-AM,1d,Election of Directors for a Term of One Year: Alex Gorsky,director_election,management
+IBM-2024-AM,1e,Election of Directors for a Term of One Year: Michelle J. Howard,director_election,management
+IBM-2024-AM,1f,Election of Directors for a Term of One Year: Arvind Krishna,director_election,management
+IBM-2024-AM,1g,Election of Directors for a Term of One Year: Andrew N. Liveris,director_election,management
+IBM-2024-AM,1h,Election of Directors for a Term of One Year: F. William McNabb III,director_election,management
+IBM-2024-AM,1i,Election of Directors for a Term of One Year: Michael Miebach,director_election,management
+IBM-2024-AM,1j,Election of Directors for a Term of One Year: Martha E. Pollack,director_election,management
+IBM-2024-AM,1k,Election of Directors for a Term of One Year: Peter R. Voser,director_election,management
+IBM-2024-AM,1l,Election of Directors for a Term of One Year: Frederick H. Waddell,director_election,management
+IBM-2024-AM,1m,Election of Directors for a Term of One Year: Alfred W. Zollar,director_election,management
+IBM-2024-AM,2,Ratification of Appointment of Independent Registered Public Accounting Firm,auditor,management
+IBM-2024-AM,3,Advisory Vote on Executive Compensation (Say on Pay),say_on_pay,management
+IBM-2024-AM,4,Stockholder Proposal Requesting a Public Report on Lobbying Activities,shareholder_proposal,shareholder
+IBM-2024-AM,5,Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities,shareholder_proposal,shareholder
+IBM-2024-AM,6,Stockholder Proposal Requesting a Right to Act by Written Consent,shareholder_proposal,shareholder
+IBM-2024-AM,7,Stockholder Proposal Requesting a Public Report on Climate Lobbying,shareholder_proposal,shareholder
+IBM-2024-AM,8,Stockholder Proposal Requesting the Adoption of Greenhouse Gas Emissions Targets,shareholder_proposal,shareholder
+IBM-2026-AM,1.01,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.02,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.03,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.04,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.05,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.06,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.07,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.08,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.09,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.10,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.11,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.12,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,1.13,Election of directors for a term of one year,director_election,management
+IBM-2026-AM,2,Ratification of appointment of independent registered public accounting firm,auditor,management
+IBM-2026-AM,3,Advisory vote on executive compensation (Say on Pay),say_on_pay,management
+IBM-2026-AM,4,Approval of 2026 long-term performance plan,equity_plan,management
+IBM-2026-AM,5,Stockholder proposal requesting a change to IBM’s outside director stock ownership guidelines,shareholder_proposal,shareholder
+IBM-2026-AM,6,Stockholder proposal requesting a right to act by written consent,shareholder_proposal,shareholder
+IBM-2026-AM,7,Stockholder proposal requesting a report on AI bias,shareholder_proposal,shareholder
+IBM-2026-AM,8,Stockholder proposal requesting a report on discrimination in charitable support,shareholder_proposal,shareholder
+MA-2025-AM,1.01,Election of directors: Merit E. Janow,director_election,management
+MA-2025-AM,1.02,Election of directors: Candido Bracher,director_election,management
+MA-2025-AM,1.03,Election of directors: Richard K. Davis,director_election,management
+MA-2025-AM,1.04,Election of directors: Julius Genachowski,director_election,management
+MA-2025-AM,1.05,Election of directors: Choon Phong Goh,director_election,management
+MA-2025-AM,1.06,Election of directors: Oki Matsumoto,director_election,management
+MA-2025-AM,1.07,Election of directors: Michael Miebach,director_election,management
+MA-2025-AM,1.08,Election of directors: Youngme Moon,director_election,management
+MA-2025-AM,1.09,Election of directors: Rima Qureshi,director_election,management
+MA-2025-AM,1.10,Election of directors: Gabrielle Sulzberger,director_election,management
+MA-2025-AM,1.11,Election of directors: Harit Talwar,director_election,management
+MA-2025-AM,1.12,Election of directors: Lance Uggla,director_election,management
+MA-2025-AM,2,Advisory approval of Mastercard’s executive compensation,say_on_pay,management
+MA-2025-AM,3,Ratification of the appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for Mastercard for 2025,auditor,management
+MA-2025-AM,4,Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to limit liability of officers as permitted by Delaware law,charter_or_bylaw_amendment,management
+MA-2025-AM,5,Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to remove the Industry Director concept,charter_or_bylaw_amendment,management
+MA-2025-AM,6,Approval of an amendment to Mastercard’s Amended and Restated Certificate of Incorporation to implement other miscellaneous changes,charter_or_bylaw_amendment,management
+MA-2025-AM,7,Consideration of a stockholder proposal requesting a racial equity audit report,shareholder_proposal,shareholder
+MA-2025-AM,8,Consideration of a stockholder proposal requesting a report on affirmative action risks,shareholder_proposal,shareholder
+MA-2026-AM,1.01,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.02,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.03,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.04,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.05,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.06,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.07,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.08,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.09,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.10,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,1.11,Election of the 11 nominees named in this proxy statement to serve on Mastercard’s Board of Directors,director_election,management
+MA-2026-AM,2,Advisory approval of Mastercard’s executive compensation,say_on_pay,management
+MA-2026-AM,3,Ratification of the appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for Mastercard for 2026,auditor,management
+MA-2026-AM,4,Consideration of a stockholder proposal regarding shareholder right to act by written consent,shareholder_proposal,shareholder
+MA-2026-AM,5,Consideration of a stockholder proposal to adopt cumulative voting for the election of directors,shareholder_proposal,shareholder
+MCD-2026-AM,1a,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Anthony Capuano,director_election,management
+MCD-2026-AM,1b,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Kareem Daniel,director_election,management
+MCD-2026-AM,1c,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Lloyd Dean,director_election,management
+MCD-2026-AM,1d,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Catherine Engelbert,director_election,management
+MCD-2026-AM,1e,"Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: James Farley, Jr",director_election,management
+MCD-2026-AM,1f,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Margaret Georgiadis,director_election,management
+MCD-2026-AM,1g,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Michael Hsu,director_election,management
+MCD-2026-AM,1h,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Christopher Kempczinski,director_election,management
+MCD-2026-AM,1i,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Jennifer Taubert,director_election,management
+MCD-2026-AM,1j,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Paul Walsh,director_election,management
+MCD-2026-AM,1k,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Amy Weaver,director_election,management
+MCD-2026-AM,1l,Election of 12 Directors to serve until the Company's 2027 Annual Shareholders’ Meeting and until their successors have been elected and qualified: Miles White,director_election,management
+MCD-2026-AM,2,Advisory Vote to Approve Executive Compensation.,say_on_pay,management
+MCD-2026-AM,3,Advisory Vote to Ratify the Appointment of Ernst & Young LLP as Independent Auditor for 2026.,auditor,management
+MCD-2026-AM,4,Advisory Vote to Adopt Policy for an Independent Chair.,shareholder_proposal,shareholder
+MCD-2026-AM,5,Advisory Vote on Shareholders' Right to Act by Written Consent.,shareholder_proposal,shareholder
+MRK-2024-AM,1a,"Douglas M. Baker, Jr.",director_election,management
+MRK-2024-AM,1b,Mary Ellen Coe,director_election,management
+MRK-2024-AM,1c,Pamela J. Craig,director_election,management
+MRK-2024-AM,1d,Robert M. Davis,director_election,management
+MRK-2024-AM,1e,Thomas H. Glocer,director_election,management
+MRK-2024-AM,1f,"Risa J. Lavizzo-Mourey, M.D.",director_election,management
+MRK-2024-AM,1g,"Stephen L. Mayo, Ph.D.",director_election,management
+MRK-2024-AM,1h,"Paul B. Rothman, M.D.",director_election,management
+MRK-2024-AM,1i,Patricia F. Russo,director_election,management
+MRK-2024-AM,1j,"Christine E. Seidman, M.D.",director_election,management
+MRK-2024-AM,1k,Inge G. Thulin,director_election,management
+MRK-2024-AM,1l,Kathy J. Warden,director_election,management
+MRK-2024-AM,2,Non-Binding Advisory Vote to Approve the Compensation of Our Named Executive Officers,say_on_pay,management
+MRK-2024-AM,3,Ratification of Appointment of Independent Registered Public Accounting Firm for 2024,auditor,management
+MRK-2024-AM,4,Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+MRK-2024-AM,5,Shareholder Proposal Regarding Government Censorship Transparency Report,shareholder_proposal,shareholder
+MRK-2024-AM,6,Shareholder Proposal Regarding a Report on Respecting Workforce Civil Liberties,shareholder_proposal,shareholder
+NFLX-2025-AM,1a,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Richard Barton,director_election,management
+NFLX-2025-AM,1b,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Mathias Döpfner,director_election,management
+NFLX-2025-AM,1c,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Reed Hastings,director_election,management
+NFLX-2025-AM,1d,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Jay Hoag,director_election,management
+NFLX-2025-AM,1e,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Leslie Kilgore,director_election,management
+NFLX-2025-AM,1f,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Strive Masiyiwa,director_election,management
+NFLX-2025-AM,1g,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Ann Mather,director_election,management
+NFLX-2025-AM,1h,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Greg Peters,director_election,management
+NFLX-2025-AM,1i,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Ambassador Susan Rice,director_election,management
+NFLX-2025-AM,1j,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Ted Sarandos,director_election,management
+NFLX-2025-AM,1k,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Brad Smith,director_election,management
+NFLX-2025-AM,1l,To elect twelve directors to hold office until the 2026 Annual Meeting of Stockholders. Nominee: Anne Sweeney,director_election,management
+NFLX-2025-AM,2,Ratification of appointment of independent registered public accounting firm.,auditor,management
+NFLX-2025-AM,3,Advisory approval of named executive officer compensation.,say_on_pay,management
+NFLX-2025-AM,4,"Stockholder proposal entitled, “Issue a Climate Transition Plan,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2025-AM,5,"Stockholder proposal entitled, “Proposal 5 - Proposal that Won 45% NFLX Shareholder Support,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2025-AM,6,"Stockholder proposal entitled, “Amend the Code of Ethics to enhance policies on non-discrimination, anti-harassment, and whistleblower protection,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2025-AM,7,"Stockholder proposal entitled, “Affirmative Action Risks,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2025-AM,8,"Stockholder proposal entitled, “Report on Charitable Giving,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2026-AM,1a,Richard Barton,director_election,management
+NFLX-2026-AM,1b,Mathias Döpfner,director_election,management
+NFLX-2026-AM,1c,Jay Hoag,director_election,management
+NFLX-2026-AM,1d,Leslie Kilgore,director_election,management
+NFLX-2026-AM,1e,Strive Masiyiwa,director_election,management
+NFLX-2026-AM,1f,Ann Mather,director_election,management
+NFLX-2026-AM,1g,Elinor Mertz,director_election,management
+NFLX-2026-AM,1h,Greg Peters,director_election,management
+NFLX-2026-AM,1i,Ambassador Susan Rice,director_election,management
+NFLX-2026-AM,1j,Ted Sarandos,director_election,management
+NFLX-2026-AM,1k,Brad Smith,director_election,management
+NFLX-2026-AM,1l,Anne Sweeney,director_election,management
+NFLX-2026-AM,2,Ratification of appointment of independent registered public accounting firm.,auditor,management
+NFLX-2026-AM,3,Advisory approval of named executive officer compensation.,say_on_pay,management
+NFLX-2026-AM,4,"Stockholder proposal entitled, “Proposal 4 - Shareholder Right to Act by Written Consent,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2026-AM,5,"Stockholder proposal entitled, “ESG ROI Report,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2026-AM,6,"Stockholder proposal entitled, “Report on Politicized Brand Misalignment,” if properly presented at the meeting.",shareholder_proposal,shareholder
+NFLX-2026-AM,7,"Stockholder proposal entitled, “Adopt Cumulative Voting,” if properly presented at the meeting.",shareholder_proposal,shareholder
+T-2026-AM,1-01,Election of Directors: 01 - Kelly J. Grier,director_election,management
+T-2026-AM,1-02,Election of Directors: 02 - William E. Kennard,director_election,management
+T-2026-AM,1-03,Election of Directors: 03 - Stephen J. Luczo,director_election,management
+T-2026-AM,1-04,Election of Directors: 04 - Marissa A. Mayer,director_election,management
+T-2026-AM,1-05,Election of Directors: 05 - Michael B. McCallister,director_election,management
+T-2026-AM,1-06,Election of Directors: 06 - Beth E. Mooney,director_election,management
+T-2026-AM,1-07,Election of Directors: 07 - Matthew K. Rose,director_election,management
+T-2026-AM,1-08,Election of Directors: 08 - John T. Stankey,director_election,management
+T-2026-AM,1-09,Election of Directors: 09 - Cynthia B. Taylor,director_election,management
+T-2026-AM,1-10,Election of Directors: 10 - Luis A. Ubiñas,director_election,management
+T-2026-AM,2,Ratification of the Appointment of Ernst & Young LLP as Independent Auditors,auditor,management
+T-2026-AM,3,Advisory Approval of Executive Compensation,say_on_pay,management
+T-2026-AM,4,Approve Amendment to Restated Certificate of Incorporation to Provide for Officer Exculpation,charter_or_bylaw_amendment,management
+T-2026-AM,5,Approve 2026 Incentive Plan,equity_plan,management
+T-2026-AM,6,Approve Stock Purchase and Deferral Plan,equity_plan,management
+T-2026-AM,7,Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+T-2026-AM,8,EEO-1 Report Disclosure Policy,shareholder_proposal,shareholder
+URI-2025-AM,1a,Julie M. Heuer Brandt,director_election,management
+URI-2025-AM,1b,Marc A. Bruno,director_election,management
+URI-2025-AM,1c,Larry D. De Shon,director_election,management
+URI-2025-AM,1d,Matthew J. Flannery,director_election,management
+URI-2025-AM,1e,Kim Harris Jones,director_election,management
+URI-2025-AM,1f,Terri L. Kelly,director_election,management
+URI-2025-AM,1g,Michael J. Kneeland,director_election,management
+URI-2025-AM,1h,Francisco J. Lopez-Balboa,director_election,management
+URI-2025-AM,1i,Gracia C. Martore,director_election,management
+URI-2025-AM,1j,Shiv Singh,director_election,management
+URI-2025-AM,2,Ratification of Appointment of Public Accounting Firm,auditor,management
+URI-2025-AM,3,Advisory Approval of Executive Compensation,say_on_pay,management
+URI-2025-AM,4,Stockholder Proposal to Improve Shareholder Written Consent,shareholder_proposal,shareholder
+VRSK-2026-AM,1a,"Election of Directors — 1a. Jeffrey Dailey (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1b,"Election of Directors — 1b. Bruce Hansen (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1c,"Election of Directors — 1c. Gregory Hendrick (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1d,"Election of Directors — 1d. Samuel G. Liss (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1e,"Election of Directors — 1e. Pradip K. Patiath (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1f,"Election of Directors — 1f. Christopher J. Perry (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1g,"Election of Directors — 1g. Sabra R. Purtill (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1h,"Election of Directors — 1h. Lee M. Shavel (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1i,"Election of Directors — 1i. Olumide Soroye (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1j,"Election of Directors — 1j. Kimberly S. Stevenson (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,1k,"Election of Directors — 1k. Therese M. Vaughan (DEF 14A Notice: ""Elect eleven (11) members of the Board of Directors to serve one-year terms;"")",director_election,management
+VRSK-2026-AM,2,"Approve the compensation of the Company’s named executive officers on an advisory, non-binding basis (“Say-on-Pay”);",say_on_pay,management
+VRSK-2026-AM,3,"Ratify the appointment of Deloitte & Touche LLP as independent auditor for the year ending December 31, 2026;",auditor,management
+VRSK-2026-AM,4,"To vote on a shareholder proposal, if properly presented at the meeting. (Item heading: “Shareholder Right to Act by Written Consent”)",shareholder_proposal,shareholder
+VRSN-2025-AM,1.01,Election of Eight Directors Named in the Proxy Statement — D. James Bidzos,director_election,management
+VRSN-2025-AM,1.02,Election of Eight Directors Named in the Proxy Statement — Courtney D. Armstrong,director_election,management
+VRSN-2025-AM,1.03,Election of Eight Directors Named in the Proxy Statement — Yehuda Ari Buchalter,director_election,management
+VRSN-2025-AM,1.04,Election of Eight Directors Named in the Proxy Statement — Kathleen A. Cote,director_election,management
+VRSN-2025-AM,1.05,Election of Eight Directors Named in the Proxy Statement — Thomas F. Frist III,director_election,management
+VRSN-2025-AM,1.06,Election of Eight Directors Named in the Proxy Statement — Jamie S. Gorelick,director_election,management
+VRSN-2025-AM,1.07,Election of Eight Directors Named in the Proxy Statement — Debra W. McCann,director_election,management
+VRSN-2025-AM,1.08,Election of Eight Directors Named in the Proxy Statement — Timothy Tomlinson,director_election,management
+VRSN-2025-AM,2,Advisory Vote to Approve Executive Compensation,say_on_pay,management
+VRSN-2025-AM,3,Ratification of Selection of KPMG LLP as Independent Registered Public Accounting Firm for 2025,auditor,management
+VRSN-2025-AM,4,Approval of an Amendment to the Company’s Restated Certificate of Incorporation to Limit the Liability of Certain Officers as Permitted by Delaware Law.,charter_or_bylaw_amendment,management
+VRSN-2025-AM,5,Stockholder Proposal to Permit Stockholder Action by Written Consent,shareholder_proposal,shareholder
+V-2026-AM,1a,Elect the eleven director nominees named in this proxy statement. — Lloyd A. Carney,director_election,management
+V-2026-AM,1b,Elect the eleven director nominees named in this proxy statement. — Kermit R. Crawford,director_election,management
+V-2026-AM,1c,Elect the eleven director nominees named in this proxy statement. — Francisco Javier Fernández-Carbajal,director_election,management
+V-2026-AM,1d,Elect the eleven director nominees named in this proxy statement. — Teri L. List,director_election,management
+V-2026-AM,1e,Elect the eleven director nominees named in this proxy statement. — John F. Lundgren,director_election,management
+V-2026-AM,1f,Elect the eleven director nominees named in this proxy statement. — Ryan McInerney,director_election,management
+V-2026-AM,1g,Elect the eleven director nominees named in this proxy statement. — Denise M. Morrison,director_election,management
+V-2026-AM,1h,Elect the eleven director nominees named in this proxy statement. — Pamela Murphy,director_election,management
+V-2026-AM,1i,Elect the eleven director nominees named in this proxy statement. — William Ready,director_election,management
+V-2026-AM,1j,Elect the eleven director nominees named in this proxy statement. — Linda J. Rendle,director_election,management
+V-2026-AM,1k,"Elect the eleven director nominees named in this proxy statement. — Maynard G. Webb, Jr.",director_election,management
+V-2026-AM,2,"Approve, on an advisory basis, the compensation paid to our named executive officers.",say_on_pay,management
+V-2026-AM,3,Ratify the appointment of KPMG LLP as our independent registered public accounting firm for fiscal year 2026.,auditor,management
+V-2026-AM,4,Approve amendments to our Eighth Restated Certificate of Incorporation to limit officer liability as permitted by Delaware law.,charter_or_bylaw_amendment,management
+V-2026-AM,5,Shareholder Proposal Requesting the Board of Directors to Adopt a Policy for an Independent Chair,shareholder_proposal,shareholder
+V-2026-AM,6,Shareholder Proposal on Shareholder Right to Act by Written Consent,shareholder_proposal,shareholder
+V-2026-AM,7,Shareholder Proposal on Report on Online Sexual Exploitation,shareholder_proposal,shareholder
+V-2026-AM,8,Shareholder Proposal on Inclusion ROI Audit,shareholder_proposal,shareholder
+ZTS-2025-AM,1.01,Election of Directors,director_election,management
+ZTS-2025-AM,1.02,Election of Directors,director_election,management
+ZTS-2025-AM,1.03,Election of Directors,director_election,management
+ZTS-2025-AM,1.04,Election of Directors,director_election,management
+ZTS-2025-AM,1.05,Election of Directors,director_election,management
+ZTS-2025-AM,1.06,Election of Directors,director_election,management
+ZTS-2025-AM,1.07,Election of Directors,director_election,management
+ZTS-2025-AM,1.08,Election of Directors,director_election,management
+ZTS-2025-AM,1.09,Election of Directors,director_election,management
+ZTS-2025-AM,1.10,Election of Directors,director_election,management
+ZTS-2025-AM,1.11,Election of Directors,director_election,management
+ZTS-2025-AM,1.12,Election of Directors,director_election,management
+ZTS-2025-AM,2,Advisory Vote to Approve Our Executive Compensation (“Say on Pay”),say_on_pay,management
+ZTS-2025-AM,3,Ratification of Appointment of KPMG as Our Independent Registered Public Accounting Firm for 2025,auditor,management
+ZTS-2025-AM,4,Shareholder Proposal Regarding a Special Shareholder Meeting Improvement,shareholder_proposal,shareholder
